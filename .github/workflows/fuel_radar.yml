@@ -1,24 +1,24 @@
 # .github/workflows/fuel-radar.yml
 #
-# Esegue ogni giorno alle 08:45 (dopo il refresh MIMIT delle 08:30)
+# Esegue ogni giorno alle 08:45 UTC (09:45 CET / 10:45 CEST)
 # + manualmente dal tab "Actions" su GitHub
 #
 # Secret da configurare in Settings → Secrets → Actions:
 #   TELEGRAM_TOKEN   → token del bot (da @BotFather)
-#   TELEGRAM_CHAT_ID → il tuo chat ID (da @userinfobot)
-#
-# Opzionale:
-#   SOGLIA_DIESEL    → es. "1.90" (default: nessuna soglia, manda sempre report)
+#   TELEGRAM_CHAT_ID → il tuo chat ID numerico
 
 name: Fuel Radar — MIMIT Daily
 
 on:
   schedule:
-    - cron: "45 8 * * *"   # 08:45 UTC = 09:45 ora italiana (CET) / 10:45 (CEST)
-  workflow_dispatch:        # permette esecuzione manuale
+    - cron: "45 8 * * *"
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # elimina warning Node.js 20
 
 permissions:
-  contents: write           # necessario per push su gh-pages
+  contents: write
 
 jobs:
   update:
@@ -43,13 +43,18 @@ jobs:
           SOGLIA_DIESEL:    ${{ secrets.SOGLIA_DIESEL }}
         run: python scripts/process_mimit.py
 
+      - name: Verifica output generato
+        run: |
+          echo "=== File in output/ ==="
+          ls -lh output/
+          echo "=== Anteprima JSON ==="
+          head -c 500 output/fuel-data.json
+
       - name: Deploy JSON su GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
           publish_branch: gh-pages
-          force_orphan: false
           keep_files: true
-          # CORS header per permettere fetch dall'artifact Claude
           enable_jekyll: false
