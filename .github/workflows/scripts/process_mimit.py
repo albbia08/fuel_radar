@@ -58,43 +58,70 @@ def detect_sep(text: str) -> str:
     return "|" if "|" in first else ";"
 
 # ── Parse ────────────────────────────────────────────────────────────
+def normalize_col(c: str) -> str:
+    """Normalizza nome colonna: lowercase, strip, no spazi."""
+    return c.strip().lower().replace(" ", "_").replace("'", "").replace("'", "")
+
+def map_col(cols: list[str], *keywords) -> str | None:
+    """Trova la prima colonna che contiene almeno una keyword."""
+    for kw in keywords:
+        for c in cols:
+            if kw in c:
+                return c
+    return None
+
 def parse_anagrafica(text: str) -> pd.DataFrame:
     sep = detect_sep(text)
     log.info("Anagrafica sep='%s'", sep)
 
-    df = pd.read_csv(
-        StringIO(text), sep=sep, dtype=str,
-        on_bad_lines="skip", encoding_errors="replace"
-    )
-    df.columns = [c.strip().lower().replace(" ", "_") for c in df.columns]
+    # Prova a leggere il CSV; se fallisce prova senza header
+    try:
+        df = pd.read_csv(StringIO(text), sep=sep, dtype=str,
+                         on_bad_lines="skip", encoding_errors="replace")
+    except Exception as e:
+        log.error("Errore lettura anagrafica CSV: %s", e)
+        sys.exit(1)
 
-    # Mappa nomi colonne (il MIMIT ha cambiato nomi nel tempo)
+    df.columns = [normalize_col(c) for c in df.columns]
+    log.info("Colonne anagrafica trovate: %s", list(df.columns))
+
+    # Mapping flessibile — copre variazioni storiche del MIMIT
     rename = {}
-    for col in df.columns:
-        if "idimpianto" in col or col == "id": rename[col] = "id"
-        elif "gestore"   in col:               rename[col] = "gestore"
-        elif "bandiera"  in col:               rename[col] = "bandiera"
-        elif "tipo"      in col:               rename[col] = "tipo"
-        elif "nome"      in col:               rename[col] = "nome"
-        elif "indirizzo" in col:               rename[col] = "indirizzo"
-        elif "comune"    in col:               rename[col] = "comune"
-        elif "provincia" in col:               rename[col] = "prov"
-        elif "latit"     in col:               rename[col] = "lat"
-        elif "longit"    in col:               rename[col] = "lon"
-    df = df.rename(columns=rename)
+    cols = list(df.columns)
+    c_id  = map_col(cols, "idimpianto", "id_impianto", "id")
+    c_lat = map_col(cols, "latit", "lat")
+    c_lon = map_col(cols, "longit", "lon")
+    c_ges = map_col(cols, "gestore")
+    c_ban = map_col(cols, "bandiera")
+    c_nom = map_col(cols, "nome_impianto", "nomeimpianto", "nome")
+    c_ind = map_col(cols, "indirizzo")
+    c_com = map_col(cols, "comune")
+    c_pro = map_col(cols, "provincia", "prov")
 
-    for c in ["id", "lat", "lon"]:
-        if c not in df.columns:
-            log.error("Colonna '%s' non trovata. Colonne: %s", c, list(df.columns))
-            sys.exit(1)
+    if not c_id:
+        log.error("Colonna ID non trovata. Colonne: %s", cols)
+        sys.exit(1)
+    if not c_lat or not c_lon:
+        log.error("Colonne lat/lon non trovate. Colonne: %s", cols)
+        sys.exit(1)
+
+    if c_id:  rename[c_id]  = "id"
+    if c_lat: rename[c_lat] = "lat"
+    if c_lon: rename[c_lon] = "lon"
+    if c_ges: rename[c_ges] = "gestore"
+    if c_ban: rename[c_ban] = "bandiera"
+    if c_nom: rename[c_nom] = "nome"
+    if c_ind: rename[c_ind] = "indirizzo"
+    if c_com: rename[c_com] = "comune"
+    if c_pro: rename[c_pro] = "prov"
+    df = df.rename(columns=rename)
 
     df["lat"] = pd.to_numeric(df["lat"].str.replace(",", "."), errors="coerce")
     df["lon"] = pd.to_numeric(df["lon"].str.replace(",", "."), errors="coerce")
     df["id"]  = pd.to_numeric(df["id"], errors="coerce")
     df = df.dropna(subset=["id", "lat", "lon"])
-    df["id"] = df["id"].astype(int)
+    df["id"]  = df["id"].astype(int)
 
-    # Filtra per raggio
     df["dist"] = df.apply(lambda r: dist_km(CENTRO_LAT, CENTRO_LON, r["lat"], r["lon"]), axis=1)
     df = df[df["dist"] <= RAGGIO_KM].copy()
     log.info("Impianti nel raggio %.0f km: %d", RAGGIO_KM, len(df))
@@ -104,24 +131,40 @@ def parse_prezzi(text: str, id_set: set) -> pd.DataFrame:
     sep = detect_sep(text)
     log.info("Prezzi sep='%s'", sep)
 
-    df = pd.read_csv(
-        StringIO(text), sep=sep, dtype=str,
-        on_bad_lines="skip", encoding_errors="replace"
-    )
-    df.columns = [c.strip().lower().replace(" ", "_") for c in df.columns]
+    try:
+        df = pd.read_csv(StringIO(text), sep=sep, dtype=str,
+                         on_bad_lines="skip", encoding_errors="replace")
+    except Exception as e:
+        log.error("Errore lettura prezzi CSV: %s", e)
+        sys.exit(1)
 
+    df.columns = [normalize_col(c) for c in df.columns]
+    log.info("Colonne prezzi trovate: %s", list(df.columns))
+
+    cols = list(df.columns)
     rename = {}
-    for col in df.columns:
-        if "idimpianto" in col or col == "id": rename[col] = "id"
-        elif "desccarb" in col or "carb" in col: rename[col] = "carburante"
-        elif "prezzo"   in col:                  rename[col] = "prezzo"
-        elif "self"     in col:                  rename[col] = "self_service"
-        elif "dtcomu"   in col or "data" in col: rename[col] = "data"
+    c_id   = map_col(cols, "idimpianto", "id_impianto", "id")
+    c_carb = map_col(cols, "desccarburante", "desccarb", "carburante", "carb", "desc")
+    c_prz  = map_col(cols, "prezzo")
+    c_self = map_col(cols, "self_service", "self")
+    c_data = map_col(cols, "dtcomu", "datacomunicazione", "data")
+
+    if not c_id or not c_carb or not c_prz:
+        log.error("Colonne prezzi mancanti. id=%s carb=%s prezzo=%s. Colonne: %s",
+                  c_id, c_carb, c_prz, cols)
+        sys.exit(1)
+
+    if c_id:   rename[c_id]   = "id"
+    if c_carb: rename[c_carb] = "carburante"
+    if c_prz:  rename[c_prz]  = "prezzo"
+    if c_self: rename[c_self] = "self_service"
+    if c_data: rename[c_data] = "data"
     df = df.rename(columns=rename)
 
-    df["id"]     = pd.to_numeric(df.get("id", pd.Series()), errors="coerce")
-    df["prezzo"] = pd.to_numeric(df.get("prezzo", pd.Series()).astype(str).str.replace(",", "."), errors="coerce")
-    df["self"]   = pd.to_numeric(df.get("self_service", pd.Series(dtype=int)), errors="coerce").fillna(1).astype(int)
+    df["id"]     = pd.to_numeric(df["id"], errors="coerce")
+    df["prezzo"] = pd.to_numeric(df["prezzo"].str.replace(",", "."), errors="coerce")
+    df["self"]   = pd.to_numeric(df.get("self_service", pd.Series(["1"]*len(df))),
+                                  errors="coerce").fillna(1).astype(int)
 
     df = df.dropna(subset=["id", "prezzo"])
     df["id"] = df["id"].astype(int)
@@ -254,6 +297,14 @@ def main():
     except Exception as e:
         log.error("Download fallito: %s", e)
         sys.exit(1)
+
+    # 1b. Diagnostica formato CSV (prime 3 righe)
+    log.info("=== ANAGRAFICA prime 3 righe ===")
+    for line in ana_text.split("\n")[:3]:
+        log.info("  %s", line[:200])
+    log.info("=== PREZZI prime 3 righe ===")
+    for line in prz_text.split("\n")[:3]:
+        log.info("  %s", line[:200])
 
     # 2. Parse
     df_imp = parse_anagrafica(ana_text)
