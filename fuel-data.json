@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-04-06T09:51:12.383423+00:00",
+  "aggiornato": "2026-04-07T09:48:50.043719+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -827,24 +827,6 @@
       "dist": 15.72
     },
     {
-      "id": 46140,
-      "bandiera": "bioil",
-      "nome": "Bioil",
-      "indirizzo": "via salvo d'acquisto 22/1 31030",
-      "comune": "CARBONERA",
-      "prov": "TV",
-      "lat": 45.679896,
-      "lon": 12.29605,
-      "prezzi": {
-        "Benzina_self": 1.729,
-        "Gasolio_self": 2.099,
-        "GPL_self": 0.799,
-        "Benzina speciale_self": 1.929,
-        "Gasolio speciale_self": 2.149
-      },
-      "dist": 18.4
-    },
-    {
       "id": 61518,
       "bandiera": "Q8",
       "nome": "Q8",
@@ -1044,25 +1026,6 @@
         "Gasolio_self": 2.099
       },
       "dist": 9.33
-    },
-    {
-      "id": 30464,
-      "bandiera": "Esso",
-      "nome": "TORMENA NICOLA Pieve di Soligo",
-      "indirizzo": "VIA CHISINI 123 31053",
-      "comune": "PIEVE DI SOLIGO",
-      "prov": "TV",
-      "lat": 45.895387,
-      "lon": 12.177712,
-      "prezzi": {
-        "Benzina_serv": 1.759,
-        "Benzina_self": 1.759,
-        "Gasolio_serv": 2.099,
-        "Gasolio_self": 2.099,
-        "Supreme Diesel_serv": 2.279,
-        "Supreme Diesel_self": 2.279
-      },
-      "dist": 14.7
     },
     {
       "id": 34460,
@@ -1432,6 +1395,24 @@
       "dist": 19.15
     },
     {
+      "id": 46140,
+      "bandiera": "bioil",
+      "nome": "Bioil",
+      "indirizzo": "via salvo d'acquisto 22/1 31030",
+      "comune": "CARBONERA",
+      "prov": "TV",
+      "lat": 45.679896,
+      "lon": 12.29605,
+      "prezzi": {
+        "Benzina_self": 1.749,
+        "Gasolio_self": 2.149,
+        "GPL_self": 0.799,
+        "Benzina speciale_self": 1.929,
+        "Gasolio speciale_self": 2.199
+      },
+      "dist": 18.4
+    },
+    {
       "id": 52517,
       "bandiera": "Pompe Bianche",
       "nome": "GPOL MARENO",
@@ -1633,26 +1614,6 @@
       "dist": 5.06
     },
     {
-      "id": 36253,
-      "bandiera": "Sarni Oil",
-      "nome": "CERVADA EST",
-      "indirizzo": "Autostrada A27 MESTRE-BELLUNO, Km. 49+700, dir. nord - 31015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.942436,
-      "lon": 12.304508,
-      "prezzi": {
-        "Benzina_serv": 1.979,
-        "Benzina_self": 1.759,
-        "Gasolio_serv": 2.388,
-        "Gasolio_self": 2.168,
-        "GPL_serv": 0.899,
-        "Gasolio speciale_serv": 2.498,
-        "Gasolio speciale_self": 2.398
-      },
-      "dist": 11.84
-    },
-    {
       "id": 22355,
       "bandiera": "Q8",
       "nome": "BRUGNERA VIA I.SANTAROSSA 2-LOC.MARON",
@@ -1829,6 +1790,25 @@
         "Supreme Diesel_self": 2.309
       },
       "dist": 16.42
+    },
+    {
+      "id": 30464,
+      "bandiera": "Esso",
+      "nome": "TORMENA NICOLA Pieve di Soligo",
+      "indirizzo": "VIA CHISINI 123 31053",
+      "comune": "PIEVE DI SOLIGO",
+      "prov": "TV",
+      "lat": 45.895387,
+      "lon": 12.177712,
+      "prezzi": {
+        "Benzina_serv": 1.779,
+        "Benzina_self": 1.779,
+        "Gasolio_serv": 2.179,
+        "Gasolio_self": 2.179,
+        "Supreme Diesel_serv": 2.299,
+        "Supreme Diesel_self": 2.299
+      },
+      "dist": 14.7
     },
     {
       "id": 12698,
@@ -2915,7 +2895,7 @@
     }
   ],
   "meta": {
-    "totale": 166,
+    "totale": 165,
     "fonte": "MIMIT Osservaprezzi",
     "licenza": "IODL 2.0"
   }
