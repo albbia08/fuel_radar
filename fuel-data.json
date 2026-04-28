@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-04-27T10:34:28.320509+00:00",
+  "aggiornato": "2026-04-28T10:34:25.115214+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -25,6 +25,38 @@
       "dist": 10.93
     },
     {
+      "id": 58636,
+      "bandiera": "Loro",
+      "nome": "LORO F.LLI SPA - CODOGNE'",
+      "indirizzo": "ROMA 165 31013",
+      "comune": "CODOGNÃ",
+      "prov": "TV",
+      "lat": 45.866125,
+      "lon": 12.443334,
+      "prezzi": {
+        "Benzina_serv": 1.729,
+        "Benzina_self": 1.729,
+        "Gasolio_serv": 1.999,
+        "Gasolio_self": 1.999
+      },
+      "dist": 7.7
+    },
+    {
+      "id": 60864,
+      "bandiera": "Retitalia",
+      "nome": "RETITALIA 80104 - GAIARINE",
+      "indirizzo": "Via Vizza 3/A 31018",
+      "comune": "GAIARINE",
+      "prov": "TV",
+      "lat": 45.882575,
+      "lon": 12.487321,
+      "prezzi": {
+        "Benzina_self": 1.709,
+        "Gasolio_self": 1.999
+      },
+      "dist": 11.55
+    },
+    {
       "id": 56567,
       "bandiera": "Shell",
       "nome": "AREA DI SERVIO SHELL DI URBAN GIANNI",
@@ -44,6 +76,21 @@
         "Diesel Shell V Power_self": 2.249
       },
       "dist": 17.17
+    },
+    {
+      "id": 60311,
+      "bandiera": "Retitalia",
+      "nome": "RETITALIA 80001 - SAN VENDEMIANO",
+      "indirizzo": "Via Liberazione 153  31020",
+      "comune": "SAN VENDEMIANO",
+      "prov": "TV",
+      "lat": 45.876703,
+      "lon": 12.338917,
+      "prezzi": {
+        "Benzina_self": 1.709,
+        "Gasolio_self": 1.999
+      },
+      "dist": 4.08
     },
     {
       "id": 8893,
@@ -82,6 +129,36 @@
       "dist": 11.61
     },
     {
+      "id": 60981,
+      "bandiera": "Agip Eni",
+      "nome": "ENI 13642 CONEGLIANO",
+      "indirizzo": "SS51 via menare' 181",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.939729,
+      "lon": 12.322038,
+      "prezzi": {
+        "Benzina_self": 1.719,
+        "Gasolio_self": 2.009
+      },
+      "dist": 11.21
+    },
+    {
+      "id": 47012,
+      "bandiera": "Esso",
+      "nome": "ESSO CORDIGNANO",
+      "indirizzo": "13 Pontebbana, Km. 62 + 915, VENEZIA - 31016",
+      "comune": "CORDIGNANO",
+      "prov": "TV",
+      "lat": 45.943405,
+      "lon": 12.451949,
+      "prezzi": {
+        "Benzina_self": 1.719,
+        "Gasolio_self": 2.009
+      },
+      "dist": 13.83
+    },
+    {
       "id": 30464,
       "bandiera": "Esso",
       "nome": "TORMENA NICOLA Pieve di Soligo",
@@ -99,6 +176,38 @@
         "Supreme Diesel_self": 2.279
       },
       "dist": 14.7
+    },
+    {
+      "id": 56574,
+      "bandiera": "Esso",
+      "nome": "04813 ESSO VITTORIO VENETO",
+      "indirizzo": "Via G. Matteotti 122 31029",
+      "comune": "VITTORIO VENETO",
+      "prov": "TV",
+      "lat": 45.973002,
+      "lon": 12.310181,
+      "prezzi": {
+        "Benzina_self": 1.719,
+        "Gasolio_self": 2.009
+      },
+      "dist": 15.02
+    },
+    {
+      "id": 14603,
+      "bandiera": "Pompe Bianche",
+      "nome": "JET+",
+      "indirizzo": "VIA DELLA VALLATA 52 31029",
+      "comune": "VITTORIO VENETO",
+      "prov": "TV",
+      "lat": 46.006749,
+      "lon": 12.277604,
+      "prezzi": {
+        "Benzina_serv": 1.756,
+        "Benzina_self": 1.718,
+        "Gasolio_serv": 2.056,
+        "Gasolio_self": 2.018
+      },
+      "dist": 19.29
     },
     {
       "id": 61759,
@@ -295,23 +404,6 @@
       "dist": 5.52
     },
     {
-      "id": 58636,
-      "bandiera": "Loro",
-      "nome": "LORO F.LLI SPA - CODOGNE'",
-      "indirizzo": "ROMA 165 31013",
-      "comune": "CODOGNÃ",
-      "prov": "TV",
-      "lat": 45.866125,
-      "lon": 12.443334,
-      "prezzi": {
-        "Benzina_serv": 1.719,
-        "Benzina_self": 1.719,
-        "Gasolio_serv": 2.029,
-        "Gasolio_self": 2.029
-      },
-      "dist": 7.7
-    },
-    {
       "id": 5010,
       "bandiera": "Termoveneta srl",
       "nome": "Termoveneta srl (Cordignano)",
@@ -413,7 +505,7 @@
       "prezzi": {
         "Benzina_serv": 1.929,
         "Benzina_self": 1.729,
-        "Gasolio_serv": 2.299,
+        "Gasolio_serv": 2.229,
         "Gasolio_self": 2.029,
         "Blue Diesel_serv": 2.449,
         "Blue Diesel_self": 2.249
@@ -452,23 +544,6 @@
       "dist": 9.13
     },
     {
-      "id": 14603,
-      "bandiera": "Pompe Bianche",
-      "nome": "JET+",
-      "indirizzo": "VIA DELLA VALLATA 52 31029",
-      "comune": "VITTORIO VENETO",
-      "prov": "TV",
-      "lat": 46.006749,
-      "lon": 12.277604,
-      "prezzi": {
-        "Benzina_serv": 1.736,
-        "Benzina_self": 1.698,
-        "Gasolio_serv": 2.076,
-        "Gasolio_self": 2.038
-      },
-      "dist": 19.29
-    },
-    {
       "id": 6487,
       "bandiera": "Q8",
       "nome": "CONEGLIANO VIA LOURDES 44",
@@ -497,21 +572,6 @@
         "Gasolio_self": 2.039
       },
       "dist": 6.47
-    },
-    {
-      "id": 60864,
-      "bandiera": "Retitalia",
-      "nome": "RETITALIA 80104 - GAIARINE",
-      "indirizzo": "Via Vizza 3/A 31018",
-      "comune": "GAIARINE",
-      "prov": "TV",
-      "lat": 45.882575,
-      "lon": 12.487321,
-      "prezzi": {
-        "Benzina_self": 1.709,
-        "Gasolio_self": 2.039
-      },
-      "dist": 11.55
     },
     {
       "id": 15214,
@@ -674,21 +734,6 @@
         "GPL_serv": 0.809
       },
       "dist": 5.06
-    },
-    {
-      "id": 60311,
-      "bandiera": "Retitalia",
-      "nome": "RETITALIA 80001 - SAN VENDEMIANO",
-      "indirizzo": "Via Liberazione 153  31020",
-      "comune": "SAN VENDEMIANO",
-      "prov": "TV",
-      "lat": 45.876703,
-      "lon": 12.338917,
-      "prezzi": {
-        "Benzina_self": 1.709,
-        "Gasolio_self": 2.039
-      },
-      "dist": 4.08
     },
     {
       "id": 36213,
@@ -932,8 +977,8 @@
       "lat": 45.957619,
       "lon": 12.350211,
       "prezzi": {
-        "Benzina_serv": 1.909,
-        "Benzina_self": 1.699,
+        "Benzina_serv": 1.919,
+        "Benzina_self": 1.709,
         "Gasolio_serv": 2.259,
         "Gasolio_self": 2.049,
         "GPL_serv": 0.799,
@@ -973,21 +1018,6 @@
       "dist": 5.37
     },
     {
-      "id": 60981,
-      "bandiera": "Agip Eni",
-      "nome": "ENI 13642 CONEGLIANO",
-      "indirizzo": "SS51 via menare' 181",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.939729,
-      "lon": 12.322038,
-      "prezzi": {
-        "Benzina_self": 1.719,
-        "Gasolio_self": 2.049
-      },
-      "dist": 11.21
-    },
-    {
       "id": 7726,
       "bandiera": "Esso",
       "nome": "ESSO",
@@ -1004,6 +1034,22 @@
         "Supreme Diesel_self": 2.199
       },
       "dist": 6.54
+    },
+    {
+      "id": 12464,
+      "bandiera": "Esso",
+      "nome": "M.C. S.a.s.",
+      "indirizzo": "VIALE ITALIA 327 31015, CONEGLIANO (TV) 327 31015",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.88683,
+      "lon": 12.320259,
+      "prezzi": {
+        "Benzina_self": 1.749,
+        "Gasolio_self": 2.049,
+        "Supreme Diesel_self": 2.169
+      },
+      "dist": 5.62
     },
     {
       "id": 61704,
@@ -1037,21 +1083,6 @@
         "Gasolio_self": 2.049
       },
       "dist": 12.74
-    },
-    {
-      "id": 47012,
-      "bandiera": "Esso",
-      "nome": "ESSO CORDIGNANO",
-      "indirizzo": "13 Pontebbana, Km. 62 + 915, VENEZIA - 31016",
-      "comune": "CORDIGNANO",
-      "prov": "TV",
-      "lat": 45.943405,
-      "lon": 12.451949,
-      "prezzi": {
-        "Benzina_self": 1.719,
-        "Gasolio_self": 2.049
-      },
-      "dist": 13.83
     },
     {
       "id": 62492,
@@ -1235,21 +1266,6 @@
         "Gasolio speciale_self": 2.149
       },
       "dist": 3.88
-    },
-    {
-      "id": 56574,
-      "bandiera": "Esso",
-      "nome": "04813 ESSO VITTORIO VENETO",
-      "indirizzo": "Via G. Matteotti 122 31029",
-      "comune": "VITTORIO VENETO",
-      "prov": "TV",
-      "lat": 45.973002,
-      "lon": 12.310181,
-      "prezzi": {
-        "Benzina_self": 1.719,
-        "Gasolio_self": 2.049
-      },
-      "dist": 15.02
     },
     {
       "id": 46331,
@@ -1675,8 +1691,8 @@
       "lat": 45.740234,
       "lon": 12.291215,
       "prezzi": {
-        "Benzina_serv": 1.829,
-        "Benzina_self": 1.679,
+        "Benzina_serv": 1.859,
+        "Benzina_self": 1.709,
         "Gasolio_serv": 2.219,
         "Gasolio_self": 2.069,
         "GPL_serv": 0.799,
@@ -2149,12 +2165,12 @@
       "lat": 45.927093,
       "lon": 12.381444,
       "prezzi": {
-        "Benzina_serv": 1.929,
+        "Benzina_serv": 1.949,
         "Benzina_self": 1.739,
-        "Gasolio_serv": 2.274,
+        "Gasolio_serv": 2.294,
         "Gasolio_self": 2.084,
         "GPL_serv": 0.822,
-        "Blue Diesel_serv": 2.374,
+        "Blue Diesel_serv": 2.394,
         "Blue Diesel_self": 2.184
       },
       "dist": 9.88
@@ -2355,7 +2371,7 @@
       "lon": 12.304508,
       "prezzi": {
         "Benzina_serv": 1.998,
-        "Benzina_self": 1.998,
+        "Benzina_self": 1.778,
         "Gasolio_serv": 2.299,
         "Gasolio_self": 2.099,
         "GPL_serv": 0.899,
@@ -2363,22 +2379,6 @@
         "Gasolio speciale_self": 2.299
       },
       "dist": 11.84
-    },
-    {
-      "id": 12464,
-      "bandiera": "Esso",
-      "nome": "M.C. S.a.s.",
-      "indirizzo": "VIALE ITALIA 327 31015, CONEGLIANO (TV) 327 31015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.88683,
-      "lon": 12.320259,
-      "prezzi": {
-        "Benzina_self": 1.759,
-        "Gasolio_self": 2.099,
-        "Supreme Diesel_self": 2.219
-      },
-      "dist": 5.62
     },
     {
       "id": 35741,
@@ -2731,7 +2731,7 @@
       "lat": 45.790864,
       "lon": 12.488017,
       "prezzi": {
-        "Benzina_serv": 1.758,
+        "Benzina_serv": 1.748,
         "Gasolio_serv": 2.058,
         "Gasolio speciale_serv": 2.208
       },
