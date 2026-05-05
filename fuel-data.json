@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-05-03T09:53:01.837599+00:00",
+  "aggiornato": "2026-05-05T10:24:12.130265+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -17,8 +17,8 @@
       "lat": 45.943175,
       "lon": 12.446271,
       "prezzi": {
-        "Benzina_serv": 1.719,
-        "Benzina_self": 1.699,
+        "Benzina_serv": 1.899,
+        "Benzina_self": 1.879,
         "Gasolio_serv": 1.999,
         "Gasolio_self": 1.979
       },
@@ -88,6 +88,23 @@
       "dist": 18.85
     },
     {
+      "id": 14603,
+      "bandiera": "Pompe Bianche",
+      "nome": "JET+",
+      "indirizzo": "VIA DELLA VALLATA 52 31029",
+      "comune": "VITTORIO VENETO",
+      "prov": "TV",
+      "lat": 46.006749,
+      "lon": 12.277604,
+      "prezzi": {
+        "Benzina_serv": 1.956,
+        "Benzina_self": 1.918,
+        "Gasolio_serv": 2.036,
+        "Gasolio_self": 1.998
+      },
+      "dist": 19.29
+    },
+    {
       "id": 11221,
       "bandiera": "Pompe Bianche",
       "nome": "Oleochimica del Piave",
@@ -114,13 +131,33 @@
       "lat": 45.679896,
       "lon": 12.29605,
       "prezzi": {
-        "Benzina_self": 1.729,
+        "Benzina_self": 1.899,
         "Gasolio_self": 1.999,
         "GPL_self": 0.799,
-        "Benzina speciale_self": 1.929,
+        "Benzina speciale_self": 1.999,
         "Gasolio speciale_self": 2.049
       },
       "dist": 18.4
+    },
+    {
+      "id": 40299,
+      "bandiera": "CARBURANTI PIAVE",
+      "nome": "CARBURANTI PIAVE   CIMETTA",
+      "indirizzo": "VIA CADORE MARE 10 31013,  CODOGNE' (TV) 10 31013",
+      "comune": "CODOGNÃ",
+      "prov": "TV",
+      "lat": 45.856159,
+      "lon": 12.418533,
+      "prezzi": {
+        "Benzina_serv": 1.879,
+        "Benzina_self": 1.879,
+        "Gasolio_serv": 1.999,
+        "Gasolio_self": 1.999,
+        "GPL_serv": 0.767,
+        "Gasolio speciale_serv": 2.299,
+        "Gasolio speciale_self": 2.299
+      },
+      "dist": 5.52
     },
     {
       "id": 58636,
@@ -166,10 +203,10 @@
       "lat": 45.876318,
       "lon": 12.313257,
       "prezzi": {
-        "Benzina_self": 1.709,
+        "Benzina_self": 1.889,
         "Gasolio_self": 1.999,
         "Metano_serv": 1.799,
-        "GPL_serv": 0.779
+        "GPL_serv": 0.829
       },
       "dist": 4.89
     },
@@ -213,7 +250,7 @@
       "lat": 45.930121,
       "lon": 12.376191,
       "prezzi": {
-        "Benzina_serv": 1.922,
+        "Benzina_serv": 2.082,
         "Benzina_self": 1.922,
         "Gasolio_serv": 2.159,
         "Gasolio_self": 1.999
@@ -235,6 +272,22 @@
         "Blue Diesel_self": 2.104
       },
       "dist": 11.64
+    },
+    {
+      "id": 10752,
+      "bandiera": "Agip Eni",
+      "nome": "FORCOLIN STEFANO",
+      "indirizzo": "VIA POSTUMIA OVEST 37 31048",
+      "comune": "SAN BIAGIO DI CALLALTA",
+      "prov": "TV",
+      "lat": 45.681992,
+      "lon": 12.359233,
+      "prezzi": {
+        "Benzina_self": 1.943,
+        "Gasolio_self": 1.999,
+        "Blue Diesel_self": 2.104
+      },
+      "dist": 17.68
     },
     {
       "id": 60311,
@@ -261,7 +314,7 @@
       "lat": 45.8673,
       "lon": 12.180828,
       "prezzi": {
-        "Benzina_self": 1.709,
+        "Benzina_self": 1.889,
         "Gasolio_self": 1.999
       },
       "dist": 13.48
@@ -276,8 +329,8 @@
       "lat": 45.774028,
       "lon": 12.256061,
       "prezzi": {
-        "Benzina_serv": 1.909,
-        "Benzina_self": 1.709,
+        "Benzina_serv": 2.109,
+        "Benzina_self": 1.909,
         "Gasolio_serv": 2.199,
         "Gasolio_self": 1.999,
         "Gasolio Premium_serv": 2.319,
@@ -316,6 +369,22 @@
       "dist": 19.36
     },
     {
+      "id": 21052,
+      "bandiera": "Agip Eni",
+      "nome": "Eni",
+      "indirizzo": "MADONNA DI LORETO 59 Y 31020",
+      "comune": "TARZO",
+      "prov": "TV",
+      "lat": 45.94016,
+      "lon": 12.243305,
+      "prezzi": {
+        "Benzina_self": 1.96,
+        "Gasolio_self": 2.004,
+        "Blue Diesel_self": 2.104
+      },
+      "dist": 13.82
+    },
+    {
       "id": 60981,
       "bandiera": "Agip Eni",
       "nome": "ENI 13642 CONEGLIANO",
@@ -340,7 +409,7 @@
       "lat": 45.943405,
       "lon": 12.451949,
       "prezzi": {
-        "Benzina_self": 1.719,
+        "Benzina_self": 1.909,
         "Gasolio_self": 2.009
       },
       "dist": 13.83
@@ -355,8 +424,8 @@
       "lat": 45.812458,
       "lon": 12.478357,
       "prezzi": {
-        "Benzina_serv": 1.699,
-        "Benzina_self": 1.699,
+        "Benzina_serv": 1.829,
+        "Benzina_self": 1.829,
         "Gasolio_serv": 2.009,
         "Gasolio_self": 2.009,
         "GPL_serv": 0.767,
@@ -386,43 +455,6 @@
       "dist": 9.73
     },
     {
-      "id": 15214,
-      "bandiera": "Pompe Bianche",
-      "nome": "SOTTANA",
-      "indirizzo": "VIA SAN ROCCO 40 31040",
-      "comune": "GIAVERA DEL MONTELLO",
-      "prov": "TV",
-      "lat": 45.785625,
-      "lon": 12.178707,
-      "prezzi": {
-        "Benzina_self": 1.729,
-        "Gasolio_self": 2.009
-      },
-      "dist": 14.68
-    },
-    {
-      "id": 48562,
-      "bandiera": "Q8",
-      "nome": "Stazione di servizio Simor",
-      "indirizzo": "248 Schiavonesca-Marosticana, Km. 70+200, lato sinistro - 31040",
-      "comune": "GIAVERA DEL MONTELLO",
-      "prov": "TV",
-      "lat": 45.791549,
-      "lon": 12.158491,
-      "prezzi": {
-        "Benzina_serv": 1.879,
-        "Benzina_self": 1.729,
-        "Gasolio_serv": 2.159,
-        "Gasolio_self": 2.009,
-        "GPL_serv": 0.799,
-        "Hi-Q Diesel_serv": 2.519,
-        "Hi-Q Diesel_self": 2.369,
-        "HiQ Perform+_serv": 2.179,
-        "HiQ Perform+_self": 2.029
-      },
-      "dist": 15.87
-    },
-    {
       "id": 48378,
       "bandiera": "Agip Eni",
       "nome": "13616 - ENI MEDUNA DI LIVENZA",
@@ -432,7 +464,7 @@
       "lat": 45.819159,
       "lon": 12.601154,
       "prezzi": {
-        "Benzina_self": 1.729,
+        "Benzina_self": 1.919,
         "Gasolio_self": 2.009
       },
       "dist": 19.56
@@ -447,8 +479,8 @@
       "lat": 45.784521,
       "lon": 12.49672,
       "prezzi": {
-        "Benzina_serv": 1.719,
-        "Benzina_self": 1.699,
+        "Benzina_serv": 1.919,
+        "Benzina_self": 1.899,
         "Gasolio_serv": 2.029,
         "Gasolio_self": 2.009
       },
@@ -486,43 +518,6 @@
         "Metano_serv": 1.498
       },
       "dist": 14.34
-    },
-    {
-      "id": 14603,
-      "bandiera": "Pompe Bianche",
-      "nome": "JET+",
-      "indirizzo": "VIA DELLA VALLATA 52 31029",
-      "comune": "VITTORIO VENETO",
-      "prov": "TV",
-      "lat": 46.006749,
-      "lon": 12.277604,
-      "prezzi": {
-        "Benzina_serv": 1.956,
-        "Benzina_self": 1.918,
-        "Gasolio_serv": 2.056,
-        "Gasolio_self": 2.018
-      },
-      "dist": 19.29
-    },
-    {
-      "id": 40299,
-      "bandiera": "CARBURANTI PIAVE",
-      "nome": "CARBURANTI PIAVE   CIMETTA",
-      "indirizzo": "VIA CADORE MARE 10 31013,  CODOGNE' (TV) 10 31013",
-      "comune": "CODOGNÃ",
-      "prov": "TV",
-      "lat": 45.856159,
-      "lon": 12.418533,
-      "prezzi": {
-        "Benzina_serv": 1.699,
-        "Benzina_self": 1.699,
-        "Gasolio_serv": 2.019,
-        "Gasolio_self": 2.019,
-        "GPL_serv": 0.767,
-        "Gasolio speciale_serv": 2.299,
-        "Gasolio speciale_self": 2.299
-      },
-      "dist": 5.52
     },
     {
       "id": 39656,
@@ -571,8 +566,8 @@
       "lat": 45.895387,
       "lon": 12.177712,
       "prezzi": {
-        "Benzina_serv": 1.729,
-        "Benzina_self": 1.729,
+        "Benzina_serv": 1.909,
+        "Benzina_self": 1.909,
         "Gasolio_serv": 2.019,
         "Gasolio_self": 2.019,
         "Supreme Diesel_serv": 2.279,
@@ -590,11 +585,11 @@
       "lat": 45.860539,
       "lon": 12.547234,
       "prezzi": {
-        "Benzina_serv": 1.709,
-        "Benzina_self": 1.709,
+        "Benzina_serv": 1.892,
+        "Benzina_self": 1.892,
         "Gasolio_serv": 2.019,
         "Gasolio_self": 2.019,
-        "GPL_serv": 0.759
+        "GPL_serv": 0.809
       },
       "dist": 15.38
     },
@@ -608,12 +603,12 @@
       "lat": 45.689238,
       "lon": 12.392237,
       "prezzi": {
-        "Benzina_serv": 2.149,
-        "Benzina_self": 1.959,
+        "Benzina_serv": 2.129,
+        "Benzina_self": 1.939,
         "Gasolio_serv": 2.209,
         "Gasolio_self": 2.019,
-        "Benzina Shell V Power_serv": 2.259,
-        "Benzina Shell V Power_self": 2.209,
+        "Benzina Shell V Power_serv": 2.239,
+        "Benzina Shell V Power_self": 2.189,
         "Diesel Shell V Power_serv": 2.319,
         "Diesel Shell V Power_self": 2.269
       },
@@ -760,12 +755,30 @@
       "lat": 45.975047,
       "lon": 12.485975,
       "prezzi": {
-        "Benzina_serv": 1.729,
-        "Benzina_self": 1.729,
+        "Benzina_serv": 1.879,
+        "Benzina_self": 1.879,
         "Gasolio_serv": 2.029,
         "Gasolio_self": 2.029
       },
       "dist": 18.22
+    },
+    {
+      "id": 7726,
+      "bandiera": "Esso",
+      "nome": "ESSO",
+      "indirizzo": "VIALE VENEZIA 36 31015",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.872495,
+      "lon": 12.279491,
+      "prezzi": {
+        "Benzina_serv": 2.059,
+        "Benzina_self": 1.909,
+        "Gasolio_serv": 2.179,
+        "Gasolio_self": 2.029,
+        "Supreme Diesel_self": 2.159
+      },
+      "dist": 6.54
     },
     {
       "id": 32454,
@@ -798,8 +811,8 @@
       "lat": 45.762862,
       "lon": 12.485524,
       "prezzi": {
-        "Benzina_serv": 1.949,
-        "Benzina_self": 1.749,
+        "Benzina_serv": 2.149,
+        "Benzina_self": 1.949,
         "Gasolio_serv": 2.229,
         "Gasolio_self": 2.029,
         "GPL_serv": 0.799,
@@ -818,8 +831,8 @@
       "lat": 45.762665,
       "lon": 12.48472,
       "prezzi": {
-        "Benzina_serv": 1.949,
-        "Benzina_self": 1.749,
+        "Benzina_serv": 2.149,
+        "Benzina_self": 1.949,
         "Gasolio_serv": 2.229,
         "Gasolio_self": 2.029,
         "GPL_serv": 0.799,
@@ -838,11 +851,11 @@
       "lat": 45.794904,
       "lon": 12.515861,
       "prezzi": {
-        "Benzina_serv": 1.839,
-        "Benzina_self": 1.739,
+        "Benzina_serv": 2.019,
+        "Benzina_self": 1.919,
         "Gasolio_serv": 2.129,
         "Gasolio_self": 2.029,
-        "GPL_serv": 0.799
+        "GPL_serv": 0.849
       },
       "dist": 13.78
     },
@@ -856,8 +869,8 @@
       "lat": 45.727422,
       "lon": 12.473471,
       "prezzi": {
-        "Benzina_serv": 1.929,
-        "Benzina_self": 1.729,
+        "Benzina_serv": 2.129,
+        "Benzina_self": 1.929,
         "Gasolio_serv": 2.229,
         "Gasolio_self": 2.029,
         "Blue Diesel_serv": 2.449,
@@ -891,7 +904,7 @@
       "lat": 45.870224,
       "lon": 12.159339,
       "prezzi": {
-        "Benzina_self": 1.719,
+        "Benzina_self": 1.899,
         "Gasolio_self": 2.029,
         "GPL_serv": 0.789
       },
@@ -937,15 +950,15 @@
       "lat": 45.896996,
       "lon": 12.400138,
       "prezzi": {
-        "Benzina_serv": 1.979,
-        "Benzina_self": 1.879,
+        "Benzina_serv": 2.027,
+        "Benzina_self": 1.927,
         "Gasolio_serv": 2.139,
         "Gasolio_self": 2.039,
         "GPL_serv": 0.759,
         "Benzina speciale_serv": 2.079,
         "Benzina speciale_self": 1.979,
-        "HVO100_serv": 2.099,
-        "HVO100_self": 1.999
+        "HVO100_serv": 2.127,
+        "HVO100_self": 2.027
       },
       "dist": 7.32
     },
@@ -991,7 +1004,7 @@
       "lat": 45.844096,
       "lon": 12.347737,
       "prezzi": {
-        "Benzina_self": 1.739,
+        "Benzina_self": 1.922,
         "Gasolio_self": 2.039,
         "GP DIESEL_self": 2.139
       },
@@ -1022,11 +1035,11 @@
       "lat": 45.809271,
       "lon": 12.249689,
       "prezzi": {
-        "Benzina_serv": 1.839,
-        "Benzina_self": 1.739,
+        "Benzina_serv": 2.019,
+        "Benzina_self": 1.919,
         "Gasolio_serv": 2.139,
         "Gasolio_self": 2.039,
-        "GPL_serv": 0.789,
+        "GPL_serv": 0.839,
         "DieselMax_serv": 2.209,
         "DieselMax_self": 2.109
       },
@@ -1074,8 +1087,8 @@
       "lat": 45.906009,
       "lon": 12.3365,
       "prezzi": {
-        "Benzina_serv": 1.799,
-        "Benzina_self": 1.709,
+        "Benzina_serv": 1.999,
+        "Benzina_self": 1.909,
         "Gasolio_serv": 2.129,
         "Gasolio_self": 2.039
       },
@@ -1091,9 +1104,9 @@
       "lat": 45.78231,
       "lon": 12.411576,
       "prezzi": {
-        "Benzina_self": 1.739,
+        "Benzina_self": 1.919,
         "Gasolio_self": 2.039,
-        "GPL_serv": 0.789,
+        "GPL_serv": 0.839,
         "DieselMax_self": 2.109
       },
       "dist": 8.04
@@ -1175,13 +1188,13 @@
       "lat": 45.980605,
       "lon": 12.314451,
       "prezzi": {
-        "Benzina_serv": 1.958,
-        "Benzina_self": 1.749,
+        "Benzina_serv": 2.141,
+        "Benzina_self": 1.932,
         "Gasolio_serv": 2.248,
         "Gasolio_self": 2.039,
-        "GPL_serv": 0.799,
-        "Blue Super_serv": 2.158,
-        "Blue Super_self": 1.949,
+        "GPL_serv": 0.849,
+        "Blue Super_serv": 2.341,
+        "Blue Super_self": 2.132,
         "Blue Diesel_serv": 2.348,
         "Blue Diesel_self": 2.139
       },
@@ -1257,8 +1270,8 @@
       "lat": 45.869737,
       "lon": 12.265924,
       "prezzi": {
-        "Benzina_serv": 1.736,
-        "Benzina_self": 1.736,
+        "Benzina_serv": 1.896,
+        "Benzina_self": 1.896,
         "Gasolio_serv": 2.046,
         "Gasolio_self": 2.046
       },
@@ -1274,8 +1287,8 @@
       "lat": 45.959917,
       "lon": 12.509834,
       "prezzi": {
-        "Benzina_serv": 1.887,
-        "Benzina_self": 1.887,
+        "Benzina_serv": 1.927,
+        "Benzina_self": 1.927,
         "Gasolio_serv": 2.047,
         "Gasolio_self": 2.047
       },
@@ -1291,9 +1304,9 @@
       "lat": 45.740032,
       "lon": 12.292905,
       "prezzi": {
-        "Benzina_self": 1.737,
+        "Benzina_self": 1.927,
         "Gasolio_self": 2.047,
-        "Benzina speciale_self": 1.837,
+        "Benzina speciale_self": 2.027,
         "HVO100_self": 1.999
       },
       "dist": 12.08
@@ -1308,7 +1321,7 @@
       "lat": 45.762254,
       "lon": 12.526471,
       "prezzi": {
-        "Benzina_self": 1.727,
+        "Benzina_self": 1.957,
         "Gasolio_self": 2.047,
         "HVO100_self": 1.999
       },
@@ -1343,8 +1356,8 @@
       "lat": 45.832059,
       "lon": 12.226496,
       "prezzi": {
-        "Benzina_serv": 1.759,
-        "Benzina_self": 1.759,
+        "Benzina_serv": 1.929,
+        "Benzina_self": 1.929,
         "Gasolio_serv": 2.048,
         "Gasolio_self": 2.048
       },
@@ -1411,8 +1424,8 @@
       "lat": 45.774518,
       "lon": 12.370646,
       "prezzi": {
-        "Benzina_serv": 1.749,
-        "Benzina_self": 1.749,
+        "Benzina_serv": 1.899,
+        "Benzina_self": 1.899,
         "Gasolio_serv": 2.049,
         "Gasolio_self": 2.049,
         "Gasolio speciale_serv": 2.149,
@@ -1434,9 +1447,9 @@
         "Benzina_self": 1.958,
         "Gasolio_serv": 2.259,
         "Gasolio_self": 2.049,
-        "GPL_serv": 0.799,
-        "HiQ Perform+_serv": 2.249,
-        "HiQ Perform+_self": 2.069
+        "GPL_serv": 0.849,
+        "HiQ Perform+_serv": 2.438,
+        "HiQ Perform+_self": 2.258
       },
       "dist": 12.98
     },
@@ -1450,11 +1463,31 @@
       "lat": 45.88683,
       "lon": 12.320259,
       "prezzi": {
-        "Benzina_self": 1.749,
+        "Benzina_self": 1.949,
         "Gasolio_self": 2.049,
         "Supreme Diesel_self": 2.169
       },
       "dist": 5.62
+    },
+    {
+      "id": 7345,
+      "bandiera": "Agip Eni",
+      "nome": "RUSSO SAS CONEGLIANO",
+      "indirizzo": "VIA ADOLFO VITAL 94 32015",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.878183,
+      "lon": 12.303054,
+      "prezzi": {
+        "Benzina_serv": 2.173,
+        "Benzina_self": 1.953,
+        "Gasolio_serv": 2.269,
+        "Gasolio_self": 2.049,
+        "Blue Diesel_serv": 2.369,
+        "Blue Diesel_self": 2.149,
+        "HVOlution_self": 2.049
+      },
+      "dist": 5.55
     },
     {
       "id": 31280,
@@ -1467,11 +1500,11 @@
       "lon": 12.273287,
       "prezzi": {
         "Benzina_serv": 1.96,
-        "Benzina_self": 1.75,
+        "Benzina_self": 1.953,
         "Gasolio_serv": 2.289,
         "Gasolio_self": 2.049,
         "Blue Super_serv": 2.11,
-        "Blue Super_self": 1.9,
+        "Blue Super_self": 2.103,
         "Blue Diesel_serv": 2.389,
         "Blue Diesel_self": 2.149,
         "HVOlution_self": 2.049
@@ -1488,8 +1521,8 @@
       "lat": 45.900524,
       "lon": 12.111063,
       "prezzi": {
-        "Benzina_serv": 1.739,
-        "Benzina_self": 1.739,
+        "Benzina_serv": 1.949,
+        "Benzina_self": 1.949,
         "Gasolio_serv": 2.049,
         "Gasolio_self": 2.049
       },
@@ -1518,6 +1551,63 @@
       "dist": 17.81
     },
     {
+      "id": 15214,
+      "bandiera": "Pompe Bianche",
+      "nome": "SOTTANA",
+      "indirizzo": "VIA SAN ROCCO 40 31040",
+      "comune": "GIAVERA DEL MONTELLO",
+      "prov": "TV",
+      "lat": 45.785625,
+      "lon": 12.178707,
+      "prezzi": {
+        "Benzina_self": 1.929,
+        "Gasolio_self": 2.049
+      },
+      "dist": 14.68
+    },
+    {
+      "id": 48562,
+      "bandiera": "Q8",
+      "nome": "Stazione di servizio Simor",
+      "indirizzo": "248 Schiavonesca-Marosticana, Km. 70+200, lato sinistro - 31040",
+      "comune": "GIAVERA DEL MONTELLO",
+      "prov": "TV",
+      "lat": 45.791549,
+      "lon": 12.158491,
+      "prezzi": {
+        "Benzina_serv": 2.079,
+        "Benzina_self": 1.929,
+        "Gasolio_serv": 2.199,
+        "Gasolio_self": 2.049,
+        "GPL_serv": 0.799,
+        "Hi-Q Diesel_serv": 2.519,
+        "Hi-Q Diesel_self": 2.369,
+        "HiQ Perform+_serv": 2.379,
+        "HiQ Perform+_self": 2.229
+      },
+      "dist": 15.87
+    },
+    {
+      "id": 48451,
+      "bandiera": "Agip Eni",
+      "nome": "ENI GODEGA DI SANT'URBANO (13590)",
+      "indirizzo": "NAZIONALE 42 31010",
+      "comune": "GODEGA DI SANT'URBANO",
+      "prov": "TV",
+      "lat": 45.927093,
+      "lon": 12.381444,
+      "prezzi": {
+        "Benzina_serv": 2.172,
+        "Benzina_self": 1.962,
+        "Gasolio_serv": 2.259,
+        "Gasolio_self": 2.049,
+        "GPL_serv": 0.872,
+        "Blue Diesel_serv": 2.359,
+        "Blue Diesel_self": 2.149
+      },
+      "dist": 9.88
+    },
+    {
       "id": 62493,
       "bandiera": "Api-Ip",
       "nome": "IP  41210",
@@ -1542,8 +1632,8 @@
       "lat": 45.844479,
       "lon": 12.335754,
       "prezzi": {
-        "Benzina_serv": 1.719,
-        "Benzina_self": 1.719,
+        "Benzina_serv": 1.899,
+        "Benzina_self": 1.899,
         "Gasolio_serv": 2.049,
         "Gasolio_self": 2.049,
         "GPL_serv": 0.749,
@@ -1563,7 +1653,7 @@
       "lat": 45.770883,
       "lon": 12.488507,
       "prezzi": {
-        "Benzina_self": 1.737,
+        "Benzina_self": 1.94,
         "Gasolio_self": 2.049,
         "Blue Diesel_self": 2.149,
         "HVOlution_self": 2.049
@@ -1581,10 +1671,10 @@
       "lon": 12.335781,
       "prezzi": {
         "Benzina_serv": 1.95,
-        "Benzina_self": 1.74,
+        "Benzina_self": 1.943,
         "Gasolio_serv": 2.289,
         "Gasolio_self": 2.049,
-        "Blue Super_self": 1.89,
+        "Blue Super_self": 2.093,
         "Blue Diesel_self": 2.149,
         "HVOlution_serv": 2.289,
         "HVOlution_self": 2.049
@@ -1601,8 +1691,8 @@
       "lat": 45.680746,
       "lon": 12.349931,
       "prezzi": {
-        "Benzina_serv": 1.949,
-        "Benzina_self": 1.749,
+        "Benzina_serv": 2.149,
+        "Benzina_self": 1.949,
         "Gasolio_serv": 2.249,
         "Gasolio_self": 2.049,
         "GPL_serv": 0.822,
@@ -1621,11 +1711,11 @@
       "lat": 45.916114,
       "lon": 12.350289,
       "prezzi": {
-        "Benzina_serv": 1.97,
-        "Benzina_self": 1.75,
+        "Benzina_serv": 2.173,
+        "Benzina_self": 1.953,
         "Gasolio_serv": 2.269,
         "Gasolio_self": 2.049,
-        "GPL_serv": 0.822,
+        "GPL_serv": 0.872,
         "Blue Diesel_serv": 2.369,
         "Blue Diesel_self": 2.149,
         "HVOlution_self": 2.049
@@ -1642,8 +1732,8 @@
       "lat": 45.800574,
       "lon": 12.379313,
       "prezzi": {
-        "Benzina_serv": 1.719,
-        "Benzina_self": 1.719,
+        "Benzina_serv": 1.899,
+        "Benzina_self": 1.899,
         "Gasolio_serv": 2.049,
         "Gasolio_self": 2.049,
         "Gasolio speciale_serv": 2.149,
@@ -1661,8 +1751,8 @@
       "lat": 45.70092,
       "lon": 12.259352,
       "prezzi": {
-        "Benzina_serv": 1.935,
-        "Benzina_self": 1.775,
+        "Benzina_serv": 1.958,
+        "Benzina_self": 1.958,
         "Gasolio_serv": 2.269,
         "Gasolio_self": 2.049,
         "Blue Diesel_serv": 2.369,
@@ -1681,12 +1771,12 @@
       "lat": 45.811813,
       "lon": 12.348444,
       "prezzi": {
-        "Benzina_serv": 1.719,
-        "Benzina_self": 1.719,
+        "Benzina_serv": 1.899,
+        "Benzina_self": 1.899,
         "Gasolio_serv": 2.049,
         "Gasolio_self": 2.049,
-        "Benzina speciale_serv": 1.819,
-        "Benzina speciale_self": 1.819,
+        "Benzina speciale_serv": 1.999,
+        "Benzina speciale_self": 1.999,
         "HVO100_serv": 1.999,
         "HVO100_self": 1.999
       },
@@ -1702,16 +1792,16 @@
       "lat": 45.806149,
       "lon": 12.345578,
       "prezzi": {
-        "Benzina_serv": 1.719,
-        "Benzina_self": 1.719,
+        "Benzina_serv": 1.899,
+        "Benzina_self": 1.899,
         "Gasolio_serv": 2.049,
         "Gasolio_self": 2.049,
         "Metano_serv": 1.599,
         "Metano_self": 1.599,
         "GPL_serv": 0.749,
         "GPL_self": 0.749,
-        "Benzina speciale_serv": 1.919,
-        "Benzina speciale_self": 1.919,
+        "Benzina speciale_serv": 2.099,
+        "Benzina speciale_self": 2.099,
         "Gasolio speciale_serv": 2.149,
         "Gasolio speciale_self": 2.149
       },
@@ -1750,15 +1840,15 @@
       "lat": 45.736538,
       "lon": 12.280419,
       "prezzi": {
-        "Benzina_serv": 1.99,
-        "Benzina_self": 1.77,
+        "Benzina_serv": 2.173,
+        "Benzina_self": 1.953,
         "Gasolio_serv": 2.269,
         "Gasolio_self": 2.049,
         "Metano_serv": 1.323,
-        "GPL_serv": 0.849,
+        "GPL_serv": 0.899,
         "Blue Diesel_serv": 2.369,
         "Blue Diesel_self": 2.149,
-        "GNL_serv": 1.524,
+        "GNL_serv": 1.373,
         "HVOlution_self": 2.049
       },
       "dist": 12.82
@@ -1773,8 +1863,8 @@
       "lat": 45.96709,
       "lon": 12.318058,
       "prezzi": {
-        "Benzina_serv": 1.957,
-        "Benzina_self": 1.757,
+        "Benzina_serv": 2.16,
+        "Benzina_self": 1.94,
         "Gasolio_serv": 2.269,
         "Gasolio_self": 2.049,
         "Metano_serv": 1.326,
@@ -1847,11 +1937,11 @@
       "lat": 45.898576,
       "lon": 12.576983,
       "prezzi": {
-        "Benzina_serv": 1.999,
-        "Benzina_self": 1.789,
+        "Benzina_serv": 2.169,
+        "Benzina_self": 1.959,
         "Gasolio_serv": 2.269,
         "Gasolio_self": 2.059,
-        "GPL_serv": 0.739,
+        "GPL_serv": 0.769,
         "Blue Super_serv": 2.129,
         "Blue Super_self": 1.919,
         "Blue Diesel_serv": 2.509,
@@ -1869,7 +1959,7 @@
       "lat": 45.968102,
       "lon": 12.51758,
       "prezzi": {
-        "Benzina_self": 1.809,
+        "Benzina_self": 1.999,
         "Gasolio_self": 2.059
       },
       "dist": 19.15
@@ -1905,24 +1995,6 @@
       "dist": 5.37
     },
     {
-      "id": 7726,
-      "bandiera": "Esso",
-      "nome": "ESSO",
-      "indirizzo": "VIALE VENEZIA 36 31015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.872495,
-      "lon": 12.279491,
-      "prezzi": {
-        "Benzina_serv": 1.939,
-        "Benzina_self": 1.789,
-        "Gasolio_serv": 2.209,
-        "Gasolio_self": 2.059,
-        "Supreme Diesel_self": 2.199
-      },
-      "dist": 6.54
-    },
-    {
       "id": 43619,
       "bandiera": "Pompe Bianche",
       "nome": "DA OIL - MASERADA",
@@ -1932,8 +2004,8 @@
       "lat": 45.747517,
       "lon": 12.321898,
       "prezzi": {
-        "Benzina_serv": 1.749,
-        "Benzina_self": 1.749,
+        "Benzina_serv": 1.932,
+        "Benzina_self": 1.932,
         "Gasolio_serv": 2.059,
         "Gasolio_self": 2.059
       },
@@ -1968,7 +2040,7 @@
       "lat": 45.715471,
       "lon": 12.462796,
       "prezzi": {
-        "Benzina_self": 1.739,
+        "Benzina_self": 1.919,
         "Gasolio_self": 2.059
       },
       "dist": 16.43
@@ -1998,8 +2070,8 @@
       "lat": 45.857314,
       "lon": 12.305627,
       "prezzi": {
-        "Benzina_serv": 1.889,
-        "Benzina_self": 1.769,
+        "Benzina_serv": 2.072,
+        "Benzina_self": 1.952,
         "Gasolio_serv": 2.139,
         "Gasolio_self": 2.059,
         "HVO_serv": 2.109,
@@ -2032,7 +2104,7 @@
       "lat": 45.969993,
       "lon": 12.233248,
       "prezzi": {
-        "Benzina_self": 1.739,
+        "Benzina_self": 1.919,
         "Gasolio_self": 2.059
       },
       "dist": 16.99
@@ -2062,8 +2134,8 @@
       "lat": 45.978221,
       "lon": 12.385236,
       "prezzi": {
-        "Benzina_serv": 1.758,
-        "Benzina_self": 1.758,
+        "Benzina_serv": 1.928,
+        "Benzina_self": 1.928,
         "Gasolio_serv": 2.068,
         "Gasolio_self": 2.068
       },
@@ -2100,7 +2172,7 @@
         "Benzina_self": 1.929,
         "Gasolio_serv": 2.259,
         "Gasolio_self": 2.069,
-        "GPL_serv": 0.774
+        "GPL_serv": 0.825
       },
       "dist": 16.81
     },
@@ -2131,13 +2203,13 @@
       "lat": 45.729997,
       "lon": 12.391556,
       "prezzi": {
-        "Benzina_serv": 1.922,
+        "Benzina_serv": 2.121,
         "Benzina_self": 1.922,
-        "Gasolio_serv": 2.168,
+        "Gasolio_serv": 2.268,
         "Gasolio_self": 2.069,
-        "Blue Super_serv": 2.102,
+        "Blue Super_serv": 2.301,
         "Blue Super_self": 2.102,
-        "Blue Diesel_serv": 2.268,
+        "Blue Diesel_serv": 2.368,
         "Blue Diesel_self": 2.169
       },
       "dist": 12.73
@@ -2152,8 +2224,8 @@
       "lat": 46.007996,
       "lon": 12.339736,
       "prezzi": {
-        "Benzina_serv": 1.759,
-        "Benzina_self": 1.759,
+        "Benzina_serv": 1.942,
+        "Benzina_self": 1.942,
         "Gasolio_serv": 2.069,
         "Gasolio_self": 2.069
       },
@@ -2184,11 +2256,11 @@
       "lat": 45.881926,
       "lon": 12.32082,
       "prezzi": {
-        "Benzina_serv": 1.969,
+        "Benzina_serv": 2.152,
         "Benzina_self": 1.952,
         "Gasolio_serv": 2.269,
         "Gasolio_self": 2.069,
-        "Benzina WR 100_serv": 2.119,
+        "Benzina WR 100_serv": 2.302,
         "Benzina WR 100_self": 2.102,
         "HVO_serv": 2.239,
         "HVO_self": 2.039
@@ -2205,8 +2277,8 @@
       "lat": 45.689769,
       "lon": 12.248934,
       "prezzi": {
-        "Benzina_serv": 1.957,
-        "Benzina_self": 1.957,
+        "Benzina_serv": 1.977,
+        "Benzina_self": 1.977,
         "Gasolio_serv": 2.077,
         "Gasolio_self": 2.077
       },
@@ -2243,58 +2315,6 @@
       "dist": 17.29
     },
     {
-      "id": 7345,
-      "bandiera": "Agip Eni",
-      "nome": "RUSSO SAS CONEGLIANO",
-      "indirizzo": "VIA ADOLFO VITAL 94 32015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.878183,
-      "lon": 12.303054,
-      "prezzi": {
-        "Benzina_serv": 1.97,
-        "Benzina_self": 1.77,
-        "Gasolio_serv": 2.299,
-        "Gasolio_self": 2.079,
-        "Blue Diesel_serv": 2.399,
-        "Blue Diesel_self": 2.179,
-        "HVOlution_self": 2.079
-      },
-      "dist": 5.55
-    },
-    {
-      "id": 10752,
-      "bandiera": "Agip Eni",
-      "nome": "FORCOLIN STEFANO",
-      "indirizzo": "VIA POSTUMIA OVEST 37 31048",
-      "comune": "SAN BIAGIO DI CALLALTA",
-      "prov": "TV",
-      "lat": 45.681992,
-      "lon": 12.359233,
-      "prezzi": {
-        "Benzina_self": 1.74,
-        "Gasolio_self": 2.079,
-        "Blue Diesel_self": 2.179
-      },
-      "dist": 17.68
-    },
-    {
-      "id": 21052,
-      "bandiera": "Agip Eni",
-      "nome": "Eni",
-      "indirizzo": "MADONNA DI LORETO 59 Y 31020",
-      "comune": "TARZO",
-      "prov": "TV",
-      "lat": 45.94016,
-      "lon": 12.243305,
-      "prezzi": {
-        "Benzina_self": 1.757,
-        "Gasolio_self": 2.079,
-        "Blue Diesel_self": 2.179
-      },
-      "dist": 13.82
-    },
-    {
       "id": 54880,
       "bandiera": "Agip Eni",
       "nome": "FUEL FM",
@@ -2314,24 +2334,21 @@
       "dist": 14.7
     },
     {
-      "id": 48451,
-      "bandiera": "Agip Eni",
-      "nome": "ENI GODEGA DI SANT'URBANO (13590)",
-      "indirizzo": "NAZIONALE 42 31010",
-      "comune": "GODEGA DI SANT'URBANO",
+      "id": 38263,
+      "bandiera": "Api-Ip",
+      "nome": "IP",
+      "indirizzo": "VIA VIA SCHIAVONESCA NUOVA  S.S. 248 - LOC. SELVE SN 31040, VOLPAGO DEL MONTELLO (TV) 248 31040",
+      "comune": "VOLPAGO DEL MONTELLO",
       "prov": "TV",
-      "lat": 45.927093,
-      "lon": 12.381444,
+      "lat": 45.784443,
+      "lon": 12.139385,
       "prezzi": {
-        "Benzina_serv": 1.949,
-        "Benzina_self": 1.739,
-        "Gasolio_serv": 2.294,
-        "Gasolio_self": 2.084,
-        "GPL_serv": 0.822,
-        "Blue Diesel_serv": 2.394,
-        "Blue Diesel_self": 2.184
+        "Benzina_serv": 2.149,
+        "Benzina_self": 1.949,
+        "Gasolio_serv": 2.279,
+        "Gasolio_self": 2.079
       },
-      "dist": 9.88
+      "dist": 17.54
     },
     {
       "id": 61704,
@@ -2380,9 +2397,9 @@
       "lat": 45.719297,
       "lon": 12.285195,
       "prezzi": {
-        "Benzina_self": 1.779,
+        "Benzina_self": 1.962,
         "Gasolio_self": 2.089,
-        "Benzina WR 100_self": 1.929
+        "Benzina WR 100_self": 2.112
       },
       "dist": 14.44
     },
@@ -2444,8 +2461,8 @@
       "lat": 45.942436,
       "lon": 12.304508,
       "prezzi": {
-        "Benzina_serv": 1.999,
-        "Benzina_self": 1.799,
+        "Benzina_serv": 2.199,
+        "Benzina_self": 1.989,
         "Gasolio_serv": 2.299,
         "Gasolio_self": 2.099,
         "GPL_serv": 0.899,
@@ -2494,8 +2511,8 @@
       "lat": 45.780111,
       "lon": 12.417262,
       "prezzi": {
-        "Benzina_serv": 1.949,
-        "Benzina_self": 1.749,
+        "Benzina_serv": 2.159,
+        "Benzina_self": 1.959,
         "Gasolio_serv": 2.299,
         "Gasolio_self": 2.099,
         "Excellium Diesel_serv": 2.299,
@@ -2513,7 +2530,7 @@
       "lat": 45.96882,
       "lon": 12.314953,
       "prezzi": {
-        "Benzina_self": 1.779,
+        "Benzina_self": 1.959,
         "Gasolio_self": 2.099
       },
       "dist": 14.49
@@ -2529,28 +2546,11 @@
       "lon": 12.31481,
       "prezzi": {
         "Benzina_serv": 1.979,
-        "Benzina_self": 1.779,
+        "Benzina_self": 1.959,
         "Gasolio_serv": 2.299,
         "Gasolio_self": 2.099
       },
       "dist": 14.49
-    },
-    {
-      "id": 38263,
-      "bandiera": "Api-Ip",
-      "nome": "IP",
-      "indirizzo": "VIA VIA SCHIAVONESCA NUOVA  S.S. 248 - LOC. SELVE SN 31040, VOLPAGO DEL MONTELLO (TV) 248 31040",
-      "comune": "VOLPAGO DEL MONTELLO",
-      "prov": "TV",
-      "lat": 45.784443,
-      "lon": 12.139385,
-      "prezzi": {
-        "Benzina_serv": 1.989,
-        "Benzina_self": 1.789,
-        "Gasolio_serv": 2.299,
-        "Gasolio_self": 2.099
-      },
-      "dist": 17.54
     },
     {
       "id": 61741,
@@ -2564,7 +2564,7 @@
       "prezzi": {
         "Benzina_self": 1.849,
         "Gasolio_self": 2.109,
-        "GPL_serv": 0.819,
+        "GPL_serv": 0.799,
         "F101_self": 2.049,
         "GP DIESEL_self": 2.259
       },
@@ -2618,11 +2618,11 @@
       "lat": 45.888039,
       "lon": 12.553085,
       "prezzi": {
-        "Benzina_serv": 1.739,
-        "Gasolio_serv": 2.029,
-        "GPL_serv": 0.799,
-        "Benzina Energy 98 ottani_serv": 1.849,
-        "Gasolio Energy D_serv": 2.079
+        "Benzina_serv": 1.905,
+        "Gasolio_serv": 1.999,
+        "GPL_serv": 0.779,
+        "Benzina Energy 98 ottani_serv": 2.005,
+        "Gasolio Energy D_serv": 2.049
       },
       "dist": 16.52
     },
@@ -2636,7 +2636,7 @@
       "lat": 45.974476,
       "lon": 12.180162,
       "prezzi": {
-        "Benzina_serv": 1.757,
+        "Benzina_serv": 1.937,
         "Gasolio_serv": 2.047,
         "GPL_serv": 0.798
       },
@@ -2731,8 +2731,8 @@
       "lat": 45.790864,
       "lon": 12.488017,
       "prezzi": {
-        "Benzina_serv": 1.758,
-        "Gasolio_serv": 2.048,
+        "Benzina_serv": 1.818,
+        "Gasolio_serv": 2.028,
         "Gasolio speciale_serv": 2.198
       },
       "dist": 12.01
@@ -2782,9 +2782,9 @@
       "lat": 45.716039,
       "lon": 12.208991,
       "prezzi": {
-        "Benzina_serv": 1.769,
+        "Benzina_serv": 1.899,
         "Gasolio_serv": 2.089,
-        "Benzina speciale_serv": 1.929
+        "Benzina speciale_serv": 1.959
       },
       "dist": 17.71
     },
@@ -2906,7 +2906,7 @@
       "lat": 45.741229,
       "lon": 12.23378,
       "prezzi": {
-        "Benzina_serv": 1.779,
+        "Benzina_serv": 1.979,
         "Gasolio_serv": 2.069
       },
       "dist": 14.32
