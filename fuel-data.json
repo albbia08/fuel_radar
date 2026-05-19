@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-05-18T12:05:08.736934+00:00",
+  "aggiornato": "2026-05-19T11:42:36.332433+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -40,6 +40,39 @@
         "Blue Diesel_self": 2.014
       },
       "dist": 11.64
+    },
+    {
+      "id": 58636,
+      "bandiera": "Loro",
+      "nome": "LORO F.LLI SPA - CODOGNE'",
+      "indirizzo": "ROMA 165 31013",
+      "comune": "CODOGNÃ",
+      "prov": "TV",
+      "lat": 45.866125,
+      "lon": 12.443334,
+      "prezzi": {
+        "Benzina_serv": 1.929,
+        "Benzina_self": 1.929,
+        "Gasolio_serv": 1.929,
+        "Gasolio_self": 1.929
+      },
+      "dist": 7.7
+    },
+    {
+      "id": 10752,
+      "bandiera": "Agip Eni",
+      "nome": "FORCOLIN STEFANO",
+      "indirizzo": "VIA POSTUMIA OVEST 37 31048",
+      "comune": "SAN BIAGIO DI CALLALTA",
+      "prov": "TV",
+      "lat": 45.681992,
+      "lon": 12.359233,
+      "prezzi": {
+        "Benzina_self": 1.943,
+        "Gasolio_self": 1.929,
+        "Blue Diesel_self": 2.029
+      },
+      "dist": 17.68
     },
     {
       "id": 62630,
@@ -184,23 +217,6 @@
         "Gasolio speciale_self": 2.299
       },
       "dist": 5.52
-    },
-    {
-      "id": 58636,
-      "bandiera": "Loro",
-      "nome": "LORO F.LLI SPA - CODOGNE'",
-      "indirizzo": "ROMA 165 31013",
-      "comune": "CODOGNÃ",
-      "prov": "TV",
-      "lat": 45.866125,
-      "lon": 12.443334,
-      "prezzi": {
-        "Benzina_serv": 1.929,
-        "Benzina_self": 1.929,
-        "Gasolio_serv": 1.939,
-        "Gasolio_self": 1.939
-      },
-      "dist": 7.7
     },
     {
       "id": 48343,
@@ -603,22 +619,6 @@
         "Diesel Shell V Power_self": 2.199
       },
       "dist": 17.17
-    },
-    {
-      "id": 10752,
-      "bandiera": "Agip Eni",
-      "nome": "FORCOLIN STEFANO",
-      "indirizzo": "VIA POSTUMIA OVEST 37 31048",
-      "comune": "SAN BIAGIO DI CALLALTA",
-      "prov": "TV",
-      "lat": 45.681992,
-      "lon": 12.359233,
-      "prezzi": {
-        "Benzina_self": 1.933,
-        "Gasolio_self": 1.949,
-        "Blue Diesel_self": 2.049
-      },
-      "dist": 17.68
     },
     {
       "id": 31529,
@@ -1563,6 +1563,21 @@
       "dist": 17.0
     },
     {
+      "id": 21064,
+      "bandiera": "Agip Eni",
+      "nome": "eni",
+      "indirizzo": "via ungaresca, HOXHA BLEDAR 30 33070",
+      "comune": "BRUGNERA",
+      "prov": "PN",
+      "lat": 45.909218,
+      "lon": 12.543267,
+      "prezzi": {
+        "Benzina_self": 1.94,
+        "Gasolio_self": 1.979
+      },
+      "dist": 16.73
+    },
+    {
       "id": 61741,
       "bandiera": "San Marco Petroli",
       "nome": "SMP BRUGNERA",
@@ -1579,6 +1594,27 @@
         "GP DIESEL_self": 2.129
       },
       "dist": 18.28
+    },
+    {
+      "id": 8684,
+      "bandiera": "Agip Eni",
+      "nome": "Celotto Alejandra & C. Snc",
+      "indirizzo": "GIACOMO MATTEOTTI 10 33077",
+      "comune": "SACILE",
+      "prov": "PN",
+      "lat": 45.960131,
+      "lon": 12.512078,
+      "prezzi": {
+        "Benzina_serv": 2.15,
+        "Benzina_self": 1.94,
+        "Gasolio_serv": 2.189,
+        "Gasolio_self": 1.979,
+        "Blue Super_self": 2.09,
+        "Blue Diesel_serv": 2.289,
+        "Blue Diesel_self": 2.079,
+        "HVOlution_self": 1.979
+      },
+      "dist": 18.21
     },
     {
       "id": 18073,
@@ -1635,6 +1671,28 @@
       "dist": 19.7
     },
     {
+      "id": 60925,
+      "bandiera": "Agip Eni",
+      "nome": "ENI PV 13560",
+      "indirizzo": "Via Castelletto 2  31051",
+      "comune": "FOLLINA",
+      "prov": "TV",
+      "lat": 45.924739,
+      "lon": 12.1547,
+      "prezzi": {
+        "Benzina_serv": 2.179,
+        "Benzina_self": 1.959,
+        "Gasolio_serv": 2.199,
+        "Gasolio_self": 1.979,
+        "GPL_serv": 0.852,
+        "Blue Diesel_serv": 2.299,
+        "Blue Diesel_self": 2.079,
+        "HVOlution_serv": 2.199,
+        "HVOlution_self": 1.979
+      },
+      "dist": 17.81
+    },
+    {
       "id": 48451,
       "bandiera": "Agip Eni",
       "nome": "ENI GODEGA DI SANT'URBANO (13590)",
@@ -1644,12 +1702,12 @@
       "lat": 45.927093,
       "lon": 12.381444,
       "prezzi": {
-        "Benzina_serv": 1.959,
+        "Benzina_serv": 2.169,
         "Benzina_self": 1.959,
-        "Gasolio_serv": 1.979,
+        "Gasolio_serv": 2.189,
         "Gasolio_self": 1.979,
         "GPL_serv": 0.852,
-        "Blue Diesel_serv": 2.079,
+        "Blue Diesel_serv": 2.289,
         "Blue Diesel_self": 2.079
       },
       "dist": 9.88
@@ -1772,6 +1830,27 @@
         "Gasolio_self": 1.979
       },
       "dist": 17.42
+    },
+    {
+      "id": 38333,
+      "bandiera": "Agip Eni",
+      "nome": "03627",
+      "indirizzo": "VIA POSTUMIA OVEST 82 31048",
+      "comune": "SAN BIAGIO DI CALLALTA",
+      "prov": "TV",
+      "lat": 45.675588,
+      "lon": 12.335781,
+      "prezzi": {
+        "Benzina_serv": 2.153,
+        "Benzina_self": 1.943,
+        "Gasolio_serv": 2.189,
+        "Gasolio_self": 1.979,
+        "Blue Super_self": 2.093,
+        "Blue Diesel_self": 2.079,
+        "HVOlution_serv": 2.189,
+        "HVOlution_self": 1.979
+      },
+      "dist": 18.42
     },
     {
       "id": 4604,
@@ -1944,42 +2023,6 @@
       "dist": 14.83
     },
     {
-      "id": 21064,
-      "bandiera": "Agip Eni",
-      "nome": "eni",
-      "indirizzo": "via ungaresca, HOXHA BLEDAR 30 33070",
-      "comune": "BRUGNERA",
-      "prov": "PN",
-      "lat": 45.909218,
-      "lon": 12.543267,
-      "prezzi": {
-        "Benzina_self": 1.94,
-        "Gasolio_self": 1.989
-      },
-      "dist": 16.73
-    },
-    {
-      "id": 8684,
-      "bandiera": "Agip Eni",
-      "nome": "Celotto Alejandra & C. Snc",
-      "indirizzo": "GIACOMO MATTEOTTI 10 33077",
-      "comune": "SACILE",
-      "prov": "PN",
-      "lat": 45.960131,
-      "lon": 12.512078,
-      "prezzi": {
-        "Benzina_serv": 2.15,
-        "Benzina_self": 1.94,
-        "Gasolio_serv": 2.199,
-        "Gasolio_self": 1.989,
-        "Blue Super_self": 2.09,
-        "Blue Diesel_serv": 2.299,
-        "Blue Diesel_self": 2.089,
-        "HVOlution_self": 1.989
-      },
-      "dist": 18.21
-    },
-    {
       "id": 11777,
       "bandiera": "Q8",
       "nome": "SACILE-VIALE REPUBBLICA 49",
@@ -2035,28 +2078,6 @@
       "dist": 5.55
     },
     {
-      "id": 60925,
-      "bandiera": "Agip Eni",
-      "nome": "ENI PV 13560",
-      "indirizzo": "Via Castelletto 2  31051",
-      "comune": "FOLLINA",
-      "prov": "TV",
-      "lat": 45.924739,
-      "lon": 12.1547,
-      "prezzi": {
-        "Benzina_serv": 2.179,
-        "Benzina_self": 1.959,
-        "Gasolio_serv": 2.209,
-        "Gasolio_self": 1.989,
-        "GPL_serv": 0.852,
-        "Blue Diesel_serv": 2.309,
-        "Blue Diesel_self": 2.089,
-        "HVOlution_serv": 2.209,
-        "HVOlution_self": 1.989
-      },
-      "dist": 17.81
-    },
-    {
       "id": 43619,
       "bandiera": "Pompe Bianche",
       "nome": "DA OIL - MASERADA",
@@ -2072,27 +2093,6 @@
         "Gasolio_self": 1.989
       },
       "dist": 10.62
-    },
-    {
-      "id": 38333,
-      "bandiera": "Agip Eni",
-      "nome": "03627",
-      "indirizzo": "VIA POSTUMIA OVEST 82 31048",
-      "comune": "SAN BIAGIO DI CALLALTA",
-      "prov": "TV",
-      "lat": 45.675588,
-      "lon": 12.335781,
-      "prezzi": {
-        "Benzina_serv": 2.153,
-        "Benzina_self": 1.943,
-        "Gasolio_serv": 2.199,
-        "Gasolio_self": 1.989,
-        "Blue Super_self": 2.093,
-        "Blue Diesel_self": 2.089,
-        "HVOlution_serv": 2.199,
-        "HVOlution_self": 1.989
-      },
-      "dist": 18.42
     },
     {
       "id": 34170,
@@ -2549,26 +2549,6 @@
       "dist": 14.64
     },
     {
-      "id": 36253,
-      "bandiera": "Sarni Oil",
-      "nome": "CERVADA EST",
-      "indirizzo": "Autostrada A27 MESTRE-BELLUNO, Km. 49+700, dir. nord - 31015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.942436,
-      "lon": 12.304508,
-      "prezzi": {
-        "Benzina_serv": 2.198,
-        "Benzina_self": 1.998,
-        "Gasolio_serv": 2.299,
-        "Gasolio_self": 2.099,
-        "GPL_serv": 0.899,
-        "Gasolio speciale_serv": 2.499,
-        "Gasolio speciale_self": 2.299
-      },
-      "dist": 11.84
-    },
-    {
       "id": 57720,
       "bandiera": "Kerotris",
       "nome": "BRUGNERA SUD",
@@ -2904,8 +2884,8 @@
       "lat": 45.741229,
       "lon": 12.23378,
       "prezzi": {
-        "Benzina_serv": 2.019,
-        "Gasolio_serv": 1.989
+        "Benzina_serv": 1.999,
+        "Gasolio_serv": 1.999
       },
       "dist": 14.32
     },
@@ -2927,7 +2907,7 @@
     }
   ],
   "meta": {
-    "totale": 167,
+    "totale": 166,
     "fonte": "MIMIT Osservaprezzi",
     "licenza": "IODL 2.0"
   }
