@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-07-06T12:26:36.704701+00:00",
+  "aggiornato": "2026-07-07T11:28:11.944086+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -21,43 +21,6 @@
         "Gasolio_self": 1.827
       },
       "dist": 16.76
-    },
-    {
-      "id": 16401,
-      "bandiera": "Pompe Bianche",
-      "nome": "RONCO Carburanti",
-      "indirizzo": "Via Negrisia 24 31024",
-      "comune": "ORMELLE",
-      "prov": "TV",
-      "lat": 45.751568,
-      "lon": 12.414942,
-      "prezzi": {
-        "Benzina_serv": 1.757,
-        "Benzina_self": 1.757,
-        "Gasolio_serv": 1.837,
-        "Gasolio_self": 1.837,
-        "GPL_serv": 0.785
-      },
-      "dist": 11.11
-    },
-    {
-      "id": 21307,
-      "bandiera": "Tamoil",
-      "nome": "stellaambrozzodistellasonia",
-      "indirizzo": "I. LOLLINI 11 31040",
-      "comune": "NERVESA DELLA BATTAGLIA",
-      "prov": "TV",
-      "lat": 45.819095,
-      "lon": 12.201705,
-      "prezzi": {
-        "Benzina_serv": 1.859,
-        "Benzina_self": 1.759,
-        "Gasolio_serv": 1.939,
-        "Gasolio_self": 1.839,
-        "HVO_serv": 1.809,
-        "HVO_self": 1.809
-      },
-      "dist": 11.8
     },
     {
       "id": 43617,
@@ -132,23 +95,6 @@
         "Gasolio speciale_self": 1.998
       },
       "dist": 15.94
-    },
-    {
-      "id": 12269,
-      "bandiera": "Pompe Bianche",
-      "nome": "PINESE",
-      "indirizzo": "XVIII GIUGNO 1918 2 31058",
-      "comune": "SUSEGANA",
-      "prov": "TV",
-      "lat": 45.832059,
-      "lon": 12.226496,
-      "prezzi": {
-        "Benzina_serv": 1.779,
-        "Benzina_self": 1.779,
-        "Gasolio_serv": 1.858,
-        "Gasolio_self": 1.858
-      },
-      "dist": 9.67
     },
     {
       "id": 46140,
@@ -291,28 +237,6 @@
         "GPL_serv": 0.765
       },
       "dist": 15.17
-    },
-    {
-      "id": 55728,
-      "bandiera": "Costantin",
-      "nome": "COSTANTIN GODEGA",
-      "indirizzo": "VIA LEVADA  1 31010",
-      "comune": "GODEGA DI SANT'URBANO",
-      "prov": "TV",
-      "lat": 45.896996,
-      "lon": 12.400138,
-      "prezzi": {
-        "Benzina_serv": 1.888,
-        "Benzina_self": 1.788,
-        "Gasolio_serv": 1.968,
-        "Gasolio_self": 1.868,
-        "GPL_serv": 0.758,
-        "Benzina speciale_serv": 1.988,
-        "Benzina speciale_self": 1.888,
-        "HVO100_serv": 1.959,
-        "HVO100_self": 1.859
-      },
-      "dist": 7.32
     },
     {
       "id": 43950,
@@ -562,22 +486,6 @@
       "dist": 7.17
     },
     {
-      "id": 22484,
-      "bandiera": "Costantin",
-      "nome": "Costantin Oderzo",
-      "indirizzo": "via per piavon 50 31046",
-      "comune": "ODERZO",
-      "prov": "TV",
-      "lat": 45.762254,
-      "lon": 12.526471,
-      "prezzi": {
-        "Benzina_self": 1.787,
-        "Gasolio_self": 1.887,
-        "HVO100_self": 1.869
-      },
-      "dist": 16.19
-    },
-    {
       "id": 6487,
       "bandiera": "Q8",
       "nome": "CONEGLIANO VIA LOURDES 44",
@@ -628,25 +536,6 @@
       "dist": 17.1
     },
     {
-      "id": 54880,
-      "bandiera": "Agip Eni",
-      "nome": "FUEL FM",
-      "indirizzo": "ROMA 251 31020",
-      "comune": "VILLORBA",
-      "prov": "TV",
-      "lat": 45.735304,
-      "lon": 12.236667,
-      "prezzi": {
-        "Benzina_serv": 2.039,
-        "Benzina_self": 1.829,
-        "Gasolio_serv": 2.099,
-        "Gasolio_self": 1.889,
-        "Blue Diesel_serv": 2.234,
-        "Blue Diesel_self": 2.024
-      },
-      "dist": 14.7
-    },
-    {
       "id": 10752,
       "bandiera": "Agip Eni",
       "nome": "FORCOLIN STEFANO",
@@ -679,19 +568,20 @@
       "dist": 13.82
     },
     {
-      "id": 15214,
-      "bandiera": "Pompe Bianche",
-      "nome": "SOTTANA",
-      "indirizzo": "VIA SAN ROCCO 40 31040",
-      "comune": "GIAVERA DEL MONTELLO",
+      "id": 22484,
+      "bandiera": "Costantin",
+      "nome": "Costantin Oderzo",
+      "indirizzo": "via per piavon 50 31046",
+      "comune": "ODERZO",
       "prov": "TV",
-      "lat": 45.785625,
-      "lon": 12.178707,
+      "lat": 45.762254,
+      "lon": 12.526471,
       "prezzi": {
-        "Benzina_self": 1.815,
-        "Gasolio_self": 1.895
+        "Benzina_self": 1.797,
+        "Gasolio_self": 1.897,
+        "HVO100_self": 1.869
       },
-      "dist": 14.68
+      "dist": 16.19
     },
     {
       "id": 7486,
@@ -707,6 +597,24 @@
         "Gasolio_self": 1.897
       },
       "dist": 9.33
+    },
+    {
+      "id": 16401,
+      "bandiera": "Pompe Bianche",
+      "nome": "RONCO Carburanti",
+      "indirizzo": "Via Negrisia 24 31024",
+      "comune": "ORMELLE",
+      "prov": "TV",
+      "lat": 45.751568,
+      "lon": 12.414942,
+      "prezzi": {
+        "Benzina_serv": 1.807,
+        "Benzina_self": 1.807,
+        "Gasolio_serv": 1.897,
+        "Gasolio_self": 1.897,
+        "GPL_serv": 0.785
+      },
+      "dist": 11.11
     },
     {
       "id": 45567,
@@ -733,12 +641,51 @@
       "lat": 45.959932,
       "lon": 12.509811,
       "prezzi": {
-        "Benzina_serv": 1.788,
-        "Benzina_self": 1.788,
+        "Benzina_serv": 1.798,
+        "Benzina_self": 1.798,
         "Gasolio_serv": 1.898,
         "Gasolio_self": 1.898
       },
       "dist": 18.08
+    },
+    {
+      "id": 55728,
+      "bandiera": "Costantin",
+      "nome": "COSTANTIN GODEGA",
+      "indirizzo": "VIA LEVADA  1 31010",
+      "comune": "GODEGA DI SANT'URBANO",
+      "prov": "TV",
+      "lat": 45.896996,
+      "lon": 12.400138,
+      "prezzi": {
+        "Benzina_serv": 1.898,
+        "Benzina_self": 1.798,
+        "Gasolio_serv": 1.998,
+        "Gasolio_self": 1.898,
+        "GPL_serv": 0.758,
+        "Benzina speciale_serv": 1.998,
+        "Benzina speciale_self": 1.898,
+        "HVO100_serv": 1.969,
+        "HVO100_self": 1.869
+      },
+      "dist": 7.32
+    },
+    {
+      "id": 12269,
+      "bandiera": "Pompe Bianche",
+      "nome": "PINESE",
+      "indirizzo": "XVIII GIUGNO 1918 2 31058",
+      "comune": "SUSEGANA",
+      "prov": "TV",
+      "lat": 45.832059,
+      "lon": 12.226496,
+      "prezzi": {
+        "Benzina_serv": 1.839,
+        "Benzina_self": 1.839,
+        "Gasolio_serv": 1.898,
+        "Gasolio_self": 1.898
+      },
+      "dist": 9.67
     },
     {
       "id": 9880,
@@ -926,6 +873,25 @@
       "dist": 8.72
     },
     {
+      "id": 21307,
+      "bandiera": "Tamoil",
+      "nome": "stellaambrozzodistellasonia",
+      "indirizzo": "I. LOLLINI 11 31040",
+      "comune": "NERVESA DELLA BATTAGLIA",
+      "prov": "TV",
+      "lat": 45.819095,
+      "lon": 12.201705,
+      "prezzi": {
+        "Benzina_serv": 1.919,
+        "Benzina_self": 1.819,
+        "Gasolio_serv": 1.999,
+        "Gasolio_self": 1.899,
+        "HVO_serv": 1.869,
+        "HVO_self": 1.869
+      },
+      "dist": 11.8
+    },
+    {
       "id": 31525,
       "bandiera": "Vega",
       "nome": "VEGA NERVESA DELLA BATTAGLIA",
@@ -966,6 +932,24 @@
       "dist": 13.55
     },
     {
+      "id": 54207,
+      "bandiera": "Vega",
+      "nome": "VEGA ODERZO",
+      "indirizzo": "Via Concordia 24  31046",
+      "comune": "ODERZO",
+      "prov": "TV",
+      "lat": 45.794904,
+      "lon": 12.515861,
+      "prezzi": {
+        "Benzina_serv": 1.879,
+        "Benzina_self": 1.779,
+        "Gasolio_serv": 1.999,
+        "Gasolio_self": 1.899,
+        "GPL_serv": 0.739
+      },
+      "dist": 13.78
+    },
+    {
       "id": 34460,
       "bandiera": "Agip Eni",
       "nome": "Esso",
@@ -975,11 +959,11 @@
       "lat": 45.727422,
       "lon": 12.473471,
       "prezzi": {
-        "Benzina_serv": 1.979,
+        "Benzina_serv": 2.039,
         "Benzina_self": 1.839,
-        "Gasolio_serv": 2.059,
+        "Gasolio_serv": 2.099,
         "Gasolio_self": 1.899,
-        "Blue Diesel_serv": 2.349,
+        "Blue Diesel_serv": 2.249,
         "Blue Diesel_self": 2.049
       },
       "dist": 15.81
@@ -1127,24 +1111,6 @@
         "Gasolio_self": 1.909
       },
       "dist": 10.12
-    },
-    {
-      "id": 54207,
-      "bandiera": "Vega",
-      "nome": "VEGA ODERZO",
-      "indirizzo": "Via Concordia 24  31046",
-      "comune": "ODERZO",
-      "prov": "TV",
-      "lat": 45.794904,
-      "lon": 12.515861,
-      "prezzi": {
-        "Benzina_serv": 1.879,
-        "Benzina_self": 1.779,
-        "Gasolio_serv": 2.009,
-        "Gasolio_self": 1.909,
-        "GPL_serv": 0.739
-      },
-      "dist": 13.78
     },
     {
       "id": 34265,
@@ -1585,24 +1551,6 @@
       "dist": 9.58
     },
     {
-      "id": 50985,
-      "bandiera": "Api-Ip",
-      "nome": "F.LLI ROSOLEN S.N.C.",
-      "indirizzo": "VIA ODERZO 13 33080",
-      "comune": "PRATA DI PORDENONE",
-      "prov": "PN",
-      "lat": 45.870867,
-      "lon": 12.563396,
-      "prezzi": {
-        "Benzina_serv": 1.989,
-        "Benzina_self": 1.839,
-        "Gasolio_serv": 2.089,
-        "Gasolio_self": 1.929,
-        "GPL_serv": 0.769
-      },
-      "dist": 16.81
-    },
-    {
       "id": 24883,
       "bandiera": "Q8",
       "nome": "Q8",
@@ -1668,6 +1616,40 @@
         "Gasolio_self": 1.929
       },
       "dist": 17.42
+    },
+    {
+      "id": 54880,
+      "bandiera": "Agip Eni",
+      "nome": "FUEL FM",
+      "indirizzo": "ROMA 251 31020",
+      "comune": "VILLORBA",
+      "prov": "TV",
+      "lat": 45.735304,
+      "lon": 12.236667,
+      "prezzi": {
+        "Benzina_serv": 2.079,
+        "Benzina_self": 1.869,
+        "Gasolio_serv": 2.139,
+        "Gasolio_self": 1.929,
+        "Blue Diesel_serv": 2.239,
+        "Blue Diesel_self": 2.029
+      },
+      "dist": 14.7
+    },
+    {
+      "id": 15214,
+      "bandiera": "Pompe Bianche",
+      "nome": "SOTTANA",
+      "indirizzo": "VIA SAN ROCCO 40 31040",
+      "comune": "GIAVERA DEL MONTELLO",
+      "prov": "TV",
+      "lat": 45.785625,
+      "lon": 12.178707,
+      "prezzi": {
+        "Benzina_self": 1.875,
+        "Gasolio_self": 1.935
+      },
+      "dist": 14.68
     },
     {
       "id": 34170,
@@ -1909,15 +1891,15 @@
       "lat": 45.980605,
       "lon": 12.314451,
       "prezzi": {
-        "Benzina_serv": 2.008,
-        "Benzina_self": 1.799,
+        "Benzina_serv": 2.068,
+        "Benzina_self": 1.859,
         "Gasolio_serv": 2.148,
         "Gasolio_self": 1.939,
         "GPL_serv": 0.799,
-        "Blue Super_serv": 2.318,
-        "Blue Super_self": 2.109,
-        "Blue Diesel_serv": 2.248,
-        "Blue Diesel_self": 2.039
+        "Blue Super_serv": 2.378,
+        "Blue Super_self": 2.169,
+        "Blue Diesel_serv": 2.308,
+        "Blue Diesel_self": 2.099
       },
       "dist": 15.79
     },
@@ -2114,13 +2096,13 @@
       "lat": 45.867828,
       "lon": 12.273287,
       "prezzi": {
-        "Benzina_serv": 2.034,
+        "Benzina_serv": 2.074,
         "Benzina_self": 1.864,
-        "Gasolio_serv": 2.099,
+        "Gasolio_serv": 2.159,
         "Gasolio_self": 1.949,
-        "Blue Super_serv": 2.184,
+        "Blue Super_serv": 2.224,
         "Blue Super_self": 2.014,
-        "Blue Diesel_serv": 2.199,
+        "Blue Diesel_serv": 2.259,
         "Blue Diesel_self": 2.049,
         "HVOlution_self": 1.949
       },
@@ -2288,6 +2270,24 @@
         "HVOlution_self": 1.954
       },
       "dist": 12.82
+    },
+    {
+      "id": 50985,
+      "bandiera": "Api-Ip",
+      "nome": "F.LLI ROSOLEN S.N.C.",
+      "indirizzo": "VIA ODERZO 13 33080",
+      "comune": "PRATA DI PORDENONE",
+      "prov": "PN",
+      "lat": 45.870867,
+      "lon": 12.563396,
+      "prezzi": {
+        "Benzina_serv": 2.009,
+        "Benzina_self": 1.859,
+        "Gasolio_serv": 2.119,
+        "Gasolio_self": 1.959,
+        "GPL_serv": 0.769
+      },
+      "dist": 16.81
     },
     {
       "id": 13109,
