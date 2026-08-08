@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-07T09:38:54.087008+00:00",
+  "aggiornato": "2026-08-08T09:20:29.814303+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -85,9 +85,41 @@
       "lon": 12.385527,
       "prezzi": {
         "Benzina_self": 1.979,
-        "Gasolio_self": 2.049
+        "Gasolio_self": 2.029
       },
       "dist": 17.38
+    },
+    {
+      "id": 12084,
+      "bandiera": "Api-Ip",
+      "nome": "PONTE DI PIAVE",
+      "indirizzo": "VIA POSTUMIA  31047",
+      "comune": "PONTE DI PIAVE",
+      "prov": "TV",
+      "lat": 45.715471,
+      "lon": 12.462796,
+      "prezzi": {
+        "Benzina_self": 1.999,
+        "Gasolio_self": 2.039
+      },
+      "dist": 16.43
+    },
+    {
+      "id": 32470,
+      "bandiera": "Oil Italia",
+      "nome": "OIL ITALIA SAN BIAGIO DI CALLALTA",
+      "indirizzo": "VIA POSTUMIA EST, 159 31048",
+      "comune": "SAN BIAGIO DI CALLALTA",
+      "prov": "TV",
+      "lat": 45.706189,
+      "lon": 12.443084,
+      "prezzi": {
+        "Benzina_serv": 1.989,
+        "Benzina_self": 1.989,
+        "Gasolio_serv": 2.039,
+        "Gasolio_self": 2.039
+      },
+      "dist": 16.6
     },
     {
       "id": 56567,
@@ -128,6 +160,41 @@
       "dist": 19.29
     },
     {
+      "id": 46140,
+      "bandiera": "bioil",
+      "nome": "Bioil",
+      "indirizzo": "via salvo d'acquisto 22/1 31030",
+      "comune": "CARBONERA",
+      "prov": "TV",
+      "lat": 45.679896,
+      "lon": 12.29605,
+      "prezzi": {
+        "Benzina_self": 1.989,
+        "Gasolio_self": 2.059,
+        "GPL_self": 0.729,
+        "Benzina speciale_self": 2.129,
+        "Gasolio speciale_self": 2.109
+      },
+      "dist": 18.4
+    },
+    {
+      "id": 62630,
+      "bandiera": "AZZALINI ENERGIE",
+      "nome": "Azzalini Energie Colle Umberto",
+      "indirizzo": "Via MenarÃ¨",
+      "comune": "COLLE UMBERTO",
+      "prov": "TV",
+      "lat": 45.943523,
+      "lon": 12.323323,
+      "prezzi": {
+        "Benzina_serv": 1.989,
+        "Benzina_self": 1.959,
+        "Gasolio_serv": 2.089,
+        "Gasolio_self": 2.059
+      },
+      "dist": 11.61
+    },
+    {
       "id": 48343,
       "bandiera": "Enercoop",
       "nome": "Enercoop Conegliano",
@@ -145,19 +212,85 @@
       "dist": 4.89
     },
     {
-      "id": 12084,
-      "bandiera": "Api-Ip",
-      "nome": "PONTE DI PIAVE",
-      "indirizzo": "VIA POSTUMIA  31047",
-      "comune": "PONTE DI PIAVE",
+      "id": 5010,
+      "bandiera": "Termoveneta srl",
+      "nome": "Termoveneta srl (Cordignano)",
+      "indirizzo": "Statale 13 Pontebbana, Km. 62+500, dir. lato sx - 31016",
+      "comune": "CORDIGNANO",
       "prov": "TV",
-      "lat": 45.715471,
-      "lon": 12.462796,
+      "lat": 45.943175,
+      "lon": 12.446271,
       "prezzi": {
-        "Benzina_self": 2.029,
+        "Benzina_serv": 1.979,
+        "Benzina_self": 1.959,
+        "Gasolio_serv": 2.079,
         "Gasolio_self": 2.059
       },
-      "dist": 16.43
+      "dist": 13.57
+    },
+    {
+      "id": 60864,
+      "bandiera": "Retitalia",
+      "nome": "RETITALIA 80104 - GAIARINE",
+      "indirizzo": "Via Vizza 3/A 31018",
+      "comune": "GAIARINE",
+      "prov": "TV",
+      "lat": 45.882575,
+      "lon": 12.487321,
+      "prezzi": {
+        "Benzina_self": 1.959,
+        "Gasolio_self": 2.059
+      },
+      "dist": 11.55
+    },
+    {
+      "id": 60311,
+      "bandiera": "Retitalia",
+      "nome": "RETITALIA 80001 - SAN VENDEMIANO",
+      "indirizzo": "Via Liberazione 153  31020",
+      "comune": "SAN VENDEMIANO",
+      "prov": "TV",
+      "lat": 45.876703,
+      "lon": 12.338917,
+      "prezzi": {
+        "Benzina_self": 1.959,
+        "Gasolio_self": 2.059
+      },
+      "dist": 4.08
+    },
+    {
+      "id": 8893,
+      "bandiera": "Esso",
+      "nome": "ESSO",
+      "indirizzo": "VIA DANTE ALIGHIERI 95 31027, SPRESIANO (TV)  31027",
+      "comune": "SPRESIANO",
+      "prov": "TV",
+      "lat": 45.774028,
+      "lon": 12.256061,
+      "prezzi": {
+        "Benzina_serv": 2.159,
+        "Benzina_self": 1.959,
+        "Gasolio_serv": 2.259,
+        "Gasolio_self": 2.059,
+        "Gasolio Premium_serv": 2.379,
+        "Gasolio Premium_self": 2.179
+      },
+      "dist": 10.45
+    },
+    {
+      "id": 35140,
+      "bandiera": "Api-Ip",
+      "nome": "TARZO - CORBANESE",
+      "indirizzo": "VIA XXV APRILE  31020",
+      "comune": "TARZO",
+      "prov": "TV",
+      "lat": 45.969993,
+      "lon": 12.233248,
+      "prezzi": {
+        "Benzina_self": 2.019,
+        "Gasolio_self": 2.059
+      },
+      "dist": 16.99
     },
     {
       "id": 61270,
@@ -173,7 +306,7 @@
         "Benzina_self": 1.959,
         "Gasolio_serv": 2.279,
         "Gasolio_self": 2.059,
-        "Metano_serv": 1.332,
+        "Metano_serv": 1.432,
         "Blue Diesel_self": 2.159,
         "HVOlution_self": 2.059
       },
@@ -268,6 +401,58 @@
       "dist": 7.68
     },
     {
+      "id": 60981,
+      "bandiera": "Agip Eni",
+      "nome": "ENI 13642 CONEGLIANO",
+      "indirizzo": "SS51 via menare' 181",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.939729,
+      "lon": 12.322038,
+      "prezzi": {
+        "Benzina_self": 1.969,
+        "Gasolio_self": 2.069
+      },
+      "dist": 11.21
+    },
+    {
+      "id": 47012,
+      "bandiera": "Esso",
+      "nome": "ESSO CORDIGNANO",
+      "indirizzo": "13 Pontebbana, Km. 62 + 915, VENEZIA - 31016",
+      "comune": "CORDIGNANO",
+      "prov": "TV",
+      "lat": 45.943405,
+      "lon": 12.451949,
+      "prezzi": {
+        "Benzina_self": 1.969,
+        "Gasolio_self": 2.069
+      },
+      "dist": 13.83
+    },
+    {
+      "id": 55728,
+      "bandiera": "Costantin",
+      "nome": "COSTANTIN GODEGA",
+      "indirizzo": "VIA LEVADA  1 31010",
+      "comune": "GODEGA DI SANT'URBANO",
+      "prov": "TV",
+      "lat": 45.896996,
+      "lon": 12.400138,
+      "prezzi": {
+        "Benzina_serv": 2.077,
+        "Benzina_self": 1.977,
+        "Gasolio_serv": 2.169,
+        "Gasolio_self": 2.069,
+        "GPL_serv": 0.758,
+        "Benzina speciale_serv": 2.177,
+        "Benzina speciale_self": 2.077,
+        "HVO100_serv": 2.119,
+        "HVO100_self": 2.019
+      },
+      "dist": 7.32
+    },
+    {
       "id": 53529,
       "bandiera": "Tamoil",
       "nome": "6972",
@@ -283,19 +468,19 @@
       "dist": 17.42
     },
     {
-      "id": 6486,
-      "bandiera": "Q8",
-      "nome": "SANTA LUCIA DI PIAVE VIA DISTRETTUALE 92",
-      "indirizzo": "VIA DISTRETTUALE 92 31025",
-      "comune": "SANTA LUCIA DI PIAVE",
+      "id": 56574,
+      "bandiera": "Esso",
+      "nome": "04813 ESSO VITTORIO VENETO",
+      "indirizzo": "Via G. Matteotti 122 31029",
+      "comune": "VITTORIO VENETO",
       "prov": "TV",
-      "lat": 45.853908,
-      "lon": 12.307193,
+      "lat": 45.973002,
+      "lon": 12.310181,
       "prezzi": {
-        "Benzina_self": 1.989,
+        "Benzina_self": 1.969,
         "Gasolio_self": 2.069
       },
-      "dist": 3.67
+      "dist": 15.02
     },
     {
       "id": 58264,
@@ -359,6 +544,23 @@
       "dist": 19.1
     },
     {
+      "id": 63354,
+      "bandiera": "Costantin",
+      "nome": "COSTANTIN SACILE",
+      "indirizzo": "Via S. Liberale 11  33077",
+      "comune": "SACILE",
+      "prov": "PN",
+      "lat": 45.959932,
+      "lon": 12.509811,
+      "prezzi": {
+        "Benzina_serv": 1.977,
+        "Benzina_self": 1.977,
+        "Gasolio_serv": 2.075,
+        "Gasolio_self": 2.075
+      },
+      "dist": 18.08
+    },
+    {
       "id": 13967,
       "bandiera": "Pompe Bianche",
       "nome": "STOP&GO",
@@ -393,21 +595,35 @@
       "dist": 7.7
     },
     {
-      "id": 32470,
-      "bandiera": "Oil Italia",
-      "nome": "OIL ITALIA SAN BIAGIO DI CALLALTA",
-      "indirizzo": "VIA POSTUMIA EST, 159 31048",
-      "comune": "SAN BIAGIO DI CALLALTA",
+      "id": 22484,
+      "bandiera": "Costantin",
+      "nome": "Costantin Oderzo",
+      "indirizzo": "via per piavon 50 31046",
+      "comune": "ODERZO",
       "prov": "TV",
-      "lat": 45.706189,
-      "lon": 12.443084,
+      "lat": 45.762254,
+      "lon": 12.526471,
       "prezzi": {
-        "Benzina_serv": 1.989,
-        "Benzina_self": 1.989,
-        "Gasolio_serv": 2.077,
+        "Benzina_self": 1.977,
+        "Gasolio_self": 2.077,
+        "HVO100_self": 2.019
+      },
+      "dist": 16.19
+    },
+    {
+      "id": 36186,
+      "bandiera": "GNP",
+      "nome": "GNP PONTE DI PIAVE",
+      "indirizzo": "VIA JESOLO 20 31047, PONTE DI PIAVE (TV) 20 31047",
+      "comune": "PONTE DI PIAVE",
+      "prov": "TV",
+      "lat": 45.712734,
+      "lon": 12.464432,
+      "prezzi": {
+        "Benzina_self": 1.987,
         "Gasolio_self": 2.077
       },
-      "dist": 16.6
+      "dist": 16.76
     },
     {
       "id": 7281,
@@ -498,21 +714,21 @@
       "dist": 18.21
     },
     {
-      "id": 62630,
-      "bandiera": "AZZALINI ENERGIE",
-      "nome": "Azzalini Energie Colle Umberto",
-      "indirizzo": "Via MenarÃ¨",
-      "comune": "COLLE UMBERTO",
+      "id": 11221,
+      "bandiera": "Pompe Bianche",
+      "nome": "Oleochimica del Piave",
+      "indirizzo": "VIA TRIESTE 259/E 31030",
+      "comune": "ARCADE",
       "prov": "TV",
-      "lat": 45.943523,
-      "lon": 12.323323,
+      "lat": 45.783098,
+      "lon": 12.236712,
       "prezzi": {
-        "Benzina_serv": 2.005,
-        "Benzina_self": 1.975,
-        "Gasolio_serv": 2.109,
+        "Benzina_serv": 2.049,
+        "Benzina_self": 1.979,
+        "Gasolio_serv": 2.149,
         "Gasolio_self": 2.079
       },
-      "dist": 11.61
+      "dist": 10.93
     },
     {
       "id": 6487,
@@ -524,7 +740,7 @@
       "lat": 45.895051,
       "lon": 12.296328,
       "prezzi": {
-        "Benzina_self": 1.989,
+        "Benzina_self": 1.979,
         "Gasolio_self": 2.079
       },
       "dist": 7.35
@@ -539,7 +755,7 @@
       "lat": 45.895411,
       "lon": 12.321404,
       "prezzi": {
-        "Benzina_self": 1.989,
+        "Benzina_self": 1.979,
         "Gasolio_self": 2.079
       },
       "dist": 6.47
@@ -565,6 +781,24 @@
       "dist": 5.55
     },
     {
+      "id": 61704,
+      "bandiera": "San Marco Petroli",
+      "nome": "SMP CONEGLIANO, Viale Venezia",
+      "indirizzo": "Viale Venezia 105  31015",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.87094,
+      "lon": 12.278124,
+      "prezzi": {
+        "Benzina_self": 1.989,
+        "Gasolio_self": 2.079,
+        "GPL_serv": 0.749,
+        "F101_self": 2.189,
+        "REHVO_self": 2.079
+      },
+      "dist": 6.54
+    },
+    {
       "id": 31280,
       "bandiera": "Agip Eni",
       "nome": "SS13 Service di Cenedese Eugenia",
@@ -585,23 +819,6 @@
         "HVOlution_self": 2.079
       },
       "dist": 6.7
-    },
-    {
-      "id": 5010,
-      "bandiera": "Termoveneta srl",
-      "nome": "Termoveneta srl (Cordignano)",
-      "indirizzo": "Statale 13 Pontebbana, Km. 62+500, dir. lato sx - 31016",
-      "comune": "CORDIGNANO",
-      "prov": "TV",
-      "lat": 45.943175,
-      "lon": 12.446271,
-      "prezzi": {
-        "Benzina_serv": 1.999,
-        "Benzina_self": 1.979,
-        "Gasolio_serv": 2.099,
-        "Gasolio_self": 2.079
-      },
-      "dist": 13.57
     },
     {
       "id": 60925,
@@ -626,19 +843,19 @@
       "dist": 17.81
     },
     {
-      "id": 60864,
-      "bandiera": "Retitalia",
-      "nome": "RETITALIA 80104 - GAIARINE",
-      "indirizzo": "Via Vizza 3/A 31018",
-      "comune": "GAIARINE",
+      "id": 62493,
+      "bandiera": "Api-Ip",
+      "nome": "IP  41210",
+      "indirizzo": "Via Roma 106  31010",
+      "comune": "GODEGA DI SANT'URBANO",
       "prov": "TV",
-      "lat": 45.882575,
-      "lon": 12.487321,
+      "lat": 45.930774,
+      "lon": 12.400752,
       "prezzi": {
         "Benzina_self": 1.979,
         "Gasolio_self": 2.079
       },
-      "dist": 11.55
+      "dist": 10.72
     },
     {
       "id": 62492,
@@ -793,7 +1010,7 @@
       "lat": 45.783248,
       "lon": 12.438149,
       "prezzi": {
-        "Benzina_self": 1.979,
+        "Benzina_self": 1.957,
         "Gasolio_self": 2.079
       },
       "dist": 9.33
@@ -893,40 +1110,6 @@
       "dist": 6.81
     },
     {
-      "id": 60311,
-      "bandiera": "Retitalia",
-      "nome": "RETITALIA 80001 - SAN VENDEMIANO",
-      "indirizzo": "Via Liberazione 153  31020",
-      "comune": "SAN VENDEMIANO",
-      "prov": "TV",
-      "lat": 45.876703,
-      "lon": 12.338917,
-      "prezzi": {
-        "Benzina_self": 1.979,
-        "Gasolio_self": 2.079
-      },
-      "dist": 4.08
-    },
-    {
-      "id": 60426,
-      "bandiera": "Tamoil",
-      "nome": "CARS & FUES SRLS",
-      "indirizzo": "DISTRETTUALE 41/B 31025",
-      "comune": "SANTA LUCIA DI PIAVE",
-      "prov": "TV",
-      "lat": 45.857314,
-      "lon": 12.305627,
-      "prezzi": {
-        "Benzina_serv": 2.119,
-        "Benzina_self": 1.999,
-        "Gasolio_serv": 2.179,
-        "Gasolio_self": 2.079,
-        "HVO_serv": 2.149,
-        "HVO_self": 2.049
-      },
-      "dist": 3.94
-    },
-    {
       "id": 8853,
       "bandiera": "bioil",
       "nome": "Bioil",
@@ -941,40 +1124,6 @@
         "GPL_serv": 0.735
       },
       "dist": 15.17
-    },
-    {
-      "id": 8893,
-      "bandiera": "Esso",
-      "nome": "ESSO",
-      "indirizzo": "VIA DANTE ALIGHIERI 95 31027, SPRESIANO (TV)  31027",
-      "comune": "SPRESIANO",
-      "prov": "TV",
-      "lat": 45.774028,
-      "lon": 12.256061,
-      "prezzi": {
-        "Benzina_serv": 2.179,
-        "Benzina_self": 1.979,
-        "Gasolio_serv": 2.279,
-        "Gasolio_self": 2.079,
-        "Gasolio Premium_serv": 2.399,
-        "Gasolio Premium_self": 2.199
-      },
-      "dist": 10.45
-    },
-    {
-      "id": 35140,
-      "bandiera": "Api-Ip",
-      "nome": "TARZO - CORBANESE",
-      "indirizzo": "VIA XXV APRILE  31020",
-      "comune": "TARZO",
-      "prov": "TV",
-      "lat": 45.969993,
-      "lon": 12.233248,
-      "prezzi": {
-        "Benzina_self": 2.019,
-        "Gasolio_self": 2.079
-      },
-      "dist": 16.99
     },
     {
       "id": 57352,
@@ -1061,43 +1210,6 @@
       "dist": 9.73
     },
     {
-      "id": 55728,
-      "bandiera": "Costantin",
-      "nome": "COSTANTIN GODEGA",
-      "indirizzo": "VIA LEVADA  1 31010",
-      "comune": "GODEGA DI SANT'URBANO",
-      "prov": "TV",
-      "lat": 45.896996,
-      "lon": 12.400138,
-      "prezzi": {
-        "Benzina_serv": 2.077,
-        "Benzina_self": 1.977,
-        "Gasolio_serv": 2.187,
-        "Gasolio_self": 2.087,
-        "GPL_serv": 0.758,
-        "Benzina speciale_serv": 2.177,
-        "Benzina speciale_self": 2.077,
-        "HVO100_serv": 2.139,
-        "HVO100_self": 2.039
-      },
-      "dist": 7.32
-    },
-    {
-      "id": 36186,
-      "bandiera": "GNP",
-      "nome": "GNP PONTE DI PIAVE",
-      "indirizzo": "VIA JESOLO 20 31047, PONTE DI PIAVE (TV) 20 31047",
-      "comune": "PONTE DI PIAVE",
-      "prov": "TV",
-      "lat": 45.712734,
-      "lon": 12.464432,
-      "prezzi": {
-        "Benzina_self": 1.997,
-        "Gasolio_self": 2.087
-      },
-      "dist": 16.76
-    },
-    {
       "id": 13190,
       "bandiera": "Energyca",
       "nome": "sandro dal cin",
@@ -1178,7 +1290,7 @@
       "lat": 45.892082,
       "lon": 12.311555,
       "prezzi": {
-        "Benzina_self": 1.999,
+        "Benzina_self": 1.989,
         "Gasolio_self": 2.089
       },
       "dist": 6.45
@@ -1193,25 +1305,51 @@
       "lat": 45.882505,
       "lon": 12.315375,
       "prezzi": {
-        "Benzina_self": 1.999,
+        "Benzina_self": 1.989,
         "Gasolio_self": 2.089
       },
       "dist": 5.37
     },
     {
-      "id": 60981,
-      "bandiera": "Agip Eni",
-      "nome": "ENI 13642 CONEGLIANO",
-      "indirizzo": "SS51 via menare' 181",
-      "comune": "CONEGLIANO",
+      "id": 21616,
+      "bandiera": "MZ PETROLI",
+      "nome": "MZ PETROLI  LUTRANO",
+      "indirizzo": "VIA ROMA 513 E 31043, FONTANELLE (TV) 513/E 31043",
+      "comune": "FONTANELLE",
       "prov": "TV",
-      "lat": 45.939729,
-      "lon": 12.322038,
+      "lat": 45.812458,
+      "lon": 12.478357,
       "prezzi": {
-        "Benzina_self": 1.989,
-        "Gasolio_self": 2.089
+        "Benzina_serv": 1.979,
+        "Benzina_self": 1.979,
+        "Gasolio_serv": 2.089,
+        "Gasolio_self": 2.089,
+        "GPL_serv": 0.735,
+        "Benzina speciale_serv": 2.037,
+        "Benzina speciale_self": 2.037,
+        "Gasolio speciale_serv": 2.219,
+        "Gasolio speciale_self": 2.219
       },
-      "dist": 11.21
+      "dist": 10.38
+    },
+    {
+      "id": 30464,
+      "bandiera": "Esso",
+      "nome": "TORMENA NICOLA Pieve di Soligo",
+      "indirizzo": "VIA CHISINI 123 31053",
+      "comune": "PIEVE DI SOLIGO",
+      "prov": "TV",
+      "lat": 45.895387,
+      "lon": 12.177712,
+      "prezzi": {
+        "Benzina_serv": 1.989,
+        "Benzina_self": 1.989,
+        "Gasolio_serv": 2.089,
+        "Gasolio_self": 2.089,
+        "Supreme Diesel_serv": 2.269,
+        "Supreme Diesel_self": 2.269
+      },
+      "dist": 14.7
     },
     {
       "id": 42368,
@@ -1256,15 +1394,64 @@
       "lon": 12.32082,
       "prezzi": {
         "Benzina_serv": 2.189,
-        "Benzina_self": 1.999,
-        "Gasolio_serv": 2.229,
+        "Benzina_self": 1.989,
+        "Gasolio_serv": 2.289,
         "Gasolio_self": 2.089,
         "Benzina WR 100_serv": 2.339,
-        "Benzina WR 100_self": 2.149,
-        "HVO_serv": 2.199,
+        "Benzina WR 100_self": 2.139,
+        "HVO_serv": 2.259,
         "HVO_self": 2.059
       },
       "dist": 5.12
+    },
+    {
+      "id": 60426,
+      "bandiera": "Tamoil",
+      "nome": "CARS & FUES SRLS",
+      "indirizzo": "DISTRETTUALE 41/B 31025",
+      "comune": "SANTA LUCIA DI PIAVE",
+      "prov": "TV",
+      "lat": 45.857314,
+      "lon": 12.305627,
+      "prezzi": {
+        "Benzina_serv": 2.079,
+        "Benzina_self": 1.959,
+        "Gasolio_serv": 2.169,
+        "Gasolio_self": 2.089,
+        "HVO_serv": 2.139,
+        "HVO_self": 2.059
+      },
+      "dist": 3.94
+    },
+    {
+      "id": 6486,
+      "bandiera": "Q8",
+      "nome": "SANTA LUCIA DI PIAVE VIA DISTRETTUALE 92",
+      "indirizzo": "VIA DISTRETTUALE 92 31025",
+      "comune": "SANTA LUCIA DI PIAVE",
+      "prov": "TV",
+      "lat": 45.853908,
+      "lon": 12.307193,
+      "prezzi": {
+        "Benzina_self": 1.989,
+        "Gasolio_self": 2.089
+      },
+      "dist": 3.67
+    },
+    {
+      "id": 40131,
+      "bandiera": "Retitalia",
+      "nome": "BORTOLINI ALDO FALZE'",
+      "indirizzo": "PIEVE DI SOLIGO 19 31020",
+      "comune": "SERNAGLIA DELLA BATTAGLIA",
+      "prov": "TV",
+      "lat": 45.8673,
+      "lon": 12.180828,
+      "prezzi": {
+        "Benzina_self": 1.989,
+        "Gasolio_self": 2.089
+      },
+      "dist": 13.48
     },
     {
       "id": 45567,
@@ -1282,19 +1469,21 @@
       "dist": 18.85
     },
     {
-      "id": 56574,
-      "bandiera": "Esso",
-      "nome": "04813 ESSO VITTORIO VENETO",
-      "indirizzo": "Via G. Matteotti 122 31029",
+      "id": 18685,
+      "bandiera": "Api-Ip",
+      "nome": "Totalerg Vittorio Veneto",
+      "indirizzo": "via Sant'Antonio da Padova 249 31029",
       "comune": "VITTORIO VENETO",
       "prov": "TV",
-      "lat": 45.973002,
-      "lon": 12.310181,
+      "lat": 45.968802,
+      "lon": 12.31481,
       "prezzi": {
-        "Benzina_self": 1.989,
+        "Benzina_serv": 2.229,
+        "Benzina_self": 1.999,
+        "Gasolio_serv": 2.329,
         "Gasolio_self": 2.089
       },
-      "dist": 15.02
+      "dist": 14.49
     },
     {
       "id": 6490,
@@ -1329,23 +1518,6 @@
       "dist": 11.1
     },
     {
-      "id": 63354,
-      "bandiera": "Costantin",
-      "nome": "COSTANTIN SACILE",
-      "indirizzo": "Via S. Liberale 11  33077",
-      "comune": "SACILE",
-      "prov": "PN",
-      "lat": 45.959932,
-      "lon": 12.509811,
-      "prezzi": {
-        "Benzina_serv": 1.987,
-        "Benzina_self": 1.987,
-        "Gasolio_serv": 2.097,
-        "Gasolio_self": 2.097
-      },
-      "dist": 18.08
-    },
-    {
       "id": 28539,
       "bandiera": "Costantin",
       "nome": "COSTANTIN - CARBONERA",
@@ -1361,44 +1533,6 @@
         "HVO100_self": 2.039
       },
       "dist": 12.08
-    },
-    {
-      "id": 21616,
-      "bandiera": "MZ PETROLI",
-      "nome": "MZ PETROLI  LUTRANO",
-      "indirizzo": "VIA ROMA 513 E 31043, FONTANELLE (TV) 513/E 31043",
-      "comune": "FONTANELLE",
-      "prov": "TV",
-      "lat": 45.812458,
-      "lon": 12.478357,
-      "prezzi": {
-        "Benzina_serv": 1.979,
-        "Benzina_self": 1.979,
-        "Gasolio_serv": 2.097,
-        "Gasolio_self": 2.097,
-        "GPL_serv": 0.735,
-        "Benzina speciale_serv": 2.037,
-        "Benzina speciale_self": 2.037,
-        "Gasolio speciale_serv": 2.219,
-        "Gasolio speciale_self": 2.219
-      },
-      "dist": 10.38
-    },
-    {
-      "id": 22484,
-      "bandiera": "Costantin",
-      "nome": "Costantin Oderzo",
-      "indirizzo": "via per piavon 50 31046",
-      "comune": "ODERZO",
-      "prov": "TV",
-      "lat": 45.762254,
-      "lon": 12.526471,
-      "prezzi": {
-        "Benzina_self": 1.977,
-        "Gasolio_self": 2.097,
-        "HVO100_self": 2.039
-      },
-      "dist": 16.19
     },
     {
       "id": 16401,
@@ -1417,6 +1551,42 @@
         "GPL_serv": 0.755
       },
       "dist": 11.11
+    },
+    {
+      "id": 56060,
+      "bandiera": "Energyca",
+      "nome": "Energyca Francenigo",
+      "indirizzo": "PER BRUGNERA 10/A 31018",
+      "comune": "GAIARINE",
+      "prov": "TV",
+      "lat": 45.901414,
+      "lon": 12.494438,
+      "prezzi": {
+        "Benzina_serv": 2.048,
+        "Benzina_self": 1.998,
+        "Gasolio_serv": 2.148,
+        "Gasolio_self": 2.098,
+        "GPL_serv": 0.738,
+        "Gasolio speciale_serv": 2.188,
+        "Gasolio speciale_self": 2.138
+      },
+      "dist": 13.0
+    },
+    {
+      "id": 30038,
+      "bandiera": "San Marco Petroli",
+      "nome": "BERTOLI SAS - TAP/SMP",
+      "indirizzo": "CONTI AGOSTI 56 31010",
+      "comune": "MARENO DI PIAVE",
+      "prov": "TV",
+      "lat": 45.844096,
+      "lon": 12.347737,
+      "prezzi": {
+        "Benzina_self": 1.949,
+        "Gasolio_self": 2.098,
+        "GP DIESEL_self": 2.198
+      },
+      "dist": 0.42
     },
     {
       "id": 16587,
@@ -1457,6 +1627,21 @@
       "dist": 3.24
     },
     {
+      "id": 22355,
+      "bandiera": "Q8",
+      "nome": "BRUGNERA VIA I.SANTAROSSA 2-LOC.MARON",
+      "indirizzo": "VIA I.SANTAROSSA - LOC.MARON 2 33070",
+      "comune": "BRUGNERA",
+      "prov": "PN",
+      "lat": 45.894151,
+      "lon": 12.556471,
+      "prezzi": {
+        "Benzina_self": 1.999,
+        "Gasolio_self": 2.099
+      },
+      "dist": 17.0
+    },
+    {
       "id": 50985,
       "bandiera": "Api-Ip",
       "nome": "F.LLI ROSOLEN S.N.C.",
@@ -1475,39 +1660,19 @@
       "dist": 16.81
     },
     {
-      "id": 11221,
-      "bandiera": "Pompe Bianche",
-      "nome": "Oleochimica del Piave",
-      "indirizzo": "VIA TRIESTE 259/E 31030",
-      "comune": "ARCADE",
-      "prov": "TV",
-      "lat": 45.783098,
-      "lon": 12.236712,
+      "id": 11777,
+      "bandiera": "Q8",
+      "nome": "SACILE-VIALE REPUBBLICA 49",
+      "indirizzo": "VIALE REPUBBLICA 49 33077",
+      "comune": "SACILE",
+      "prov": "PN",
+      "lat": 45.955556,
+      "lon": 12.49458,
       "prezzi": {
-        "Benzina_serv": 2.049,
-        "Benzina_self": 1.999,
-        "Gasolio_serv": 2.149,
+        "Benzina_self": 1.979,
         "Gasolio_self": 2.099
       },
-      "dist": 10.93
-    },
-    {
-      "id": 46140,
-      "bandiera": "bioil",
-      "nome": "Bioil",
-      "indirizzo": "via salvo d'acquisto 22/1 31030",
-      "comune": "CARBONERA",
-      "prov": "TV",
-      "lat": 45.679896,
-      "lon": 12.29605,
-      "prezzi": {
-        "Benzina_self": 1.989,
-        "Gasolio_self": 2.099,
-        "GPL_self": 0.729,
-        "Benzina speciale_self": 2.129,
-        "Gasolio speciale_self": 2.149
-      },
-      "dist": 18.4
+      "dist": 16.93
     },
     {
       "id": 61518,
@@ -1565,24 +1730,6 @@
       "dist": 6.54
     },
     {
-      "id": 61704,
-      "bandiera": "San Marco Petroli",
-      "nome": "SMP CONEGLIANO, Viale Venezia",
-      "indirizzo": "Viale Venezia 105  31015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.87094,
-      "lon": 12.278124,
-      "prezzi": {
-        "Benzina_self": 1.999,
-        "Gasolio_self": 2.099,
-        "GPL_serv": 0.749,
-        "F101_self": 2.199,
-        "REHVO_self": 2.099
-      },
-      "dist": 6.54
-    },
-    {
       "id": 6491,
       "bandiera": "Q8",
       "nome": "CORDIGNANO VIA TRIESTE IMP.Q8",
@@ -1615,6 +1762,23 @@
       "dist": 19.7
     },
     {
+      "id": 43620,
+      "bandiera": "Pompe Bianche",
+      "nome": "DA OIL - FREGONA",
+      "indirizzo": "VIA GUGLIELMO MARCONI 4 31010",
+      "comune": "FREGONA",
+      "prov": "TV",
+      "lat": 46.007996,
+      "lon": 12.339736,
+      "prezzi": {
+        "Benzina_serv": 1.979,
+        "Benzina_self": 1.979,
+        "Gasolio_serv": 2.099,
+        "Gasolio_self": 2.099
+      },
+      "dist": 18.6
+    },
+    {
       "id": 10982,
       "bandiera": "Api-Ip",
       "nome": "ip gruppo api",
@@ -1628,21 +1792,6 @@
         "Gasolio_self": 2.099
       },
       "dist": 17.55
-    },
-    {
-      "id": 62493,
-      "bandiera": "Api-Ip",
-      "nome": "IP  41210",
-      "indirizzo": "Via Roma 106  31010",
-      "comune": "GODEGA DI SANT'URBANO",
-      "prov": "TV",
-      "lat": 45.930774,
-      "lon": 12.400752,
-      "prezzi": {
-        "Benzina_self": 2.039,
-        "Gasolio_self": 2.099
-      },
-      "dist": 10.72
     },
     {
       "id": 52517,
@@ -1820,21 +1969,6 @@
       "dist": 7.17
     },
     {
-      "id": 40131,
-      "bandiera": "Retitalia",
-      "nome": "BORTOLINI ALDO FALZE'",
-      "indirizzo": "PIEVE DI SOLIGO 19 31020",
-      "comune": "SERNAGLIA DELLA BATTAGLIA",
-      "prov": "TV",
-      "lat": 45.8673,
-      "lon": 12.180828,
-      "prezzi": {
-        "Benzina_self": 1.999,
-        "Gasolio_self": 2.099
-      },
-      "dist": 13.48
-    },
-    {
       "id": 62296,
       "bandiera": "Q8",
       "nome": "TREVISO VIA BRIGATA TREVISO 23",
@@ -1963,23 +2097,6 @@
       "dist": 11.8
     },
     {
-      "id": 18685,
-      "bandiera": "Api-Ip",
-      "nome": "Totalerg Vittorio Veneto",
-      "indirizzo": "via Sant'Antonio da Padova 249 31029",
-      "comune": "VITTORIO VENETO",
-      "prov": "TV",
-      "lat": 45.968802,
-      "lon": 12.31481,
-      "prezzi": {
-        "Benzina_serv": 2.229,
-        "Benzina_self": 1.999,
-        "Gasolio_serv": 2.329,
-        "Gasolio_self": 2.099
-      },
-      "dist": 14.49
-    },
-    {
       "id": 38263,
       "bandiera": "Api-Ip",
       "nome": "IP",
@@ -2037,54 +2154,24 @@
       "dist": 17.81
     },
     {
-      "id": 56060,
-      "bandiera": "Energyca",
-      "nome": "Energyca Francenigo",
-      "indirizzo": "PER BRUGNERA 10/A 31018",
-      "comune": "GAIARINE",
-      "prov": "TV",
-      "lat": 45.901414,
-      "lon": 12.494438,
-      "prezzi": {
-        "Benzina_serv": 2.038,
-        "Benzina_self": 1.988,
-        "Gasolio_serv": 2.158,
-        "Gasolio_self": 2.108,
-        "GPL_serv": 0.738,
-        "Gasolio speciale_serv": 2.188,
-        "Gasolio speciale_self": 2.138
-      },
-      "dist": 13.0
-    },
-    {
-      "id": 22355,
-      "bandiera": "Q8",
-      "nome": "BRUGNERA VIA I.SANTAROSSA 2-LOC.MARON",
-      "indirizzo": "VIA I.SANTAROSSA - LOC.MARON 2 33070",
-      "comune": "BRUGNERA",
+      "id": 13109,
+      "bandiera": "Agip Eni",
+      "nome": "Imp. Som-EniLive di BERTOLO MAURO & C. s.n.c.",
+      "indirizzo": "Via CROCE 6 33080",
+      "comune": "PRATA DI PORDENONE",
       "prov": "PN",
-      "lat": 45.894151,
-      "lon": 12.556471,
+      "lat": 45.898576,
+      "lon": 12.576983,
       "prezzi": {
-        "Benzina_self": 2.009,
-        "Gasolio_self": 2.109
+        "Benzina_serv": 2.239,
+        "Benzina_self": 2.029,
+        "Gasolio_serv": 2.319,
+        "Gasolio_self": 2.109,
+        "GPL_serv": 0.699,
+        "Blue Diesel_serv": 2.449,
+        "Blue Diesel_self": 2.239
       },
-      "dist": 17.0
-    },
-    {
-      "id": 11777,
-      "bandiera": "Q8",
-      "nome": "SACILE-VIALE REPUBBLICA 49",
-      "indirizzo": "VIALE REPUBBLICA 49 33077",
-      "comune": "SACILE",
-      "prov": "PN",
-      "lat": 45.955556,
-      "lon": 12.49458,
-      "prezzi": {
-        "Benzina_self": 2.019,
-        "Gasolio_self": 2.109
-      },
-      "dist": 16.93
+      "dist": 18.66
     },
     {
       "id": 12464,
@@ -2103,21 +2190,6 @@
       "dist": 5.62
     },
     {
-      "id": 47012,
-      "bandiera": "Esso",
-      "nome": "ESSO CORDIGNANO",
-      "indirizzo": "13 Pontebbana, Km. 62 + 915, VENEZIA - 31016",
-      "comune": "CORDIGNANO",
-      "prov": "TV",
-      "lat": 45.943405,
-      "lon": 12.451949,
-      "prezzi": {
-        "Benzina_self": 2.009,
-        "Gasolio_self": 2.109
-      },
-      "dist": 13.83
-    },
-    {
       "id": 48378,
       "bandiera": "Agip Eni",
       "nome": "13616 - ENI MEDUNA DI LIVENZA",
@@ -2131,25 +2203,6 @@
         "Gasolio_self": 2.109
       },
       "dist": 19.56
-    },
-    {
-      "id": 30464,
-      "bandiera": "Esso",
-      "nome": "TORMENA NICOLA Pieve di Soligo",
-      "indirizzo": "VIA CHISINI 123 31053",
-      "comune": "PIEVE DI SOLIGO",
-      "prov": "TV",
-      "lat": 45.895387,
-      "lon": 12.177712,
-      "prezzi": {
-        "Benzina_serv": 2.009,
-        "Benzina_self": 2.009,
-        "Gasolio_serv": 2.109,
-        "Gasolio_self": 2.109,
-        "Supreme Diesel_serv": 2.369,
-        "Supreme Diesel_self": 2.369
-      },
-      "dist": 14.7
     },
     {
       "id": 37407,
@@ -2194,7 +2247,7 @@
       "lat": 45.785625,
       "lon": 12.178707,
       "prezzi": {
-        "Benzina_self": 1.995,
+        "Benzina_self": 1.975,
         "Gasolio_self": 2.115
       },
       "dist": 14.68
@@ -2217,6 +2270,21 @@
       "dist": 17.54
     },
     {
+      "id": 44609,
+      "bandiera": "Agip Eni",
+      "nome": "ENI SACILE",
+      "indirizzo": "PEDRADA 9 33077",
+      "comune": "SACILE",
+      "prov": "PN",
+      "lat": 45.968102,
+      "lon": 12.51758,
+      "prezzi": {
+        "Benzina_self": 2.059,
+        "Gasolio_self": 2.119
+      },
+      "dist": 19.15
+    },
+    {
       "id": 24883,
       "bandiera": "Q8",
       "nome": "Q8",
@@ -2232,6 +2300,21 @@
         "Gasolio_self": 2.119
       },
       "dist": 15.72
+    },
+    {
+      "id": 11771,
+      "bandiera": "Q8",
+      "nome": "SACILE-VIALE DELLA REPUBBLICA 36",
+      "indirizzo": "VIALE DELLA REPUBBLICA 36 33077",
+      "comune": "SACILE",
+      "prov": "PN",
+      "lat": 45.959421,
+      "lon": 12.502467,
+      "prezzi": {
+        "Benzina_self": 1.999,
+        "Gasolio_self": 2.119
+      },
+      "dist": 17.65
     },
     {
       "id": 39656,
@@ -2264,8 +2347,8 @@
       "lat": 45.791549,
       "lon": 12.158491,
       "prezzi": {
-        "Benzina_serv": 2.149,
-        "Benzina_self": 1.999,
+        "Benzina_serv": 2.129,
+        "Benzina_self": 1.979,
         "Gasolio_serv": 2.269,
         "Gasolio_self": 2.119,
         "GPL_serv": 0.719,
@@ -2311,21 +2394,6 @@
         "Gasolio_self": 2.127
       },
       "dist": 18.57
-    },
-    {
-      "id": 11771,
-      "bandiera": "Q8",
-      "nome": "SACILE-VIALE DELLA REPUBBLICA 36",
-      "indirizzo": "VIALE DELLA REPUBBLICA 36 33077",
-      "comune": "SACILE",
-      "prov": "PN",
-      "lat": 45.959421,
-      "lon": 12.502467,
-      "prezzi": {
-        "Benzina_self": 2.039,
-        "Gasolio_self": 2.129
-      },
-      "dist": 17.65
     },
     {
       "id": 53443,
@@ -2410,57 +2478,6 @@
       "dist": 14.83
     },
     {
-      "id": 13109,
-      "bandiera": "Agip Eni",
-      "nome": "Imp. Som-EniLive di BERTOLO MAURO & C. s.n.c.",
-      "indirizzo": "Via CROCE 6 33080",
-      "comune": "PRATA DI PORDENONE",
-      "prov": "PN",
-      "lat": 45.898576,
-      "lon": 12.576983,
-      "prezzi": {
-        "Benzina_serv": 2.269,
-        "Benzina_self": 2.059,
-        "Gasolio_serv": 2.349,
-        "Gasolio_self": 2.139,
-        "GPL_serv": 0.699,
-        "Blue Diesel_serv": 2.449,
-        "Blue Diesel_self": 2.239
-      },
-      "dist": 18.66
-    },
-    {
-      "id": 44609,
-      "bandiera": "Agip Eni",
-      "nome": "ENI SACILE",
-      "indirizzo": "PEDRADA 9 33077",
-      "comune": "SACILE",
-      "prov": "PN",
-      "lat": 45.968102,
-      "lon": 12.51758,
-      "prezzi": {
-        "Benzina_self": 2.079,
-        "Gasolio_self": 2.139
-      },
-      "dist": 19.15
-    },
-    {
-      "id": 30038,
-      "bandiera": "San Marco Petroli",
-      "nome": "BERTOLI SAS - TAP/SMP",
-      "indirizzo": "CONTI AGOSTI 56 31010",
-      "comune": "MARENO DI PIAVE",
-      "prov": "TV",
-      "lat": 45.844096,
-      "lon": 12.347737,
-      "prezzi": {
-        "Benzina_self": 1.979,
-        "Gasolio_self": 2.139,
-        "GP DIESEL_self": 2.239
-      },
-      "dist": 0.42
-    },
-    {
       "id": 43619,
       "bandiera": "Pompe Bianche",
       "nome": "DA OIL - MASERADA",
@@ -2497,23 +2514,6 @@
         "Blue Diesel_self": 2.179
       },
       "dist": 12.73
-    },
-    {
-      "id": 43620,
-      "bandiera": "Pompe Bianche",
-      "nome": "DA OIL - FREGONA",
-      "indirizzo": "VIA GUGLIELMO MARCONI 4 31010",
-      "comune": "FREGONA",
-      "prov": "TV",
-      "lat": 46.007996,
-      "lon": 12.339736,
-      "prezzi": {
-        "Benzina_serv": 1.999,
-        "Benzina_self": 1.999,
-        "Gasolio_serv": 2.169,
-        "Gasolio_self": 2.169
-      },
-      "dist": 18.6
     },
     {
       "id": 62772,
@@ -2615,8 +2615,8 @@
       "lat": 45.974476,
       "lon": 12.180162,
       "prezzi": {
-        "Benzina_serv": 1.999,
-        "Gasolio_serv": 2.099,
+        "Benzina_serv": 1.969,
+        "Gasolio_serv": 2.069,
         "GPL_serv": 0.732
       },
       "dist": 19.87
@@ -2727,7 +2727,7 @@
       "lon": 12.165394,
       "prezzi": {
         "Benzina_serv": 1.998,
-        "Gasolio_serv": 2.118
+        "Gasolio_serv": 2.078
       },
       "dist": 15.69
     },
@@ -2741,13 +2741,13 @@
       "lat": 45.887814,
       "lon": 12.157562,
       "prezzi": {
-        "Benzina_serv": 1.985,
-        "Benzina_self": 1.985,
+        "Benzina_serv": 1.975,
+        "Benzina_self": 1.975,
         "GPL_serv": 0.735,
-        "Gasolio Artico_serv": 2.105,
-        "Gasolio Artico_self": 2.105,
-        "HVO_serv": 2.105,
-        "HVO_self": 2.105
+        "Gasolio Artico_serv": 2.065,
+        "Gasolio Artico_self": 2.065,
+        "HVO_serv": 2.065,
+        "HVO_self": 2.065
       },
       "dist": 15.84
     },
@@ -2810,8 +2810,8 @@
       "lat": 45.877648,
       "lon": 12.14177,
       "prezzi": {
-        "Benzina_serv": 1.999,
-        "Benzina_self": 1.999,
+        "Benzina_serv": 1.979,
+        "Benzina_self": 1.979,
         "HVO_serv": 2.049,
         "HVO_self": 2.049
       },
