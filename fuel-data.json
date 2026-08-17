@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-16T09:00:57.686614+00:00",
+  "aggiornato": "2026-08-17T09:22:27.115676+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -41,23 +41,6 @@
         "Blue Diesel_self": 2.134
       },
       "dist": 11.64
-    },
-    {
-      "id": 14603,
-      "bandiera": "Pompe Bianche",
-      "nome": "JET+",
-      "indirizzo": "VIA DELLA VALLATA 52 31029",
-      "comune": "VITTORIO VENETO",
-      "prov": "TV",
-      "lat": 46.006749,
-      "lon": 12.277604,
-      "prezzi": {
-        "Benzina_serv": 2.016,
-        "Benzina_self": 1.978,
-        "Gasolio_serv": 2.076,
-        "Gasolio_self": 2.038
-      },
-      "dist": 19.29
     },
     {
       "id": 42368,
@@ -254,6 +237,23 @@
         "Gasolio_self": 2.057
       },
       "dist": 16.76
+    },
+    {
+      "id": 14603,
+      "bandiera": "Pompe Bianche",
+      "nome": "JET+",
+      "indirizzo": "VIA DELLA VALLATA 52 31029",
+      "comune": "VITTORIO VENETO",
+      "prov": "TV",
+      "lat": 46.006749,
+      "lon": 12.277604,
+      "prezzi": {
+        "Benzina_serv": 2.036,
+        "Benzina_self": 1.998,
+        "Gasolio_serv": 2.096,
+        "Gasolio_self": 2.058
+      },
+      "dist": 19.29
     },
     {
       "id": 46140,
@@ -965,23 +965,6 @@
       "dist": 16.19
     },
     {
-      "id": 15091,
-      "bandiera": "Agip Eni",
-      "nome": "RWM SNC",
-      "indirizzo": "VIALE S. BRANDOLINI 17 31046",
-      "comune": "ODERZO",
-      "prov": "TV",
-      "lat": 45.770883,
-      "lon": 12.488507,
-      "prezzi": {
-        "Benzina_self": 1.979,
-        "Gasolio_self": 2.079,
-        "Blue Diesel_self": 2.179,
-        "HVOlution_self": 2.079
-      },
-      "dist": 13.22
-    },
-    {
       "id": 54207,
       "bandiera": "Vega",
       "nome": "VEGA ODERZO",
@@ -1146,21 +1129,6 @@
         "HVO100_self": 2.039
       },
       "dist": 12.08
-    },
-    {
-      "id": 15214,
-      "bandiera": "Pompe Bianche",
-      "nome": "SOTTANA",
-      "indirizzo": "VIA SAN ROCCO 40 31040",
-      "comune": "GIAVERA DEL MONTELLO",
-      "prov": "TV",
-      "lat": 45.785625,
-      "lon": 12.178707,
-      "prezzi": {
-        "Benzina_self": 1.995,
-        "Gasolio_self": 2.085
-      },
-      "dist": 14.68
     },
     {
       "id": 61728,
@@ -1350,6 +1318,21 @@
         "S-Diesel_self": 2.189
       },
       "dist": 14.11
+    },
+    {
+      "id": 15214,
+      "bandiera": "Pompe Bianche",
+      "nome": "SOTTANA",
+      "indirizzo": "VIA SAN ROCCO 40 31040",
+      "comune": "GIAVERA DEL MONTELLO",
+      "prov": "TV",
+      "lat": 45.785625,
+      "lon": 12.178707,
+      "prezzi": {
+        "Benzina_self": 1.995,
+        "Gasolio_self": 2.095
+      },
+      "dist": 14.68
     },
     {
       "id": 45567,
@@ -1734,6 +1717,23 @@
       "dist": 13.58
     },
     {
+      "id": 15091,
+      "bandiera": "Agip Eni",
+      "nome": "RWM SNC",
+      "indirizzo": "VIALE S. BRANDOLINI 17 31046",
+      "comune": "ODERZO",
+      "prov": "TV",
+      "lat": 45.770883,
+      "lon": 12.488507,
+      "prezzi": {
+        "Benzina_self": 1.979,
+        "Gasolio_self": 2.099,
+        "Blue Diesel_self": 2.199,
+        "HVOlution_self": 2.099
+      },
+      "dist": 13.22
+    },
+    {
       "id": 51277,
       "bandiera": "Api-Ip",
       "nome": "IP ORMELLE(TV)",
@@ -1936,7 +1936,7 @@
       "lat": 45.680972,
       "lon": 12.252194,
       "prezzi": {
-        "Benzina_self": 1.979,
+        "Benzina_self": 1.989,
         "Gasolio_self": 2.099
       },
       "dist": 19.36
@@ -2458,21 +2458,6 @@
       "dist": 11.8
     },
     {
-      "id": 11771,
-      "bandiera": "Q8",
-      "nome": "SACILE-VIALE DELLA REPUBBLICA 36",
-      "indirizzo": "VIALE DELLA REPUBBLICA 36 33077",
-      "comune": "SACILE",
-      "prov": "PN",
-      "lat": 45.959421,
-      "lon": 12.502467,
-      "prezzi": {
-        "Benzina_self": 2.019,
-        "Gasolio_self": 2.139
-      },
-      "dist": 17.65
-    },
-    {
       "id": 18073,
       "bandiera": "Agip Eni",
       "nome": "distributore eni di daniel valter",
@@ -2514,6 +2499,21 @@
         "Blue Diesel_self": 2.199
       },
       "dist": 15.79
+    },
+    {
+      "id": 11771,
+      "bandiera": "Q8",
+      "nome": "SACILE-VIALE DELLA REPUBBLICA 36",
+      "indirizzo": "VIALE DELLA REPUBBLICA 36 33077",
+      "comune": "SACILE",
+      "prov": "PN",
+      "lat": 45.959421,
+      "lon": 12.502467,
+      "prezzi": {
+        "Benzina_self": 2.019,
+        "Gasolio_self": 2.149
+      },
+      "dist": 17.65
     },
     {
       "id": 62772,
