@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-30T13:59:13.677166+00:00",
+  "aggiornato": "2026-08-31T16:22:00.668077+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -839,6 +839,40 @@
       "dist": 17.38
     },
     {
+      "id": 13967,
+      "bandiera": "Pompe Bianche",
+      "nome": "STOP&GO",
+      "indirizzo": "VIA ORTIGARA 106 31015",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.869737,
+      "lon": 12.265924,
+      "prezzi": {
+        "Benzina_serv": 1.986,
+        "Benzina_self": 1.986,
+        "Gasolio_serv": 2.116,
+        "Gasolio_self": 2.116
+      },
+      "dist": 7.31
+    },
+    {
+      "id": 63354,
+      "bandiera": "Costantin",
+      "nome": "COSTANTIN SACILE",
+      "indirizzo": "Via S. Liberale 11  33077",
+      "comune": "SACILE",
+      "prov": "PN",
+      "lat": 45.959932,
+      "lon": 12.509811,
+      "prezzi": {
+        "Benzina_serv": 1.997,
+        "Benzina_self": 1.997,
+        "Gasolio_serv": 2.117,
+        "Gasolio_self": 2.117
+      },
+      "dist": 18.08
+    },
+    {
       "id": 35140,
       "bandiera": "Api-Ip",
       "nome": "TARZO - CORBANESE",
@@ -1100,40 +1134,6 @@
       "dist": 11.1
     },
     {
-      "id": 13967,
-      "bandiera": "Pompe Bianche",
-      "nome": "STOP&GO",
-      "indirizzo": "VIA ORTIGARA 106 31015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.869737,
-      "lon": 12.265924,
-      "prezzi": {
-        "Benzina_serv": 1.996,
-        "Benzina_self": 1.996,
-        "Gasolio_serv": 2.126,
-        "Gasolio_self": 2.126
-      },
-      "dist": 7.31
-    },
-    {
-      "id": 63354,
-      "bandiera": "Costantin",
-      "nome": "COSTANTIN SACILE",
-      "indirizzo": "Via S. Liberale 11  33077",
-      "comune": "SACILE",
-      "prov": "PN",
-      "lat": 45.959932,
-      "lon": 12.509811,
-      "prezzi": {
-        "Benzina_serv": 1.997,
-        "Benzina_self": 1.997,
-        "Gasolio_serv": 2.127,
-        "Gasolio_self": 2.127
-      },
-      "dist": 18.08
-    },
-    {
       "id": 46331,
       "bandiera": "Energyca",
       "nome": "ENERGYCA SACILE",
@@ -1189,6 +1189,26 @@
         "Gasolio_self": 2.128
       },
       "dist": 6.5
+    },
+    {
+      "id": 56060,
+      "bandiera": "Energyca",
+      "nome": "Energyca Francenigo",
+      "indirizzo": "PER BRUGNERA 10/A 31018",
+      "comune": "GAIARINE",
+      "prov": "TV",
+      "lat": 45.901414,
+      "lon": 12.494438,
+      "prezzi": {
+        "Benzina_serv": 2.038,
+        "Benzina_self": 1.988,
+        "Gasolio_serv": 2.178,
+        "Gasolio_self": 2.128,
+        "GPL_serv": 0.738,
+        "Gasolio speciale_serv": 2.298,
+        "Gasolio speciale_self": 2.248
+      },
+      "dist": 13.0
     },
     {
       "id": 13485,
@@ -1618,6 +1638,21 @@
       "dist": 10.62
     },
     {
+      "id": 48378,
+      "bandiera": "Agip Eni",
+      "nome": "13616 - ENI MEDUNA DI LIVENZA",
+      "indirizzo": "VIA ROMA 75 31040",
+      "comune": "MEDUNA DI LIVENZA",
+      "prov": "TV",
+      "lat": 45.819159,
+      "lon": 12.601154,
+      "prezzi": {
+        "Benzina_self": 2.029,
+        "Gasolio_self": 2.139
+      },
+      "dist": 19.56
+    },
+    {
       "id": 53011,
       "bandiera": "Api-Ip",
       "nome": "PV. NERVESA DELLA BATTAGLIA - ITALIANA PETROLI",
@@ -1734,26 +1769,6 @@
         "Blue Diesel_self": 2.239
       },
       "dist": 15.79
-    },
-    {
-      "id": 56060,
-      "bandiera": "Energyca",
-      "nome": "Energyca Francenigo",
-      "indirizzo": "PER BRUGNERA 10/A 31018",
-      "comune": "GAIARINE",
-      "prov": "TV",
-      "lat": 45.901414,
-      "lon": 12.494438,
-      "prezzi": {
-        "Benzina_serv": 2.068,
-        "Benzina_self": 2.018,
-        "Gasolio_serv": 2.198,
-        "Gasolio_self": 2.148,
-        "GPL_serv": 0.738,
-        "Gasolio speciale_serv": 2.298,
-        "Gasolio speciale_self": 2.248
-      },
-      "dist": 13.0
     },
     {
       "id": 13190,
@@ -2244,19 +2259,24 @@
       "dist": 10.72
     },
     {
-      "id": 48378,
-      "bandiera": "Agip Eni",
-      "nome": "13616 - ENI MEDUNA DI LIVENZA",
-      "indirizzo": "VIA ROMA 75 31040",
-      "comune": "MEDUNA DI LIVENZA",
+      "id": 55024,
+      "bandiera": "Esso",
+      "nome": "ESSO",
+      "indirizzo": "Via Postumia II Tronco 28  31046",
+      "comune": "ODERZO",
       "prov": "TV",
-      "lat": 45.819159,
-      "lon": 12.601154,
+      "lat": 45.762862,
+      "lon": 12.485524,
       "prezzi": {
-        "Benzina_self": 2.029,
-        "Gasolio_self": 2.159
+        "Benzina_serv": 2.249,
+        "Benzina_self": 2.049,
+        "Gasolio_serv": 2.359,
+        "Gasolio_self": 2.159,
+        "GPL_serv": 0.759,
+        "Supreme Diesel_serv": 2.489,
+        "Supreme Diesel_self": 2.289
       },
-      "dist": 19.56
+      "dist": 13.58
     },
     {
       "id": 35741,
@@ -2461,26 +2481,6 @@
       "dist": 15.72
     },
     {
-      "id": 55024,
-      "bandiera": "Esso",
-      "nome": "ESSO",
-      "indirizzo": "Via Postumia II Tronco 28  31046",
-      "comune": "ODERZO",
-      "prov": "TV",
-      "lat": 45.762862,
-      "lon": 12.485524,
-      "prezzi": {
-        "Benzina_serv": 2.249,
-        "Benzina_self": 2.049,
-        "Gasolio_serv": 2.379,
-        "Gasolio_self": 2.179,
-        "GPL_serv": 0.759,
-        "Supreme Diesel_serv": 2.509,
-        "Supreme Diesel_self": 2.309
-      },
-      "dist": 13.58
-    },
-    {
       "id": 62322,
       "bandiera": "Esso",
       "nome": "ESSO ODERZO",
@@ -2598,7 +2598,7 @@
       "lon": 12.553085,
       "prezzi": {
         "Benzina_serv": 1.989,
-        "Gasolio_serv": 2.129,
+        "Gasolio_serv": 2.099,
         "GPL_serv": 0.669,
         "Benzina Energy 98 ottani_serv": 2.099,
         "Gasolio Energy D_serv": 2.229
@@ -2710,9 +2710,9 @@
       "lat": 45.790864,
       "lon": 12.488017,
       "prezzi": {
-        "Benzina_serv": 2.038,
-        "Gasolio_serv": 2.148,
-        "Gasolio speciale_serv": 2.208
+        "Benzina_serv": 2.008,
+        "Gasolio_serv": 2.128,
+        "Gasolio speciale_serv": 2.268
       },
       "dist": 12.01
     },
@@ -2726,8 +2726,8 @@
       "lat": 45.897991,
       "lon": 12.165394,
       "prezzi": {
-        "Benzina_serv": 2.038,
-        "Gasolio_serv": 2.168
+        "Benzina_serv": 2.008,
+        "Gasolio_serv": 2.148
       },
       "dist": 15.69
     },
