@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-08-31T16:22:00.668077+00:00",
+  "aggiornato": "2026-09-01T13:40:46.851095+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -161,6 +161,25 @@
         "HVO_self": 2.059
       },
       "dist": 8.72
+    },
+    {
+      "id": 21307,
+      "bandiera": "Tamoil",
+      "nome": "stellaambrozzodistellasonia",
+      "indirizzo": "I. LOLLINI 11 31040",
+      "comune": "NERVESA DELLA BATTAGLIA",
+      "prov": "TV",
+      "lat": 45.819095,
+      "lon": 12.201705,
+      "prezzi": {
+        "Benzina_serv": 2.089,
+        "Benzina_self": 1.989,
+        "Gasolio_serv": 2.189,
+        "Gasolio_self": 2.089,
+        "HVO_serv": 2.059,
+        "HVO_self": 2.059
+      },
+      "dist": 11.8
     },
     {
       "id": 31525,
@@ -379,8 +398,8 @@
         "GPL_serv": 0.737,
         "Benzina speciale_serv": 2.177,
         "Benzina speciale_self": 2.077,
-        "HVO100_serv": 2.179,
-        "HVO100_self": 2.079
+        "HVO100_serv": 2.147,
+        "HVO100_self": 2.047
       },
       "dist": 7.32
     },
@@ -588,25 +607,6 @@
         "Gasolio speciale_self": 2.199
       },
       "dist": 1.22
-    },
-    {
-      "id": 21307,
-      "bandiera": "Tamoil",
-      "nome": "stellaambrozzodistellasonia",
-      "indirizzo": "I. LOLLINI 11 31040",
-      "comune": "NERVESA DELLA BATTAGLIA",
-      "prov": "TV",
-      "lat": 45.819095,
-      "lon": 12.201705,
-      "prezzi": {
-        "Benzina_serv": 2.089,
-        "Benzina_self": 1.989,
-        "Gasolio_serv": 2.199,
-        "Gasolio_self": 2.099,
-        "HVO_serv": 2.069,
-        "HVO_self": 2.069
-      },
-      "dist": 11.8
     },
     {
       "id": 6492,
@@ -903,8 +903,8 @@
         "Gasolio_self": 2.118,
         "Benzina speciale_serv": 2.098,
         "Benzina speciale_self": 2.098,
-        "HVO100_serv": 2.079,
-        "HVO100_self": 2.079
+        "HVO100_serv": 2.047,
+        "HVO100_self": 2.047
       },
       "dist": 3.24
     },
@@ -998,7 +998,7 @@
       "prezzi": {
         "Benzina_self": 1.999,
         "Gasolio_self": 2.119,
-        "HVO100_self": 2.079
+        "HVO100_self": 2.047
       },
       "dist": 16.19
     },
@@ -1132,6 +1132,23 @@
         "REHVO_self": 2.125
       },
       "dist": 11.1
+    },
+    {
+      "id": 12813,
+      "bandiera": "Costantin",
+      "nome": "COSTANTIN",
+      "indirizzo": "VIALE DELLA REPUBBLICA 278 31100",
+      "comune": "TREVISO",
+      "prov": "TV",
+      "lat": 45.689769,
+      "lon": 12.248934,
+      "prezzi": {
+        "Benzina_serv": 2.025,
+        "Benzina_self": 2.025,
+        "Gasolio_serv": 2.127,
+        "Gasolio_self": 2.127
+      },
+      "dist": 18.57
     },
     {
       "id": 46331,
@@ -1572,6 +1589,22 @@
       "dist": 11.21
     },
     {
+      "id": 12464,
+      "bandiera": "Esso",
+      "nome": "M.C. S.a.s.",
+      "indirizzo": "VIALE ITALIA 327 31015, CONEGLIANO (TV) 327 31015",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.88683,
+      "lon": 12.320259,
+      "prezzi": {
+        "Benzina_self": 2.019,
+        "Gasolio_self": 2.139,
+        "Supreme Diesel_self": 2.259
+      },
+      "dist": 5.62
+    },
+    {
       "id": 47012,
       "bandiera": "Esso",
       "nome": "ESSO CORDIGNANO",
@@ -1786,6 +1819,23 @@
         "Gasolio_self": 2.148
       },
       "dist": 15.5
+    },
+    {
+      "id": 20215,
+      "bandiera": "Energyca",
+      "nome": "ENERGYCA",
+      "indirizzo": "VIA G. MARCONI 18 31020",
+      "comune": "SERNAGLIA DELLA BATTAGLIA",
+      "prov": "TV",
+      "lat": 45.868764,
+      "lon": 12.127822,
+      "prezzi": {
+        "Benzina_serv": 2.008,
+        "Benzina_self": 2.008,
+        "Gasolio_serv": 2.148,
+        "Gasolio_self": 2.148
+      },
+      "dist": 17.54
     },
     {
       "id": 21064,
@@ -2133,23 +2183,6 @@
       "dist": 12.82
     },
     {
-      "id": 12813,
-      "bandiera": "Costantin",
-      "nome": "COSTANTIN",
-      "indirizzo": "VIALE DELLA REPUBBLICA 278 31100",
-      "comune": "TREVISO",
-      "prov": "TV",
-      "lat": 45.689769,
-      "lon": 12.248934,
-      "prezzi": {
-        "Benzina_serv": 2.025,
-        "Benzina_self": 2.025,
-        "Gasolio_serv": 2.155,
-        "Gasolio_self": 2.155
-      },
-      "dist": 18.57
-    },
-    {
       "id": 34170,
       "bandiera": "Sia fuel",
       "nome": "Sia Fuel Villorba",
@@ -2228,22 +2261,6 @@
       "dist": 6.54
     },
     {
-      "id": 12464,
-      "bandiera": "Esso",
-      "nome": "M.C. S.a.s.",
-      "indirizzo": "VIALE ITALIA 327 31015, CONEGLIANO (TV) 327 31015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.88683,
-      "lon": 12.320259,
-      "prezzi": {
-        "Benzina_self": 2.019,
-        "Gasolio_self": 2.159,
-        "Supreme Diesel_self": 2.279
-      },
-      "dist": 5.62
-    },
-    {
       "id": 62493,
       "bandiera": "Api-Ip",
       "nome": "IP  41210",
@@ -2277,6 +2294,26 @@
         "Supreme Diesel_self": 2.289
       },
       "dist": 13.58
+    },
+    {
+      "id": 62322,
+      "bandiera": "Esso",
+      "nome": "ESSO ODERZO",
+      "indirizzo": "Via Postumia II Tronco 28  31046",
+      "comune": "ODERZO",
+      "prov": "TV",
+      "lat": 45.762665,
+      "lon": 12.48472,
+      "prezzi": {
+        "Benzina_serv": 2.249,
+        "Benzina_self": 2.049,
+        "Gasolio_serv": 2.359,
+        "Gasolio_self": 2.159,
+        "GPL_serv": 0.759,
+        "Supreme Diesel_serv": 2.489,
+        "Supreme Diesel_self": 2.289
+      },
+      "dist": 13.55
     },
     {
       "id": 35741,
@@ -2365,23 +2402,6 @@
         "Blue Diesel_self": 2.264
       },
       "dist": 9.88
-    },
-    {
-      "id": 20215,
-      "bandiera": "Energyca",
-      "nome": "ENERGYCA",
-      "indirizzo": "VIA G. MARCONI 18 31020",
-      "comune": "SERNAGLIA DELLA BATTAGLIA",
-      "prov": "TV",
-      "lat": 45.868764,
-      "lon": 12.127822,
-      "prezzi": {
-        "Benzina_serv": 2.038,
-        "Benzina_self": 2.038,
-        "Gasolio_serv": 2.168,
-        "Gasolio_self": 2.168
-      },
-      "dist": 17.54
     },
     {
       "id": 30464,
@@ -2479,26 +2499,6 @@
         "Gasolio_self": 2.179
       },
       "dist": 15.72
-    },
-    {
-      "id": 62322,
-      "bandiera": "Esso",
-      "nome": "ESSO ODERZO",
-      "indirizzo": "Via Postumia II Tronco 28  31046",
-      "comune": "ODERZO",
-      "prov": "TV",
-      "lat": 45.762665,
-      "lon": 12.48472,
-      "prezzi": {
-        "Benzina_serv": 2.249,
-        "Benzina_self": 2.049,
-        "Gasolio_serv": 2.379,
-        "Gasolio_self": 2.179,
-        "GPL_serv": 0.759,
-        "Supreme Diesel_serv": 2.509,
-        "Supreme Diesel_self": 2.309
-      },
-      "dist": 13.55
     },
     {
       "id": 44609,
