@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-07T14:26:07.693853+00:00",
+  "aggiornato": "2026-09-08T13:03:07.949190+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -54,23 +54,6 @@
         "Blue Diesel_self": 2.214
       },
       "dist": 11.64
-    },
-    {
-      "id": 14603,
-      "bandiera": "Pompe Bianche",
-      "nome": "JET+",
-      "indirizzo": "VIA DELLA VALLATA 52 31029",
-      "comune": "VITTORIO VENETO",
-      "prov": "TV",
-      "lat": 46.006749,
-      "lon": 12.277604,
-      "prezzi": {
-        "Benzina_serv": 2.056,
-        "Benzina_self": 2.018,
-        "Gasolio_serv": 2.156,
-        "Gasolio_self": 2.118
-      },
-      "dist": 19.29
     },
     {
       "id": 48343,
@@ -216,40 +199,6 @@
       "dist": 15.1
     },
     {
-      "id": 5023,
-      "bandiera": "Termoveneta srl",
-      "nome": "Termoveneta srl (Caneva)",
-      "indirizzo": "VIA SACILE 45 33070",
-      "comune": "CANEVA",
-      "prov": "PN",
-      "lat": 45.975047,
-      "lon": 12.485975,
-      "prezzi": {
-        "Benzina_serv": 2.039,
-        "Benzina_self": 2.039,
-        "Gasolio_serv": 2.129,
-        "Gasolio_self": 2.129
-      },
-      "dist": 18.22
-    },
-    {
-      "id": 5010,
-      "bandiera": "Termoveneta srl",
-      "nome": "Termoveneta srl (Cordignano)",
-      "indirizzo": "Statale 13 Pontebbana, Km. 62+500, dir. lato sx - 31016",
-      "comune": "CORDIGNANO",
-      "prov": "TV",
-      "lat": 45.943175,
-      "lon": 12.446271,
-      "prezzi": {
-        "Benzina_serv": 2.049,
-        "Benzina_self": 2.029,
-        "Gasolio_serv": 2.149,
-        "Gasolio_self": 2.129
-      },
-      "dist": 13.57
-    },
-    {
       "id": 62492,
       "bandiera": "Tamoil",
       "nome": "Tocchet Moreno",
@@ -265,25 +214,6 @@
         "Gasolio_self": 2.129
       },
       "dist": 10.12
-    },
-    {
-      "id": 21307,
-      "bandiera": "Tamoil",
-      "nome": "stellaambrozzodistellasonia",
-      "indirizzo": "I. LOLLINI 11 31040",
-      "comune": "NERVESA DELLA BATTAGLIA",
-      "prov": "TV",
-      "lat": 45.819095,
-      "lon": 12.201705,
-      "prezzi": {
-        "Benzina_serv": 2.129,
-        "Benzina_self": 2.029,
-        "Gasolio_serv": 2.229,
-        "Gasolio_self": 2.129,
-        "HVO_serv": 2.099,
-        "HVO_self": 2.099
-      },
-      "dist": 11.8
     },
     {
       "id": 24883,
@@ -322,6 +252,25 @@
         "HVO_self": 2.109
       },
       "dist": 8.72
+    },
+    {
+      "id": 21307,
+      "bandiera": "Tamoil",
+      "nome": "stellaambrozzodistellasonia",
+      "indirizzo": "I. LOLLINI 11 31040",
+      "comune": "NERVESA DELLA BATTAGLIA",
+      "prov": "TV",
+      "lat": 45.819095,
+      "lon": 12.201705,
+      "prezzi": {
+        "Benzina_serv": 2.139,
+        "Benzina_self": 2.039,
+        "Gasolio_serv": 2.239,
+        "Gasolio_self": 2.139,
+        "HVO_serv": 2.109,
+        "HVO_self": 2.109
+      },
+      "dist": 11.8
     },
     {
       "id": 31525,
@@ -571,6 +520,23 @@
       "dist": 9.67
     },
     {
+      "id": 5023,
+      "bandiera": "Termoveneta srl",
+      "nome": "Termoveneta srl (Caneva)",
+      "indirizzo": "VIA SACILE 45 33070",
+      "comune": "CANEVA",
+      "prov": "PN",
+      "lat": 45.975047,
+      "lon": 12.485975,
+      "prezzi": {
+        "Benzina_serv": 2.059,
+        "Benzina_self": 2.059,
+        "Gasolio_serv": 2.149,
+        "Gasolio_self": 2.149
+      },
+      "dist": 18.22
+    },
+    {
       "id": 46140,
       "bandiera": "bioil",
       "nome": "Bioil",
@@ -589,38 +555,21 @@
       "dist": 18.4
     },
     {
-      "id": 62421,
+      "id": 5010,
       "bandiera": "Termoveneta srl",
-      "nome": "TERMOVENETA (ODERZO)",
-      "indirizzo": "VIA POSTUMIA DA CAMINO 12/A 31046",
-      "comune": "ODERZO",
+      "nome": "Termoveneta srl (Cordignano)",
+      "indirizzo": "Statale 13 Pontebbana, Km. 62+500, dir. lato sx - 31016",
+      "comune": "CORDIGNANO",
       "prov": "TV",
-      "lat": 45.784521,
-      "lon": 12.49672,
+      "lat": 45.943175,
+      "lon": 12.446271,
       "prezzi": {
-        "Benzina_self": 2.039,
+        "Benzina_serv": 2.069,
+        "Benzina_self": 2.049,
+        "Gasolio_serv": 2.169,
         "Gasolio_self": 2.149
       },
-      "dist": 12.94
-    },
-    {
-      "id": 34460,
-      "bandiera": "Agip Eni",
-      "nome": "Esso",
-      "indirizzo": "VIA POSTUMIA 50/C 31047",
-      "comune": "PONTE DI PIAVE",
-      "prov": "TV",
-      "lat": 45.727422,
-      "lon": 12.473471,
-      "prezzi": {
-        "Benzina_serv": 2.229,
-        "Benzina_self": 2.029,
-        "Gasolio_serv": 2.349,
-        "Gasolio_self": 2.149,
-        "Blue Diesel_serv": 2.459,
-        "Blue Diesel_self": 2.259
-      },
-      "dist": 15.81
+      "dist": 13.57
     },
     {
       "id": 42368,
@@ -728,6 +677,23 @@
         "HVO100_self": 2.099
       },
       "dist": 3.24
+    },
+    {
+      "id": 14603,
+      "bandiera": "Pompe Bianche",
+      "nome": "JET+",
+      "indirizzo": "VIA DELLA VALLATA 52 31029",
+      "comune": "VITTORIO VENETO",
+      "prov": "TV",
+      "lat": 46.006749,
+      "lon": 12.277604,
+      "prezzi": {
+        "Benzina_serv": 2.076,
+        "Benzina_self": 2.038,
+        "Gasolio_serv": 2.196,
+        "Gasolio_self": 2.158
+      },
+      "dist": 19.29
     },
     {
       "id": 11777,
@@ -1145,24 +1111,6 @@
       "dist": 18.28
     },
     {
-      "id": 50985,
-      "bandiera": "Api-Ip",
-      "nome": "F.LLI ROSOLEN S.N.C.",
-      "indirizzo": "VIA ODERZO 13 33080",
-      "comune": "PRATA DI PORDENONE",
-      "prov": "PN",
-      "lat": 45.870867,
-      "lon": 12.563396,
-      "prezzi": {
-        "Benzina_serv": 2.239,
-        "Benzina_self": 2.049,
-        "Gasolio_serv": 2.359,
-        "Gasolio_self": 2.169,
-        "GPL_serv": 0.719
-      },
-      "dist": 16.81
-    },
-    {
       "id": 61759,
       "bandiera": "San Marco Petroli",
       "nome": "SMP CARBONERA",
@@ -1357,6 +1305,21 @@
       "dist": 13.02
     },
     {
+      "id": 62421,
+      "bandiera": "Termoveneta srl",
+      "nome": "TERMOVENETA (ODERZO)",
+      "indirizzo": "VIA POSTUMIA DA CAMINO 12/A 31046",
+      "comune": "ODERZO",
+      "prov": "TV",
+      "lat": 45.784521,
+      "lon": 12.49672,
+      "prezzi": {
+        "Benzina_self": 2.059,
+        "Gasolio_self": 2.169
+      },
+      "dist": 12.94
+    },
+    {
       "id": 54207,
       "bandiera": "Vega",
       "nome": "VEGA ODERZO",
@@ -1373,6 +1336,25 @@
         "GPL_serv": 0.739
       },
       "dist": 13.78
+    },
+    {
+      "id": 34460,
+      "bandiera": "Agip Eni",
+      "nome": "Esso",
+      "indirizzo": "VIA POSTUMIA 50/C 31047",
+      "comune": "PONTE DI PIAVE",
+      "prov": "TV",
+      "lat": 45.727422,
+      "lon": 12.473471,
+      "prezzi": {
+        "Benzina_serv": 2.239,
+        "Benzina_self": 2.039,
+        "Gasolio_serv": 2.369,
+        "Gasolio_self": 2.169,
+        "Blue Diesel_serv": 2.459,
+        "Blue Diesel_self": 2.259
+      },
+      "dist": 15.81
     },
     {
       "id": 37407,
@@ -1674,6 +1656,24 @@
       "dist": 16.73
     },
     {
+      "id": 50985,
+      "bandiera": "Api-Ip",
+      "nome": "F.LLI ROSOLEN S.N.C.",
+      "indirizzo": "VIA ODERZO 13 33080",
+      "comune": "PRATA DI PORDENONE",
+      "prov": "PN",
+      "lat": 45.870867,
+      "lon": 12.563396,
+      "prezzi": {
+        "Benzina_serv": 2.249,
+        "Benzina_self": 2.059,
+        "Gasolio_serv": 2.369,
+        "Gasolio_self": 2.179,
+        "GPL_serv": 0.719
+      },
+      "dist": 16.81
+    },
+    {
       "id": 8684,
       "bandiera": "Agip Eni",
       "nome": "Celotto Alejandra & C. Snc",
@@ -1747,11 +1747,11 @@
       "lat": 45.957619,
       "lon": 12.350211,
       "prezzi": {
-        "Benzina_serv": 2.249,
-        "Benzina_self": 2.039,
+        "Benzina_serv": 2.269,
+        "Benzina_self": 2.059,
         "Gasolio_serv": 2.389,
         "Gasolio_self": 2.179,
-        "GPL_serv": 0.769,
+        "GPL_serv": 0.779,
         "HiQ Perform+_serv": 2.509,
         "HiQ Perform+_self": 2.329
       },
@@ -2052,7 +2052,7 @@
         "Gasolio_serv": 2.399,
         "Gasolio_self": 2.179,
         "Metano_serv": 1.323,
-        "GPL_serv": 0.749,
+        "GPL_serv": 0.759,
         "Blue Diesel_serv": 2.499,
         "Blue Diesel_self": 2.279,
         "GNL_serv": 1.553,
