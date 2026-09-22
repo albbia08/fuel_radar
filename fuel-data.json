@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-09-21T15:19:19.541374+00:00",
+  "aggiornato": "2026-09-22T13:39:21.858596+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -937,25 +937,6 @@
       "dist": 9.33
     },
     {
-      "id": 34460,
-      "bandiera": "Agip Eni",
-      "nome": "Esso",
-      "indirizzo": "VIA POSTUMIA 50/C 31047",
-      "comune": "PONTE DI PIAVE",
-      "prov": "TV",
-      "lat": 45.727422,
-      "lon": 12.473471,
-      "prezzi": {
-        "Benzina_serv": 2.369,
-        "Benzina_self": 2.169,
-        "Gasolio_serv": 2.539,
-        "Gasolio_self": 2.339,
-        "Blue Diesel_serv": 2.649,
-        "Blue Diesel_self": 2.449
-      },
-      "dist": 15.81
-    },
-    {
       "id": 42368,
       "bandiera": "Noaloil",
       "nome": "NOALOIL PV13 Negrisia",
@@ -1207,26 +1188,6 @@
       "dist": 13.02
     },
     {
-      "id": 53443,
-      "bandiera": "Q8",
-      "nome": "Q8 Colle Umberto",
-      "indirizzo": "BOSCHETTA 20 31014",
-      "comune": "COLLE UMBERTO",
-      "prov": "TV",
-      "lat": 45.957619,
-      "lon": 12.350211,
-      "prezzi": {
-        "Benzina_serv": 2.369,
-        "Benzina_self": 2.159,
-        "Gasolio_serv": 2.558,
-        "Gasolio_self": 2.348,
-        "GPL_serv": 0.749,
-        "HiQ Perform+_serv": 2.509,
-        "HiQ Perform+_self": 2.329
-      },
-      "dist": 12.98
-    },
-    {
       "id": 11221,
       "bandiera": "Pompe Bianche",
       "nome": "Oleochimica del Piave",
@@ -1290,6 +1251,25 @@
         "Gasolio_self": 2.349
       },
       "dist": 11.55
+    },
+    {
+      "id": 34460,
+      "bandiera": "Agip Eni",
+      "nome": "Esso",
+      "indirizzo": "VIA POSTUMIA 50/C 31047",
+      "comune": "PONTE DI PIAVE",
+      "prov": "TV",
+      "lat": 45.727422,
+      "lon": 12.473471,
+      "prezzi": {
+        "Benzina_serv": 2.379,
+        "Benzina_self": 2.179,
+        "Gasolio_serv": 2.549,
+        "Gasolio_self": 2.349,
+        "Blue Diesel_serv": 2.649,
+        "Blue Diesel_self": 2.449
+      },
+      "dist": 15.81
     },
     {
       "id": 53529,
@@ -1953,7 +1933,7 @@
       "prezzi": {
         "Benzina_serv": 2.169,
         "Benzina_self": 2.169,
-        "Gasolio_serv": 2.369,
+        "Gasolio_serv": 2.399,
         "Gasolio_self": 2.369,
         "Benzina speciale_serv": 2.299,
         "Benzina speciale_self": 2.299,
@@ -2042,6 +2022,26 @@
       "dist": 14.83
     },
     {
+      "id": 53443,
+      "bandiera": "Q8",
+      "nome": "Q8 Colle Umberto",
+      "indirizzo": "BOSCHETTA 20 31014",
+      "comune": "COLLE UMBERTO",
+      "prov": "TV",
+      "lat": 45.957619,
+      "lon": 12.350211,
+      "prezzi": {
+        "Benzina_serv": 2.429,
+        "Benzina_self": 2.219,
+        "Gasolio_serv": 2.589,
+        "Gasolio_self": 2.378,
+        "GPL_serv": 0.749,
+        "HiQ Perform+_serv": 2.509,
+        "HiQ Perform+_self": 2.329
+      },
+      "dist": 12.98
+    },
+    {
       "id": 13190,
       "bandiera": "Energyca",
       "nome": "sandro dal cin",
@@ -2107,24 +2107,6 @@
         "GP DIESEL_self": 2.529
       },
       "dist": 18.28
-    },
-    {
-      "id": 50985,
-      "bandiera": "Api-Ip",
-      "nome": "F.LLI ROSOLEN S.N.C.",
-      "indirizzo": "VIA ODERZO 13 33080",
-      "comune": "PRATA DI PORDENONE",
-      "prov": "PN",
-      "lat": 45.870867,
-      "lon": 12.563396,
-      "prezzi": {
-        "Benzina_serv": 2.389,
-        "Benzina_self": 2.199,
-        "Gasolio_serv": 2.569,
-        "Gasolio_self": 2.379,
-        "GPL_serv": 0.719
-      },
-      "dist": 16.81
     },
     {
       "id": 13109,
@@ -2342,6 +2324,24 @@
       "dist": 11.8
     },
     {
+      "id": 50985,
+      "bandiera": "Api-Ip",
+      "nome": "F.LLI ROSOLEN S.N.C.",
+      "indirizzo": "VIA ODERZO 13 33080",
+      "comune": "PRATA DI PORDENONE",
+      "prov": "PN",
+      "lat": 45.870867,
+      "lon": 12.563396,
+      "prezzi": {
+        "Benzina_serv": 2.389,
+        "Benzina_self": 2.199,
+        "Gasolio_serv": 2.579,
+        "Gasolio_self": 2.389,
+        "GPL_serv": 0.719
+      },
+      "dist": 16.81
+    },
+    {
       "id": 56993,
       "bandiera": "Api-Ip",
       "nome": "IP",
@@ -2355,25 +2355,6 @@
         "Gasolio_self": 2.389
       },
       "dist": 14.49
-    },
-    {
-      "id": 60426,
-      "bandiera": "Tamoil",
-      "nome": "CARS & FUES SRLS",
-      "indirizzo": "DISTRETTUALE 41/B 31025",
-      "comune": "SANTA LUCIA DI PIAVE",
-      "prov": "TV",
-      "lat": 45.857314,
-      "lon": 12.305627,
-      "prezzi": {
-        "Benzina_serv": 2.249,
-        "Benzina_self": 2.129,
-        "Gasolio_serv": 2.469,
-        "Gasolio_self": 2.389,
-        "HVO_serv": 2.439,
-        "HVO_self": 2.359
-      },
-      "dist": 3.94
     },
     {
       "id": 6320,
@@ -2801,6 +2782,20 @@
         "GPL_serv": 0.737
       },
       "dist": 7.14
+    },
+    {
+      "id": 60426,
+      "bandiera": "Tamoil",
+      "nome": "CARS & FUES SRLS",
+      "indirizzo": "DISTRETTUALE 41/B 31025",
+      "comune": "SANTA LUCIA DI PIAVE",
+      "prov": "TV",
+      "lat": 45.857314,
+      "lon": 12.305627,
+      "prezzi": {
+        "Benzina_self": 2.129
+      },
+      "dist": 3.94
     },
     {
       "id": 13993,
