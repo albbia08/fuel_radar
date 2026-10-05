@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-04T14:21:31.865437+00:00",
+  "aggiornato": "2026-10-05T17:23:48.966347+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -745,6 +745,28 @@
       "dist": 5.37
     },
     {
+      "id": 48562,
+      "bandiera": "Q8",
+      "nome": "Stazione di servizio Simor",
+      "indirizzo": "248 Schiavonesca-Marosticana, Km. 70+200, lato sinistro - 31040",
+      "comune": "GIAVERA DEL MONTELLO",
+      "prov": "TV",
+      "lat": 45.791549,
+      "lon": 12.158491,
+      "prezzi": {
+        "Benzina_serv": 2.144,
+        "Benzina_self": 1.994,
+        "Gasolio_serv": 2.344,
+        "Gasolio_self": 2.194,
+        "GPL_serv": 0.775,
+        "Hi-Q Diesel_serv": 2.644,
+        "Hi-Q Diesel_self": 2.494,
+        "HiQ Perform+_serv": 2.444,
+        "HiQ Perform+_self": 2.294
+      },
+      "dist": 15.87
+    },
+    {
       "id": 62296,
       "bandiera": "Q8",
       "nome": "TREVISO VIA BRIGATA TREVISO 23",
@@ -1196,6 +1218,23 @@
       "dist": 13.83
     },
     {
+      "id": 5010,
+      "bandiera": "Termoveneta srl",
+      "nome": "Termoveneta srl (Cordignano)",
+      "indirizzo": "Statale 13 Pontebbana, Km. 62+500, dir. lato sx - 31016",
+      "comune": "CORDIGNANO",
+      "prov": "TV",
+      "lat": 45.943175,
+      "lon": 12.446271,
+      "prezzi": {
+        "Benzina_serv": 2.049,
+        "Benzina_self": 2.029,
+        "Gasolio_serv": 2.229,
+        "Gasolio_self": 2.209
+      },
+      "dist": 13.57
+    },
+    {
       "id": 30464,
       "bandiera": "Esso",
       "nome": "TORMENA NICOLA Pieve di Soligo",
@@ -1350,6 +1389,23 @@
       "dist": 16.99
     },
     {
+      "id": 5023,
+      "bandiera": "Termoveneta srl",
+      "nome": "Termoveneta srl (Caneva)",
+      "indirizzo": "VIA SACILE 45 33070",
+      "comune": "CANEVA",
+      "prov": "PN",
+      "lat": 45.975047,
+      "lon": 12.485975,
+      "prezzi": {
+        "Benzina_serv": 2.049,
+        "Benzina_self": 2.049,
+        "Gasolio_serv": 2.229,
+        "Gasolio_self": 2.229
+      },
+      "dist": 18.22
+    },
+    {
       "id": 58636,
       "bandiera": "Loro",
       "nome": "LORO F.LLI SPA - CODOGNE'",
@@ -1365,6 +1421,21 @@
         "Gasolio_self": 2.229
       },
       "dist": 7.7
+    },
+    {
+      "id": 62421,
+      "bandiera": "Termoveneta srl",
+      "nome": "TERMOVENETA (ODERZO)",
+      "indirizzo": "VIA POSTUMIA DA CAMINO 12/A 31046",
+      "comune": "ODERZO",
+      "prov": "TV",
+      "lat": 45.784521,
+      "lon": 12.49672,
+      "prezzi": {
+        "Benzina_self": 2.049,
+        "Gasolio_self": 2.229
+      },
+      "dist": 12.94
     },
     {
       "id": 10982,
@@ -1473,11 +1544,31 @@
       "lat": 45.783496,
       "lon": 12.571972,
       "prezzi": {
-        "Benzina_self": 2.059,
+        "Benzina_self": 2.039,
         "Gasolio_self": 2.239,
         "DieselMax_self": 2.309
       },
       "dist": 18.3
+    },
+    {
+      "id": 31525,
+      "bandiera": "Vega",
+      "nome": "VEGA NERVESA DELLA BATTAGLIA",
+      "indirizzo": "S.S. 13 VIA DELLA VITTORIA 5/A 31040",
+      "comune": "NERVESA DELLA BATTAGLIA",
+      "prov": "TV",
+      "lat": 45.809271,
+      "lon": 12.249689,
+      "prezzi": {
+        "Benzina_serv": 2.139,
+        "Benzina_self": 2.039,
+        "Gasolio_serv": 2.339,
+        "Gasolio_self": 2.239,
+        "GPL_serv": 0.799,
+        "DieselMax_serv": 2.409,
+        "DieselMax_self": 2.309
+      },
+      "dist": 8.58
     },
     {
       "id": 54207,
@@ -1493,7 +1584,7 @@
         "Benzina_self": 2.039,
         "Gasolio_serv": 2.339,
         "Gasolio_self": 2.239,
-        "GPL_serv": 0.799
+        "GPL_serv": 0.779
       },
       "dist": 13.78
     },
@@ -1691,6 +1782,23 @@
       "dist": 18.85
     },
     {
+      "id": 13967,
+      "bandiera": "Pompe Bianche",
+      "nome": "STOP&GO",
+      "indirizzo": "VIA ORTIGARA 106 31015",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.869737,
+      "lon": 12.265924,
+      "prezzi": {
+        "Benzina_serv": 2.066,
+        "Benzina_self": 2.066,
+        "Gasolio_serv": 2.256,
+        "Gasolio_self": 2.256
+      },
+      "dist": 7.31
+    },
+    {
       "id": 11221,
       "bandiera": "Pompe Bianche",
       "nome": "Oleochimica del Piave",
@@ -1724,43 +1832,6 @@
         "Gasolio speciale_self": 2.309
       },
       "dist": 18.4
-    },
-    {
-      "id": 5010,
-      "bandiera": "Termoveneta srl",
-      "nome": "Termoveneta srl (Cordignano)",
-      "indirizzo": "Statale 13 Pontebbana, Km. 62+500, dir. lato sx - 31016",
-      "comune": "CORDIGNANO",
-      "prov": "TV",
-      "lat": 45.943175,
-      "lon": 12.446271,
-      "prezzi": {
-        "Benzina_serv": 2.079,
-        "Benzina_self": 2.059,
-        "Gasolio_serv": 2.279,
-        "Gasolio_self": 2.259
-      },
-      "dist": 13.57
-    },
-    {
-      "id": 31525,
-      "bandiera": "Vega",
-      "nome": "VEGA NERVESA DELLA BATTAGLIA",
-      "indirizzo": "S.S. 13 VIA DELLA VITTORIA 5/A 31040",
-      "comune": "NERVESA DELLA BATTAGLIA",
-      "prov": "TV",
-      "lat": 45.809271,
-      "lon": 12.249689,
-      "prezzi": {
-        "Benzina_serv": 2.159,
-        "Benzina_self": 2.059,
-        "Gasolio_serv": 2.359,
-        "Gasolio_self": 2.259,
-        "GPL_serv": 0.799,
-        "DieselMax_serv": 2.429,
-        "DieselMax_self": 2.329
-      },
-      "dist": 8.58
     },
     {
       "id": 21123,
@@ -1862,23 +1933,6 @@
       "dist": 3.88
     },
     {
-      "id": 5023,
-      "bandiera": "Termoveneta srl",
-      "nome": "Termoveneta srl (Caneva)",
-      "indirizzo": "VIA SACILE 45 33070",
-      "comune": "CANEVA",
-      "prov": "PN",
-      "lat": 45.975047,
-      "lon": 12.485975,
-      "prezzi": {
-        "Benzina_serv": 2.079,
-        "Benzina_self": 2.079,
-        "Gasolio_serv": 2.279,
-        "Gasolio_self": 2.279
-      },
-      "dist": 18.22
-    },
-    {
       "id": 12698,
       "bandiera": "Pompe Bianche",
       "nome": "CARBURANTI PIAVE di Cella Christian",
@@ -1932,21 +1986,6 @@
       "dist": 10.62
     },
     {
-      "id": 62421,
-      "bandiera": "Termoveneta srl",
-      "nome": "TERMOVENETA (ODERZO)",
-      "indirizzo": "VIA POSTUMIA DA CAMINO 12/A 31046",
-      "comune": "ODERZO",
-      "prov": "TV",
-      "lat": 45.784521,
-      "lon": 12.49672,
-      "prezzi": {
-        "Benzina_self": 2.079,
-        "Gasolio_self": 2.279
-      },
-      "dist": 12.94
-    },
-    {
       "id": 8853,
       "bandiera": "bioil",
       "nome": "Bioil",
@@ -1961,23 +2000,6 @@
         "GPL_serv": 0.765
       },
       "dist": 15.17
-    },
-    {
-      "id": 13967,
-      "bandiera": "Pompe Bianche",
-      "nome": "STOP&GO",
-      "indirizzo": "VIA ORTIGARA 106 31015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.869737,
-      "lon": 12.265924,
-      "prezzi": {
-        "Benzina_serv": 2.096,
-        "Benzina_self": 2.096,
-        "Gasolio_serv": 2.296,
-        "Gasolio_self": 2.296
-      },
-      "dist": 7.31
     },
     {
       "id": 46331,
@@ -2172,6 +2194,21 @@
       "dist": 13.48
     },
     {
+      "id": 15214,
+      "bandiera": "Pompe Bianche",
+      "nome": "SOTTANA",
+      "indirizzo": "VIA SAN ROCCO 40 31040",
+      "comune": "GIAVERA DEL MONTELLO",
+      "prov": "TV",
+      "lat": 45.785625,
+      "lon": 12.178707,
+      "prezzi": {
+        "Benzina_self": 2.112,
+        "Gasolio_self": 2.312
+      },
+      "dist": 14.68
+    },
+    {
       "id": 13485,
       "bandiera": "Pompe Bianche",
       "nome": "LORO",
@@ -2187,21 +2224,6 @@
         "Gasolio_self": 2.329
       },
       "dist": 15.1
-    },
-    {
-      "id": 15214,
-      "bandiera": "Pompe Bianche",
-      "nome": "SOTTANA",
-      "indirizzo": "VIA SAN ROCCO 40 31040",
-      "comune": "GIAVERA DEL MONTELLO",
-      "prov": "TV",
-      "lat": 45.785625,
-      "lon": 12.178707,
-      "prezzi": {
-        "Benzina_self": 2.186,
-        "Gasolio_self": 2.336
-      },
-      "dist": 14.68
     },
     {
       "id": 39656,
@@ -2256,28 +2278,6 @@
         "Gasolio_self": 2.338
       },
       "dist": 15.5
-    },
-    {
-      "id": 48562,
-      "bandiera": "Q8",
-      "nome": "Stazione di servizio Simor",
-      "indirizzo": "248 Schiavonesca-Marosticana, Km. 70+200, lato sinistro - 31040",
-      "comune": "GIAVERA DEL MONTELLO",
-      "prov": "TV",
-      "lat": 45.791549,
-      "lon": 12.158491,
-      "prezzi": {
-        "Benzina_serv": 2.339,
-        "Benzina_self": 2.189,
-        "Gasolio_serv": 2.489,
-        "Gasolio_self": 2.339,
-        "GPL_serv": 0.775,
-        "Hi-Q Diesel_serv": 2.789,
-        "Hi-Q Diesel_self": 2.639,
-        "HiQ Perform+_serv": 2.639,
-        "HiQ Perform+_self": 2.489
-      },
-      "dist": 15.87
     },
     {
       "id": 20215,
@@ -2601,7 +2601,7 @@
       "prezzi": {
         "Benzina_serv": 2.179,
         "Gasolio_serv": 2.379,
-        "GPL_serv": 0.694,
+        "GPL_serv": 0.749,
         "Benzina Energy 98 ottani_serv": 2.279,
         "Gasolio Energy D_serv": 2.479
       },
@@ -2712,7 +2712,7 @@
       "lat": 45.790864,
       "lon": 12.488017,
       "prezzi": {
-        "Benzina_serv": 2.168,
+        "Benzina_serv": 2.138,
         "Gasolio_serv": 2.318,
         "Gasolio speciale_serv": 2.438
       },
