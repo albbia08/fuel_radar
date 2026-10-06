@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-05T17:23:48.966347+00:00",
+  "aggiornato": "2026-10-06T15:26:21.479678+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -1134,6 +1134,23 @@
       "dist": 10.45
     },
     {
+      "id": 12813,
+      "bandiera": "Costantin",
+      "nome": "COSTANTIN",
+      "indirizzo": "VIALE DELLA REPUBBLICA 278 31100",
+      "comune": "TREVISO",
+      "prov": "TV",
+      "lat": 45.689769,
+      "lon": 12.248934,
+      "prezzi": {
+        "Benzina_serv": 1.999,
+        "Benzina_self": 1.999,
+        "Gasolio_serv": 2.199,
+        "Gasolio_self": 2.199
+      },
+      "dist": 18.57
+    },
+    {
       "id": 7962,
       "bandiera": "Tamoil",
       "nome": "v.le della repubblica 216 31100 treviso",
@@ -1496,7 +1513,7 @@
         "Benzina_self": 2.077,
         "Gasolio_serv": 2.237,
         "Gasolio_self": 2.237,
-        "GPL_serv": 0.765
+        "GPL_serv": 0.755
       },
       "dist": 11.11
     },
@@ -1851,6 +1868,23 @@
       "dist": 5.06
     },
     {
+      "id": 10848,
+      "bandiera": "Energyca",
+      "nome": "STAZIONE DI SERVIZIO ENERGYCA",
+      "indirizzo": "VIALE VENEZIA 28 31015",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.874102,
+      "lon": 12.281546,
+      "prezzi": {
+        "Benzina_serv": 2.098,
+        "Benzina_self": 2.098,
+        "Gasolio_serv": 2.268,
+        "Gasolio_self": 2.268
+      },
+      "dist": 6.5
+    },
+    {
       "id": 4115,
       "bandiera": "Trivengas",
       "nome": "Trivengas",
@@ -2040,23 +2074,6 @@
         "Gasolio speciale_self": 2.418
       },
       "dist": 15.94
-    },
-    {
-      "id": 10848,
-      "bandiera": "Energyca",
-      "nome": "STAZIONE DI SERVIZIO ENERGYCA",
-      "indirizzo": "VIALE VENEZIA 28 31015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.874102,
-      "lon": 12.281546,
-      "prezzi": {
-        "Benzina_serv": 2.098,
-        "Benzina_self": 2.098,
-        "Gasolio_serv": 2.298,
-        "Gasolio_self": 2.298
-      },
-      "dist": 6.5
     },
     {
       "id": 56060,
@@ -2280,6 +2297,26 @@
       "dist": 15.5
     },
     {
+      "id": 53443,
+      "bandiera": "Q8",
+      "nome": "Q8 Colle Umberto",
+      "indirizzo": "BOSCHETTA 20 31014",
+      "comune": "COLLE UMBERTO",
+      "prov": "TV",
+      "lat": 45.957619,
+      "lon": 12.350211,
+      "prezzi": {
+        "Benzina_serv": 2.359,
+        "Benzina_self": 2.149,
+        "Gasolio_serv": 2.549,
+        "Gasolio_self": 2.339,
+        "GPL_serv": 0.749,
+        "HiQ Perform+_serv": 2.699,
+        "HiQ Perform+_self": 2.519
+      },
+      "dist": 12.98
+    },
+    {
       "id": 20215,
       "bandiera": "Energyca",
       "nome": "ENERGYCA",
@@ -2420,26 +2457,6 @@
       "dist": 11.84
     },
     {
-      "id": 53443,
-      "bandiera": "Q8",
-      "nome": "Q8 Colle Umberto",
-      "indirizzo": "BOSCHETTA 20 31014",
-      "comune": "COLLE UMBERTO",
-      "prov": "TV",
-      "lat": 45.957619,
-      "lon": 12.350211,
-      "prezzi": {
-        "Benzina_serv": 2.409,
-        "Benzina_self": 2.199,
-        "Gasolio_serv": 2.609,
-        "Gasolio_self": 2.399,
-        "GPL_serv": 0.749,
-        "HiQ Perform+_serv": 2.699,
-        "HiQ Perform+_self": 2.519
-      },
-      "dist": 12.98
-    },
-    {
       "id": 36253,
       "bandiera": "Sarni Oil",
       "nome": "CERVADA EST",
@@ -2493,23 +2510,6 @@
         "REHVO_self": 2.384
       },
       "dist": 11.1
-    },
-    {
-      "id": 12813,
-      "bandiera": "Costantin",
-      "nome": "COSTANTIN",
-      "indirizzo": "VIALE DELLA REPUBBLICA 278 31100",
-      "comune": "TREVISO",
-      "prov": "TV",
-      "lat": 45.689769,
-      "lon": 12.248934,
-      "prezzi": {
-        "Benzina_serv": 2.199,
-        "Benzina_self": 2.199,
-        "Gasolio_serv": 2.399,
-        "Gasolio_self": 2.399
-      },
-      "dist": 18.57
     },
     {
       "id": 55024,
@@ -2618,7 +2618,7 @@
       "lon": 12.180162,
       "prezzi": {
         "Benzina_serv": 2.178,
-        "Gasolio_serv": 2.398,
+        "Gasolio_serv": 2.368,
         "GPL_serv": 0.732
       },
       "dist": 19.87
@@ -2887,8 +2887,8 @@
       "lat": 45.741229,
       "lon": 12.23378,
       "prezzi": {
-        "Benzina_serv": 2.199,
-        "Gasolio_serv": 2.399
+        "Benzina_serv": 1.999,
+        "Gasolio_serv": 2.199
       },
       "dist": 14.32
     },
