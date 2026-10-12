@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-11T15:04:04.856382+00:00",
+  "aggiornato": "2026-10-12T18:12:10.041751+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -102,6 +102,21 @@
       "dist": 17.81
     },
     {
+      "id": 48378,
+      "bandiera": "Agip Eni",
+      "nome": "13616 - ENI MEDUNA DI LIVENZA",
+      "indirizzo": "VIA ROMA 75 31040",
+      "comune": "MEDUNA DI LIVENZA",
+      "prov": "TV",
+      "lat": 45.819159,
+      "lon": 12.601154,
+      "prezzi": {
+        "Benzina_self": 1.99,
+        "Gasolio_self": 2.19
+      },
+      "dist": 19.56
+    },
+    {
       "id": 29332,
       "bandiera": "Agip Eni",
       "nome": "PV 52772",
@@ -131,6 +146,26 @@
         "Gasolio_self": 2.19
       },
       "dist": 16.43
+    },
+    {
+      "id": 35741,
+      "bandiera": "Agip Eni",
+      "nome": "STAZ. ENI MARCON ALDO DI MORENO E RENZO MARCON SNC",
+      "indirizzo": "VIA POSTUMIA OVEST 65 31048",
+      "comune": "SAN BIAGIO DI CALLALTA",
+      "prov": "TV",
+      "lat": 45.680746,
+      "lon": 12.349931,
+      "prezzi": {
+        "Benzina_serv": 2.19,
+        "Benzina_self": 1.99,
+        "Gasolio_serv": 2.39,
+        "Gasolio_self": 2.19,
+        "GPL_serv": 0.759,
+        "Blue Diesel_serv": 2.49,
+        "Blue Diesel_self": 2.29
+      },
+      "dist": 17.81
     },
     {
       "id": 35140,
@@ -248,6 +283,28 @@
       "dist": 16.73
     },
     {
+      "id": 31280,
+      "bandiera": "Agip Eni",
+      "nome": "SS13 Service di Cenedese Eugenia",
+      "indirizzo": "Statale 13 Pontebbana, Km. 46, dir. treviso - 31015",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.867828,
+      "lon": 12.273287,
+      "prezzi": {
+        "Benzina_serv": 2.205,
+        "Benzina_self": 1.995,
+        "Gasolio_serv": 2.465,
+        "Gasolio_self": 2.195,
+        "Blue Super_serv": 2.355,
+        "Blue Super_self": 2.145,
+        "Blue Diesel_serv": 2.565,
+        "Blue Diesel_self": 2.295,
+        "HVOlution_self": 2.195
+      },
+      "dist": 6.7
+    },
+    {
       "id": 15091,
       "bandiera": "Agip Eni",
       "nome": "RWM SNC",
@@ -341,23 +398,6 @@
       "dist": 12.82
     },
     {
-      "id": 62630,
-      "bandiera": "AZZALINI ENERGIE",
-      "nome": "Azzalini Energie Colle Umberto",
-      "indirizzo": "Via MenarÃ¨",
-      "comune": "COLLE UMBERTO",
-      "prov": "TV",
-      "lat": 45.943523,
-      "lon": 12.323323,
-      "prezzi": {
-        "Benzina_serv": 2.029,
-        "Benzina_self": 1.999,
-        "Gasolio_serv": 2.239,
-        "Gasolio_self": 2.209
-      },
-      "dist": 11.61
-    },
-    {
       "id": 5010,
       "bandiera": "Termoveneta srl",
       "nome": "Termoveneta srl (Cordignano)",
@@ -388,7 +428,7 @@
         "Benzina_self": 1.99,
         "Gasolio_serv": 2.42,
         "Gasolio_self": 2.21,
-        "GPL_serv": 0.699,
+        "GPL_serv": 0.739,
         "Blue Diesel_serv": 2.739,
         "Blue Diesel_self": 2.529
       },
@@ -415,21 +455,6 @@
       "dist": 9.88
     },
     {
-      "id": 48378,
-      "bandiera": "Agip Eni",
-      "nome": "13616 - ENI MEDUNA DI LIVENZA",
-      "indirizzo": "VIA ROMA 75 31040",
-      "comune": "MEDUNA DI LIVENZA",
-      "prov": "TV",
-      "lat": 45.819159,
-      "lon": 12.601154,
-      "prezzi": {
-        "Benzina_self": 1.99,
-        "Gasolio_self": 2.21
-      },
-      "dist": 19.56
-    },
-    {
       "id": 34460,
       "bandiera": "Agip Eni",
       "nome": "Esso",
@@ -447,26 +472,6 @@
         "Blue Diesel_self": 2.419
       },
       "dist": 15.81
-    },
-    {
-      "id": 35741,
-      "bandiera": "Agip Eni",
-      "nome": "STAZ. ENI MARCON ALDO DI MORENO E RENZO MARCON SNC",
-      "indirizzo": "VIA POSTUMIA OVEST 65 31048",
-      "comune": "SAN BIAGIO DI CALLALTA",
-      "prov": "TV",
-      "lat": 45.680746,
-      "lon": 12.349931,
-      "prezzi": {
-        "Benzina_serv": 2.19,
-        "Benzina_self": 1.99,
-        "Gasolio_serv": 2.41,
-        "Gasolio_self": 2.21,
-        "GPL_serv": 0.759,
-        "Blue Diesel_serv": 2.51,
-        "Blue Diesel_self": 2.31
-      },
-      "dist": 17.81
     },
     {
       "id": 18685,
@@ -506,28 +511,6 @@
       "dist": 5.55
     },
     {
-      "id": 31280,
-      "bandiera": "Agip Eni",
-      "nome": "SS13 Service di Cenedese Eugenia",
-      "indirizzo": "Statale 13 Pontebbana, Km. 46, dir. treviso - 31015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.867828,
-      "lon": 12.273287,
-      "prezzi": {
-        "Benzina_serv": 2.205,
-        "Benzina_self": 1.995,
-        "Gasolio_serv": 2.465,
-        "Gasolio_self": 2.215,
-        "Blue Super_serv": 2.355,
-        "Blue Super_self": 2.145,
-        "Blue Diesel_serv": 2.565,
-        "Blue Diesel_self": 2.315,
-        "HVOlution_self": 2.215
-      },
-      "dist": 6.7
-    },
-    {
       "id": 17802,
       "bandiera": "Agip Eni",
       "nome": "ENI",
@@ -550,6 +533,27 @@
       "dist": 14.83
     },
     {
+      "id": 38333,
+      "bandiera": "Agip Eni",
+      "nome": "03627",
+      "indirizzo": "VIA POSTUMIA OVEST 82 31048",
+      "comune": "SAN BIAGIO DI CALLALTA",
+      "prov": "TV",
+      "lat": 45.675588,
+      "lon": 12.335781,
+      "prezzi": {
+        "Benzina_serv": 2.205,
+        "Benzina_self": 1.995,
+        "Gasolio_serv": 2.425,
+        "Gasolio_self": 2.215,
+        "Blue Super_self": 2.145,
+        "Blue Diesel_self": 2.315,
+        "HVOlution_serv": 2.405,
+        "HVOlution_self": 2.215
+      },
+      "dist": 18.42
+    },
+    {
       "id": 5023,
       "bandiera": "Termoveneta srl",
       "nome": "Termoveneta srl (Caneva)",
@@ -565,24 +569,6 @@
         "Gasolio_self": 2.229
       },
       "dist": 18.22
-    },
-    {
-      "id": 50178,
-      "bandiera": "Oil Italia",
-      "nome": "OIL ITALIA FONTANELLE",
-      "indirizzo": "Via Vallonto 52 31043",
-      "comune": "FONTANELLE",
-      "prov": "TV",
-      "lat": 45.856603,
-      "lon": 12.474332,
-      "prezzi": {
-        "Benzina_serv": 1.999,
-        "Benzina_self": 1.999,
-        "Gasolio_serv": 2.229,
-        "Gasolio_self": 2.229,
-        "GPL_serv": 0.735
-      },
-      "dist": 9.73
     },
     {
       "id": 62421,
@@ -665,6 +651,23 @@
       "dist": 5.52
     },
     {
+      "id": 62630,
+      "bandiera": "AZZALINI ENERGIE",
+      "nome": "Azzalini Energie Colle Umberto",
+      "indirizzo": "Via MenarÃ¨",
+      "comune": "COLLE UMBERTO",
+      "prov": "TV",
+      "lat": 45.943523,
+      "lon": 12.323323,
+      "prezzi": {
+        "Benzina_serv": 2.029,
+        "Benzina_self": 1.999,
+        "Gasolio_serv": 2.269,
+        "Gasolio_self": 2.239
+      },
+      "dist": 11.61
+    },
+    {
       "id": 21616,
       "bandiera": "MZ PETROLI",
       "nome": "MZ PETROLI  LUTRANO",
@@ -685,6 +688,24 @@
         "Gasolio speciale_self": 2.389
       },
       "dist": 10.38
+    },
+    {
+      "id": 50178,
+      "bandiera": "Oil Italia",
+      "nome": "OIL ITALIA FONTANELLE",
+      "indirizzo": "Via Vallonto 52 31043",
+      "comune": "FONTANELLE",
+      "prov": "TV",
+      "lat": 45.856603,
+      "lon": 12.474332,
+      "prezzi": {
+        "Benzina_serv": 1.999,
+        "Benzina_self": 1.999,
+        "Gasolio_serv": 2.239,
+        "Gasolio_self": 2.239,
+        "GPL_serv": 0.735
+      },
+      "dist": 9.73
     },
     {
       "id": 52517,
@@ -1508,27 +1529,6 @@
         "Gasolio speciale_self": 2.398
       },
       "dist": 13.0
-    },
-    {
-      "id": 38333,
-      "bandiera": "Agip Eni",
-      "nome": "03627",
-      "indirizzo": "VIA POSTUMIA OVEST 82 31048",
-      "comune": "SAN BIAGIO DI CALLALTA",
-      "prov": "TV",
-      "lat": 45.675588,
-      "lon": 12.335781,
-      "prezzi": {
-        "Benzina_serv": 2.205,
-        "Benzina_self": 1.995,
-        "Gasolio_serv": 2.465,
-        "Gasolio_self": 2.255,
-        "Blue Super_self": 2.145,
-        "Blue Diesel_self": 2.355,
-        "HVOlution_serv": 2.405,
-        "HVOlution_self": 2.255
-      },
-      "dist": 18.42
     },
     {
       "id": 16587,
