@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-14T14:00:55.907990+00:00",
+  "aggiornato": "2026-10-15T13:40:50.700087+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -262,6 +262,25 @@
       "dist": 17.1
     },
     {
+      "id": 54880,
+      "bandiera": "Agip Eni",
+      "nome": "FUEL FM",
+      "indirizzo": "ROMA 251 31020",
+      "comune": "VILLORBA",
+      "prov": "TV",
+      "lat": 45.735304,
+      "lon": 12.236667,
+      "prezzi": {
+        "Benzina_serv": 2.2,
+        "Benzina_self": 1.99,
+        "Gasolio_serv": 2.4,
+        "Gasolio_self": 2.19,
+        "Blue Diesel_serv": 2.649,
+        "Blue Diesel_self": 2.439
+      },
+      "dist": 14.7
+    },
+    {
       "id": 6320,
       "bandiera": "Agip Eni",
       "nome": "SCHIEVEN S.A.S.",
@@ -520,6 +539,23 @@
       "dist": 12.82
     },
     {
+      "id": 62630,
+      "bandiera": "AZZALINI ENERGIE",
+      "nome": "Azzalini Energie Colle Umberto",
+      "indirizzo": "Via MenarÃ¨",
+      "comune": "COLLE UMBERTO",
+      "prov": "TV",
+      "lat": 45.943523,
+      "lon": 12.323323,
+      "prezzi": {
+        "Benzina_serv": 2.029,
+        "Benzina_self": 1.999,
+        "Gasolio_serv": 2.229,
+        "Gasolio_self": 2.199
+      },
+      "dist": 11.61
+    },
+    {
       "id": 62493,
       "bandiera": "Api-Ip",
       "nome": "IP  41210",
@@ -550,6 +586,21 @@
         "Gasolio_self": 2.21
       },
       "dist": 14.49
+    },
+    {
+      "id": 53011,
+      "bandiera": "Api-Ip",
+      "nome": "PV. NERVESA DELLA BATTAGLIA - ITALIANA PETROLI",
+      "indirizzo": "LUNGO PIAVE 9 31040",
+      "comune": "NERVESA DELLA BATTAGLIA",
+      "prov": "TV",
+      "lat": 45.82376,
+      "lon": 12.21722,
+      "prezzi": {
+        "Benzina_self": 2.01,
+        "Gasolio_self": 2.211
+      },
+      "dist": 10.52
     },
     {
       "id": 5010,
@@ -627,23 +678,6 @@
         "Gasolio_self": 2.237
       },
       "dist": 9.33
-    },
-    {
-      "id": 62630,
-      "bandiera": "AZZALINI ENERGIE",
-      "nome": "Azzalini Energie Colle Umberto",
-      "indirizzo": "Via MenarÃ¨",
-      "comune": "COLLE UMBERTO",
-      "prov": "TV",
-      "lat": 45.943523,
-      "lon": 12.323323,
-      "prezzi": {
-        "Benzina_serv": 2.029,
-        "Benzina_self": 1.999,
-        "Gasolio_serv": 2.269,
-        "Gasolio_self": 2.239
-      },
-      "dist": 11.61
     },
     {
       "id": 50178,
@@ -782,24 +816,6 @@
       "dist": 11.1
     },
     {
-      "id": 16401,
-      "bandiera": "Pompe Bianche",
-      "nome": "RONCO Carburanti",
-      "indirizzo": "Via Negrisia 24 31024",
-      "comune": "ORMELLE",
-      "prov": "TV",
-      "lat": 45.751568,
-      "lon": 12.414942,
-      "prezzi": {
-        "Benzina_serv": 2.047,
-        "Benzina_self": 2.047,
-        "Gasolio_serv": 2.247,
-        "Gasolio_self": 2.247,
-        "GPL_serv": 0.755
-      },
-      "dist": 11.11
-    },
-    {
       "id": 32470,
       "bandiera": "Oil Italia",
       "nome": "OIL ITALIA SAN BIAGIO DI CALLALTA",
@@ -815,23 +831,6 @@
         "Gasolio_self": 2.247
       },
       "dist": 16.6
-    },
-    {
-      "id": 12269,
-      "bandiera": "Pompe Bianche",
-      "nome": "PINESE",
-      "indirizzo": "XVIII GIUGNO 1918 2 31058",
-      "comune": "SUSEGANA",
-      "prov": "TV",
-      "lat": 45.832059,
-      "lon": 12.226496,
-      "prezzi": {
-        "Benzina_serv": 2.039,
-        "Benzina_self": 2.039,
-        "Gasolio_serv": 2.248,
-        "Gasolio_self": 2.248
-      },
-      "dist": 9.67
     },
     {
       "id": 22355,
@@ -1024,6 +1023,22 @@
       "dist": 7.32
     },
     {
+      "id": 31530,
+      "bandiera": "Vega",
+      "nome": "VEGA GORGO AL MONTICANO",
+      "indirizzo": "VIA POSTUMIA DI SALA 36/37 31040",
+      "comune": "GORGO AL MONTICANO",
+      "prov": "TV",
+      "lat": 45.783496,
+      "lon": 12.571972,
+      "prezzi": {
+        "Benzina_self": 1.999,
+        "Gasolio_self": 2.249,
+        "DieselMax_self": 2.319
+      },
+      "dist": 18.3
+    },
+    {
       "id": 7281,
       "bandiera": "Q8",
       "nome": "MANSUE' - STRADA PROV PER ODERZO",
@@ -1212,40 +1227,6 @@
       "dist": 17.44
     },
     {
-      "id": 53011,
-      "bandiera": "Api-Ip",
-      "nome": "PV. NERVESA DELLA BATTAGLIA - ITALIANA PETROLI",
-      "indirizzo": "LUNGO PIAVE 9 31040",
-      "comune": "NERVESA DELLA BATTAGLIA",
-      "prov": "TV",
-      "lat": 45.82376,
-      "lon": 12.21722,
-      "prezzi": {
-        "Benzina_self": 1.99,
-        "Gasolio_self": 2.25
-      },
-      "dist": 10.52
-    },
-    {
-      "id": 54880,
-      "bandiera": "Agip Eni",
-      "nome": "FUEL FM",
-      "indirizzo": "ROMA 251 31020",
-      "comune": "VILLORBA",
-      "prov": "TV",
-      "lat": 45.735304,
-      "lon": 12.236667,
-      "prezzi": {
-        "Benzina_serv": 2.2,
-        "Benzina_self": 1.99,
-        "Gasolio_serv": 2.46,
-        "Gasolio_self": 2.25,
-        "Blue Diesel_serv": 2.709,
-        "Blue Diesel_self": 2.499
-      },
-      "dist": 14.7
-    },
-    {
       "id": 11771,
       "bandiera": "Q8",
       "nome": "SACILE-VIALE DELLA REPUBBLICA 36",
@@ -1385,26 +1366,6 @@
       "dist": 11.8
     },
     {
-      "id": 56060,
-      "bandiera": "Energyca",
-      "nome": "Energyca Francenigo",
-      "indirizzo": "PER BRUGNERA 10/A 31018",
-      "comune": "GAIARINE",
-      "prov": "TV",
-      "lat": 45.901414,
-      "lon": 12.494438,
-      "prezzi": {
-        "Benzina_serv": 2.148,
-        "Benzina_self": 2.098,
-        "Gasolio_serv": 2.305,
-        "Gasolio_self": 2.255,
-        "GPL_serv": 0.798,
-        "Gasolio speciale_serv": 2.448,
-        "Gasolio speciale_self": 2.398
-      },
-      "dist": 13.0
-    },
-    {
       "id": 13967,
       "bandiera": "Pompe Bianche",
       "nome": "STOP&GO",
@@ -1420,6 +1381,24 @@
         "Gasolio_self": 2.256
       },
       "dist": 7.31
+    },
+    {
+      "id": 16401,
+      "bandiera": "Pompe Bianche",
+      "nome": "RONCO Carburanti",
+      "indirizzo": "Via Negrisia 24 31024",
+      "comune": "ORMELLE",
+      "prov": "TV",
+      "lat": 45.751568,
+      "lon": 12.414942,
+      "prezzi": {
+        "Benzina_serv": 2.047,
+        "Benzina_self": 2.047,
+        "Gasolio_serv": 2.257,
+        "Gasolio_self": 2.257,
+        "GPL_serv": 0.755
+      },
+      "dist": 11.11
     },
     {
       "id": 11221,
@@ -1466,66 +1445,12 @@
       "lat": 45.876318,
       "lon": 12.313257,
       "prezzi": {
-        "Benzina_self": 2.019,
+        "Benzina_self": 1.999,
         "Gasolio_self": 2.259,
         "Metano_serv": 2.099,
         "GPL_serv": 0.759
       },
       "dist": 4.89
-    },
-    {
-      "id": 62492,
-      "bandiera": "Tamoil",
-      "nome": "Tocchet Moreno",
-      "indirizzo": "CRISTOFORO COLOMBO 14 31010",
-      "comune": "GODEGA DI SANT'URBANO",
-      "prov": "TV",
-      "lat": 45.930121,
-      "lon": 12.376191,
-      "prezzi": {
-        "Benzina_serv": 2.179,
-        "Benzina_self": 2.019,
-        "Gasolio_serv": 2.419,
-        "Gasolio_self": 2.259
-      },
-      "dist": 10.12
-    },
-    {
-      "id": 31530,
-      "bandiera": "Vega",
-      "nome": "VEGA GORGO AL MONTICANO",
-      "indirizzo": "VIA POSTUMIA DI SALA 36/37 31040",
-      "comune": "GORGO AL MONTICANO",
-      "prov": "TV",
-      "lat": 45.783496,
-      "lon": 12.571972,
-      "prezzi": {
-        "Benzina_self": 1.999,
-        "Gasolio_self": 2.259,
-        "DieselMax_self": 2.329
-      },
-      "dist": 18.3
-    },
-    {
-      "id": 32454,
-      "bandiera": "Tamoil",
-      "nome": "STAZ. SERVIZIO REPSOL",
-      "indirizzo": "Statale 13 Pontebbana, Km. 5, dir. N - 31040",
-      "comune": "NERVESA DELLA BATTAGLIA",
-      "prov": "TV",
-      "lat": 45.804145,
-      "lon": 12.251364,
-      "prezzi": {
-        "Benzina_serv": 1.999,
-        "Benzina_self": 1.999,
-        "Gasolio_serv": 2.259,
-        "Gasolio_self": 2.259,
-        "Benzina WR 100_serv": 2.289,
-        "Benzina WR 100_self": 2.149,
-        "HVO_serv": 2.229,
-        "HVO_self": 2.229
-      },
-      "dist": 8.72
     },
     {
       "id": 21307,
@@ -1760,6 +1685,23 @@
       "dist": 5.06
     },
     {
+      "id": 12269,
+      "bandiera": "Pompe Bianche",
+      "nome": "PINESE",
+      "indirizzo": "XVIII GIUGNO 1918 2 31058",
+      "comune": "SUSEGANA",
+      "prov": "TV",
+      "lat": 45.832059,
+      "lon": 12.226496,
+      "prezzi": {
+        "Benzina_serv": 2.069,
+        "Benzina_self": 2.069,
+        "Gasolio_serv": 2.268,
+        "Gasolio_self": 2.268
+      },
+      "dist": 9.67
+    },
+    {
       "id": 50883,
       "bandiera": "Bogoni",
       "nome": "BOGONI ALFONSO & C. - S.A.S. DI BOGONI CARLO & C. (PRATA)",
@@ -1779,23 +1721,6 @@
         "HVO_self": 2.255
       },
       "dist": 19.1
-    },
-    {
-      "id": 16587,
-      "bandiera": "Energyca",
-      "nome": "Energyca Rua di Feletto",
-      "indirizzo": "CASTELLA 7 31020",
-      "comune": "SAN PIETRO DI FELETTO",
-      "prov": "TV",
-      "lat": 45.914906,
-      "lon": 12.252873,
-      "prezzi": {
-        "Benzina_serv": 2.098,
-        "Benzina_self": 2.098,
-        "Gasolio_serv": 2.278,
-        "Gasolio_self": 2.278
-      },
-      "dist": 11.18
     },
     {
       "id": 14603,
@@ -1866,6 +1791,44 @@
       "dist": 14.68
     },
     {
+      "id": 62492,
+      "bandiera": "Tamoil",
+      "nome": "Tocchet Moreno",
+      "indirizzo": "CRISTOFORO COLOMBO 14 31010",
+      "comune": "GODEGA DI SANT'URBANO",
+      "prov": "TV",
+      "lat": 45.930121,
+      "lon": 12.376191,
+      "prezzi": {
+        "Benzina_serv": 2.189,
+        "Benzina_self": 2.029,
+        "Gasolio_serv": 2.439,
+        "Gasolio_self": 2.279
+      },
+      "dist": 10.12
+    },
+    {
+      "id": 32454,
+      "bandiera": "Tamoil",
+      "nome": "STAZ. SERVIZIO REPSOL",
+      "indirizzo": "Statale 13 Pontebbana, Km. 5, dir. N - 31040",
+      "comune": "NERVESA DELLA BATTAGLIA",
+      "prov": "TV",
+      "lat": 45.804145,
+      "lon": 12.251364,
+      "prezzi": {
+        "Benzina_serv": 2.019,
+        "Benzina_self": 2.019,
+        "Gasolio_serv": 2.279,
+        "Gasolio_self": 2.279,
+        "Benzina WR 100_serv": 2.169,
+        "Benzina WR 100_self": 2.169,
+        "HVO_serv": 2.249,
+        "HVO_self": 2.249
+      },
+      "dist": 8.72
+    },
+    {
       "id": 12813,
       "bandiera": "Costantin",
       "nome": "COSTANTIN",
@@ -1875,8 +1838,8 @@
       "lat": 45.689769,
       "lon": 12.248934,
       "prezzi": {
-        "Benzina_serv": 1.999,
-        "Benzina_self": 1.999,
+        "Benzina_serv": 2.019,
+        "Benzina_self": 2.019,
         "Gasolio_serv": 2.28,
         "Gasolio_self": 2.28
       },
@@ -2060,6 +2023,43 @@
         "Gasolio_self": 2.298
       },
       "dist": 6.5
+    },
+    {
+      "id": 56060,
+      "bandiera": "Energyca",
+      "nome": "Energyca Francenigo",
+      "indirizzo": "PER BRUGNERA 10/A 31018",
+      "comune": "GAIARINE",
+      "prov": "TV",
+      "lat": 45.901414,
+      "lon": 12.494438,
+      "prezzi": {
+        "Benzina_serv": 2.148,
+        "Benzina_self": 2.098,
+        "Gasolio_serv": 2.348,
+        "Gasolio_self": 2.298,
+        "GPL_serv": 0.798,
+        "Gasolio speciale_serv": 2.448,
+        "Gasolio speciale_self": 2.398
+      },
+      "dist": 13.0
+    },
+    {
+      "id": 16587,
+      "bandiera": "Energyca",
+      "nome": "Energyca Rua di Feletto",
+      "indirizzo": "CASTELLA 7 31020",
+      "comune": "SAN PIETRO DI FELETTO",
+      "prov": "TV",
+      "lat": 45.914906,
+      "lon": 12.252873,
+      "prezzi": {
+        "Benzina_serv": 2.098,
+        "Benzina_self": 2.098,
+        "Gasolio_serv": 2.298,
+        "Gasolio_self": 2.298
+      },
+      "dist": 11.18
     },
     {
       "id": 49064,
@@ -2334,8 +2334,8 @@
       "lat": 45.906009,
       "lon": 12.3365,
       "prezzi": {
-        "Benzina_serv": 2.189,
-        "Benzina_self": 2.099,
+        "Benzina_serv": 2.159,
+        "Benzina_self": 2.069,
         "Gasolio_serv": 2.389,
         "Gasolio_self": 2.299
       },
@@ -2618,7 +2618,7 @@
       "prezzi": {
         "Benzina_serv": 1.99,
         "Gasolio_serv": 2.249,
-        "GPL_serv": 0.732
+        "GPL_serv": 0.762
       },
       "dist": 19.87
     },
@@ -2697,7 +2697,7 @@
       "lat": 45.762674,
       "lon": 12.484398,
       "prezzi": {
-        "Metano_serv": 1.999
+        "Metano_serv": 2.099
       },
       "dist": 13.53
     },
@@ -2762,8 +2762,8 @@
       "lat": 45.716039,
       "lon": 12.208991,
       "prezzi": {
-        "Benzina_serv": 2.159,
-        "Gasolio_serv": 2.289,
+        "Benzina_serv": 2.099,
+        "Gasolio_serv": 2.379,
         "Benzina speciale_serv": 2.299
       },
       "dist": 17.71
@@ -2813,8 +2813,8 @@
       "prezzi": {
         "Benzina_serv": 2.059,
         "Benzina_self": 2.059,
-        "HVO_serv": 2.259,
-        "HVO_self": 2.259
+        "HVO_serv": 2.269,
+        "HVO_self": 2.269
       },
       "dist": 16.69
     },
@@ -2829,7 +2829,7 @@
       "lon": 12.248808,
       "prezzi": {
         "Metano_serv": 1.529,
-        "GPL_serv": 0.739
+        "GPL_serv": 0.779
       },
       "dist": 8.51
     },
