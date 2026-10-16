@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-15T13:40:50.700087+00:00",
+  "aggiornato": "2026-10-16T13:30:58.966938+00:00",
   "centro": {
     "lat": 45.8409,
     "lon": 12.3507,
@@ -338,8 +338,8 @@
         "Gasolio_serv": 2.399,
         "Gasolio_self": 2.19,
         "GPL_serv": 0.799,
-        "Blue Super_serv": 2.408,
-        "Blue Super_self": 2.199,
+        "Blue Super_serv": 2.499,
+        "Blue Super_self": 2.29,
         "Blue Diesel_serv": 2.619,
         "Blue Diesel_self": 2.41
       },
@@ -629,7 +629,7 @@
       "lat": 45.784521,
       "lon": 12.49672,
       "prezzi": {
-        "Benzina_self": 2.029,
+        "Benzina_self": 1.989,
         "Gasolio_self": 2.229
       },
       "dist": 12.94
@@ -663,6 +663,25 @@
         "Gasolio_self": 2.23
       },
       "dist": 14.49
+    },
+    {
+      "id": 51277,
+      "bandiera": "Api-Ip",
+      "nome": "IP ORMELLE(TV)",
+      "indirizzo": "VIA ROMA 25 31024",
+      "comune": "ORMELLE",
+      "prov": "TV",
+      "lat": 45.780111,
+      "lon": 12.417262,
+      "prezzi": {
+        "Benzina_serv": 2.239,
+        "Benzina_self": 2.039,
+        "Gasolio_serv": 2.431,
+        "Gasolio_self": 2.231,
+        "Excellium Diesel_serv": 2.431,
+        "Excellium Diesel_self": 2.231
+      },
+      "dist": 8.5
     },
     {
       "id": 7486,
@@ -717,25 +736,6 @@
         "Gasolio speciale_self": 2.339
       },
       "dist": 1.22
-    },
-    {
-      "id": 51277,
-      "bandiera": "Api-Ip",
-      "nome": "IP ORMELLE(TV)",
-      "indirizzo": "VIA ROMA 25 31024",
-      "comune": "ORMELLE",
-      "prov": "TV",
-      "lat": 45.780111,
-      "lon": 12.417262,
-      "prezzi": {
-        "Benzina_serv": 2.239,
-        "Benzina_self": 2.039,
-        "Gasolio_serv": 2.439,
-        "Gasolio_self": 2.239,
-        "Excellium Diesel_serv": 2.439,
-        "Excellium Diesel_self": 2.239
-      },
-      "dist": 8.5
     },
     {
       "id": 52516,
@@ -1453,25 +1453,6 @@
       "dist": 4.89
     },
     {
-      "id": 21307,
-      "bandiera": "Tamoil",
-      "nome": "stellaambrozzodistellasonia",
-      "indirizzo": "I. LOLLINI 11 31040",
-      "comune": "NERVESA DELLA BATTAGLIA",
-      "prov": "TV",
-      "lat": 45.819095,
-      "lon": 12.201705,
-      "prezzi": {
-        "Benzina_serv": 2.099,
-        "Benzina_self": 1.999,
-        "Gasolio_serv": 2.359,
-        "Gasolio_self": 2.259,
-        "HVO_serv": 2.229,
-        "HVO_self": 2.229
-      },
-      "dist": 11.8
-    },
-    {
       "id": 31525,
       "bandiera": "Vega",
       "nome": "VEGA NERVESA DELLA BATTAGLIA",
@@ -1740,25 +1721,6 @@
       "dist": 19.29
     },
     {
-      "id": 12698,
-      "bandiera": "Pompe Bianche",
-      "nome": "CARBURANTI PIAVE di Cella Christian",
-      "indirizzo": "VIA STABIUZZO 14 31010",
-      "comune": "CIMADOLMO",
-      "prov": "TV",
-      "lat": 45.774518,
-      "lon": 12.370646,
-      "prezzi": {
-        "Benzina_serv": 2.099,
-        "Benzina_self": 2.099,
-        "Gasolio_serv": 2.279,
-        "Gasolio_self": 2.279,
-        "Gasolio speciale_serv": 2.379,
-        "Gasolio speciale_self": 2.379
-      },
-      "dist": 7.54
-    },
-    {
       "id": 4115,
       "bandiera": "Trivengas",
       "nome": "Trivengas",
@@ -1827,6 +1789,25 @@
         "HVO_self": 2.249
       },
       "dist": 8.72
+    },
+    {
+      "id": 21307,
+      "bandiera": "Tamoil",
+      "nome": "stellaambrozzodistellasonia",
+      "indirizzo": "I. LOLLINI 11 31040",
+      "comune": "NERVESA DELLA BATTAGLIA",
+      "prov": "TV",
+      "lat": 45.819095,
+      "lon": 12.201705,
+      "prezzi": {
+        "Benzina_serv": 2.119,
+        "Benzina_self": 2.019,
+        "Gasolio_serv": 2.379,
+        "Gasolio_self": 2.279,
+        "HVO_serv": 2.249,
+        "HVO_self": 2.249
+      },
+      "dist": 11.8
     },
     {
       "id": 12813,
@@ -2124,10 +2105,10 @@
       "lat": 45.926403,
       "lon": 12.552404,
       "prezzi": {
-        "Benzina_self": 2.129,
+        "Benzina_self": 2.099,
         "Gasolio_self": 2.299,
         "GPL_serv": 0.759,
-        "F101_self": 2.329,
+        "F101_self": 2.299,
         "GP DIESEL_self": 2.449
       },
       "dist": 18.28
@@ -2202,6 +2183,24 @@
         "Supreme Diesel_self": 2.419
       },
       "dist": 5.62
+    },
+    {
+      "id": 61704,
+      "bandiera": "San Marco Petroli",
+      "nome": "SMP CONEGLIANO, Viale Venezia",
+      "indirizzo": "Viale Venezia 105  31015",
+      "comune": "CONEGLIANO",
+      "prov": "TV",
+      "lat": 45.87094,
+      "lon": 12.278124,
+      "prezzi": {
+        "Benzina_self": 2.099,
+        "Gasolio_self": 2.299,
+        "GPL_serv": 0.799,
+        "F101_self": 2.299,
+        "REHVO_self": 2.284
+      },
+      "dist": 6.54
     },
     {
       "id": 47012,
@@ -2301,10 +2300,10 @@
         "Benzina_self": 2.099,
         "Gasolio_serv": 2.489,
         "Gasolio_self": 2.299,
-        "Benzina Shell V Power_serv": 2.399,
-        "Benzina Shell V Power_self": 2.349,
-        "Diesel Shell V Power_serv": 2.599,
-        "Diesel Shell V Power_self": 2.549
+        "Benzina Shell V Power_serv": 2.249,
+        "Benzina Shell V Power_self": 2.199,
+        "Diesel Shell V Power_serv": 2.449,
+        "Diesel Shell V Power_self": 2.399
       },
       "dist": 17.17
     },
@@ -2392,6 +2391,25 @@
         "Gasolio_self": 2.329
       },
       "dist": 15.1
+    },
+    {
+      "id": 12698,
+      "bandiera": "Pompe Bianche",
+      "nome": "CARBURANTI PIAVE di Cella Christian",
+      "indirizzo": "VIA STABIUZZO 14 31010",
+      "comune": "CIMADOLMO",
+      "prov": "TV",
+      "lat": 45.774518,
+      "lon": 12.370646,
+      "prezzi": {
+        "Benzina_serv": 2.069,
+        "Benzina_self": 2.069,
+        "Gasolio_serv": 2.349,
+        "Gasolio_self": 2.349,
+        "Gasolio speciale_serv": 2.449,
+        "Gasolio speciale_self": 2.449
+      },
+      "dist": 7.54
     },
     {
       "id": 40131,
@@ -2486,7 +2504,7 @@
       "lat": 45.690788,
       "lon": 12.292548,
       "prezzi": {
-        "Benzina_self": 2.159,
+        "Benzina_self": 2.099,
         "Gasolio_self": 2.399
       },
       "dist": 17.29
@@ -2511,24 +2529,6 @@
         "Gasolio speciale_self": 2.459
       },
       "dist": 12.91
-    },
-    {
-      "id": 61704,
-      "bandiera": "San Marco Petroli",
-      "nome": "SMP CONEGLIANO, Viale Venezia",
-      "indirizzo": "Viale Venezia 105  31015",
-      "comune": "CONEGLIANO",
-      "prov": "TV",
-      "lat": 45.87094,
-      "lon": 12.278124,
-      "prezzi": {
-        "Benzina_self": 2.199,
-        "Gasolio_self": 2.399,
-        "GPL_serv": 0.799,
-        "F101_self": 2.399,
-        "REHVO_self": 2.384
-      },
-      "dist": 6.54
     },
     {
       "id": 55024,
